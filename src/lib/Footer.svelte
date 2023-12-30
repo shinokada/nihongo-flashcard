@@ -9,6 +9,14 @@
           <Jp size={40} class="display: inline"/> 
           <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Japanese Flashcard</span>
         </a>
+        <ul class="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400 z-10">
+          <li>
+              <a href="/" class="text-md hover:underline me-4 md:me-6">Tango</a>
+          </li>
+          <li>
+            <a href="/onomatopoeia" class="text-md hover:underline me-4 md:me-6">Onomatopoeia</a>
+          </li>
+        </ul>
     </div>
   </div>
 </footer>

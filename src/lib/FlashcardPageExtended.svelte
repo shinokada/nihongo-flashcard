@@ -52,15 +52,20 @@
 			fn.call(this, event);
 		};
 	}
+
+	const norengCls = 'text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800'
+
+	const engnorCls ='focus:outline-none text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900'
 	
+	const nornorCls = 'focus:outline-none text-white bg-orange-700 hover:bg-orange-800 focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-orange-600 dark:hover:bg-orange-700 dark:focus:ring-orange-900'
 </script>
 
 <div class="flex flex-col items-center mt-15">
 	<h1 class="text-3xl m-4">{title}</h1>
 	<div class="flex justify-between">
-		<button type="button" class="text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800" on:click={() => updateLang('noreng')}>Norsk-English</button>
-		<button class="focus:outline-none text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900" on:click={() => updateLang('engnor')}>English-Norsk</button>
-		<button class="focus:outline-none text-white bg-orange-700 hover:bg-orange-800 focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-orange-600 dark:hover:bg-orange-700 dark:focus:ring-orange-900" on:click={() => updateLang('nornor')}>Norsk-Norsk</button>
+		<button type="button" class="{norengCls}" on:click={() => updateLang('noreng')}>Norsk-English</button>
+		<button class="{engnorCls}" on:click={() => updateLang('engnor')}>English-Norsk</button>
+		<button class="{nornorCls}" on:click={() => updateLang('nornor')}>Norsk-Norsk</button>
 	</div>
 	<!-- FLASHCARD -->
 	<div class="bg-transparent w-full md:w-2/3 h-96">

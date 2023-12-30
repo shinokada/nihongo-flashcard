@@ -3,6 +3,7 @@
 
 	import { Flashcard, ArrowLeft, ArrowRight } from '$lib';
   import { getRandomPair } from '$lib/utils.svelte.js';
+	import { twMerge } from 'tailwind-merge';
   let { dictionary, title="Flashcard", pFront, pBack } = $props()
 	let langlang = $state('japeng')
   let front = $state()
@@ -10,6 +11,8 @@
 	let showCardBack = $state(false)	
 	let showFront = $state('Vis norsk')
 	let showBack = $state('Show English')
+  let japengClass = $state("text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800 opacity-100");
+	let engjapClass = $state("focus:outline-none text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900 opacity-50");
 
 	const toggleShowBack = () => showCardBack = !showCardBack;
 
@@ -18,9 +21,13 @@
 		if (lang === 'japeng'){
 			showFront = '日本語'
 			showBack = 'English'
+			japengClass = twMerge(japengClass, 'opacity-100')
+			engjapClass = twMerge(engjapClass, 'opacity-50')
 		} else if (lang === 'engjap'){
       showFront = 'English'
 			showBack = '日本語'
+			japengClass = twMerge(japengClass, 'opacity-50')
+			engjapClass = twMerge(engjapClass, 'opacity-100')
 		}
 		showCardBack = false
     const { front: newFront, back: newBack } = getRandomPair(dictionary, lang);
@@ -47,13 +54,16 @@
 			fn.call(this, event);
 		};
 	}
+
+
+	
 </script>
 
 <div class="flex flex-col items-center mt-15">
 	<h1 class="text-3xl m-4">{title}</h1>
 	<div class="flex justify-between">
-		<button type="button" class="text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800" on:click={() => updateLang('japeng')}>Japanese-English</button>
-		<button class="focus:outline-none text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900" on:click={() => updateLang('engjap')}>English-Japanese</button>
+		<button type="button" class="{japengClass}" on:click={() => updateLang('japeng')}>Japanese-English</button>
+		<button class="{engjapClass}" on:click={() => updateLang('engjap')}>English-Japanese</button>
 	</div>
 	<!-- FLASHCARD -->
 	<div class="bg-transparent w-full md:w-2/3 h-96">
