@@ -76,7 +76,9 @@
 	<div class="flex justify-between">
 		<button type="button" class="{lang1lang2}" on:click={() => updateLang('japeng')}>Japanese-English</button>
 		<button class="{lang2lang1}" on:click={() => updateLang('engjap')}>English-Japanese</button>
+		{#if isVerb}
 		<button class="{lang1lang1}" on:click={() => updateLang('kanjap')}>Kanji-Hiragana</button>
+		{/if}
 	</div>
 	<!-- FLASHCARD -->
 	<div class="bg-transparent w-full md:w-2/3 h-96">
