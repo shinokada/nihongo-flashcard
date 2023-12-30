@@ -26,19 +26,6 @@
       <Jp size={50} class="display: inline"/> 
         <span class="self-center text-3xl font-semibold whitespace-nowrap dark:text-white">Japanese Flashcard</span>
     </a>
-    <button onclick={toggleNav} type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default">
-        <span class="sr-only">Open main menu</span>
-        <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
-            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"/>
-        </svg>
-    </button>
-    <div class="{navClass} w-full lg:block lg:w-auto" id="navbar-default">
-      <ul class="font-medium flex flex-col p-4 lg:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 lg:flex-row lg:space-x-8 rtl:space-x-reverse lg:mt-0 lg:border-0 bg-transparent dark:bg-gray-800 lg:dark:bg-gray-900 dark:border-gray-700">
-        <li>
-          <a href="/" onclick={closeNav} aria-current={$page.url.pathname === '/'} class="{$page.url.pathname === '/' ? activeStyle : linkStyle}">Tango</a>
-        </li>
-      </ul>
-    </div>
   </div>
 
 </nav>
