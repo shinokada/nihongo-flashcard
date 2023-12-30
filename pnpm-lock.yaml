@@ -38,6 +38,9 @@ devDependencies:
   eslint-plugin-svelte:
     specifier: ^2.35.1
     version: 2.35.1(eslint@8.56.0)(svelte@5.0.0-next.27)
+  pdfreader:
+    specifier: ^3.0.2
+    version: 3.0.2
   postcss:
     specifier: ^8.4.32
     version: 8.4.32
@@ -2427,6 +2430,21 @@ packages:
 
   /pathval@1.1.1:
     resolution: {integrity: sha512-Dp6zGqpTdETdR63lehJYPeIOqpiNBNtc7BpWSLrOje7UaIsE5aY92r/AunQA7rsXvet3lrJ3JnZX29UPTKXyKQ==}
+    dev: true
+
+  /pdf2json@3.0.1:
+    resolution: {integrity: sha512-1pNsakC8F+OuFS72U+ZI0u8J/voPYYDYHj/0B/7ywYUm3w0QurkDBy3pH35kzygjgmJJVHk2a9I6gBswFF8hQQ==}
+    engines: {node: '>=14.18.0', npm: '>=8.12.1'}
+    hasBin: true
+    dev: true
+    bundledDependencies:
+      - '@xmldom/xmldom'
+
+  /pdfreader@3.0.2:
+    resolution: {integrity: sha512-9Wo4B+Z/Gy0oePD/7du/M7W4D/lFhKq6wyApt02CDsp5YYyrJbzzRqIkXrNBmc2w0sfEkfsNzTjjMUV1R3jJnA==}
+    engines: {node: '>=14'}
+    dependencies:
+      pdf2json: 3.0.1
     dev: true
 
   /pend@1.2.0:
