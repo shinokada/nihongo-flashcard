@@ -4,4 +4,4 @@
   
 </script>
 
-<FlashcardPage {dictionary} title="日本語の単語"/>
+<FlashcardPage {dictionary} title="単語"/>

@@ -15,7 +15,8 @@
 		"test:unit": "vitest",
 		"threethousand": "node ./scripts/three-thousand.js",
 		"tango": "node ./scripts/tango.js",
-		"onomatopoeia": "node ./scripts/onomatopoeia.js"
+		"onomatopoeia": "node ./scripts/onomatopoeia.js",
+		"verbs": "node ./scripts/verbs.js"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.40.1",

@@ -38,6 +38,9 @@
           <a href="/" onclick={closeNav} aria-current={$page.url.pathname === '/'} class="{$page.url.pathname === '/' ? activeStyle : linkStyle}">Tango</a>
         </li>
         <li>
+          <a href="/verbs" onclick={closeNav} aria-current={$page.url.pathname === '/verbs'} class="{$page.url.pathname === '/verbs' ? activeStyle : linkStyle}">Verbs</a>
+        </li>
+        <li>
           <a href="/onomatopoeia" onclick={closeNav} aria-current={$page.url.pathname === '/onomatopoeia'} class="{$page.url.pathname === '/onomatopoeia' ? activeStyle : linkStyle}">Onomatopoeia</a>
         </li>
       </ul>

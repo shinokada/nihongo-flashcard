@@ -11,32 +11,59 @@ export function getRandomItemFromDictionary (dictionary) {
   };
 }
 
-// export function oldGetRandomPair(jsonData) {
-//   const randomIndex = Math.floor(Math.random() * jsonData.length);
-//   const randomPair = jsonData[randomIndex];
-//   const { norsk, english } = randomPair;
-//   return { norsk, english };
-// }
-
-export function getRandomPair(jsonData, langlang, isExplain = false) {
+export function getRandomPair(jsonData, langlang, isVerb = false ) {
   const randomIndex = Math.floor(Math.random() * jsonData.length);
   const randomPair = jsonData[randomIndex];
-  // console.log('randomPair', randomPair)
-  let front
-  let back
+  console.log('isVerb: ', isVerb)
+  let front, back, kanji, hiragana, romaji, english, japanese, reading
   
-  let { japanese, reading, english } = randomPair;
-  
+  if (isVerb) {
+    ({ kanji, hiragana, romaji, english } = randomPair);
+  } else {
+    ({ japanese, reading, english } = randomPair);
+  }
+
   if (langlang === 'japeng') {
-    front = `${japanese} (${reading})`;
+    if (isVerb) {
+      front = `${hiragana} (${kanji}, ${romaji})`;
+    } else { 
+      front = `${japanese} (${reading})`;
+    }
     back = english;
   } else if (langlang === 'engjap') {
     front = english;
-    back = `${japanese} (${reading})`;
+    if (isVerb) {
+      back = `${hiragana} (${kanji}, ${romaji})`;
+    } else {
+      back = `${japanese} (${reading})`;
+    }
+  } else if (langlang === 'kanjap' && isVerb) {
+    front = kanji
+    back = `${hiragana} (${romaji})`
   }
   // console.log(front, back)
   return { front, back };
 }
+
+// export function getRandomVerb(jsonData, langlang) {
+//   const randomIndex = Math.floor(Math.random() * jsonData.length);
+//   const randomPair = jsonData[randomIndex];
+//   console.log('randomPair', randomPair)
+//   let front
+//   let back
+  
+//   let { kanji, hiragana, romaji, english } = randomPair;
+
+//   if (langlang === 'japeng') {
+//     front = `${hiragana} (${kanji}, ${romaji})`;
+//     back = english;
+//   } else if (langlang === 'engjap') {
+//     front = english;
+//     back = `${hiragana} (${kanji}, ${romaji})`;
+//   }
+//   // console.log(front, back)
+//   return { front, back };
+// }
 
 
 export function openTab(word, website) {

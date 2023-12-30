@@ -7,8 +7,8 @@
 	let back = $state()
 	let explanation = $state()
 	let showCardBack = $state(false)	
-	let showFront = $state('Vis norsk')
-	let showBack = $state('Show English')
+	let showFront = $state()
+	let showBack = $state()
 
 	const toggleShowBack = () => showCardBack = !showCardBack;
 

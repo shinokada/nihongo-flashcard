@@ -1,18 +1,19 @@
 <script>
 	// import dictionary from '$lib/data/verbs.json';
 
-	import { Flashcard, ArrowLeft, ArrowRight } from '$lib';
+	import { Flashcard } from '$lib';
   import { getRandomPair } from '$lib/utils.svelte.js';
 	import { twMerge } from 'tailwind-merge';
-  let { dictionary, title="Flashcard", pFront, pBack } = $props()
+  let { dictionary, isVerb, title="Flashcard", pFront, pBack } = $props()
 	let langlang = $state('japeng')
   let front = $state()
 	let back = $state()
 	let showCardBack = $state(false)	
-	let showFront = $state('Vis norsk')
-	let showBack = $state('Show English')
+	let showFront = $state()
+	let showBack = $state()
   let lang1lang2 = $state("text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800 opacity-100");
 	let lang2lang1 = $state("focus:outline-none text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900 opacity-50");
+	let lang1lang1 = $state("focus:outline-none text-white bg-orange-700 hover:bg-orange-800 focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-orange-600 dark:hover:bg-orange-700 dark:focus:ring-orange-900 opacity-50")
 
 	const toggleShowBack = () => showCardBack = !showCardBack;
 
@@ -23,14 +24,28 @@
 			showBack = 'English'
 			lang1lang2 = twMerge(lang1lang2, 'opacity-100')
 			lang2lang1 = twMerge(lang2lang1, 'opacity-50')
+			if(isVerb){
+				lang1lang1 = twMerge(lang1lang1, 'opacity-50')
+			}
 		} else if (lang === 'engjap'){
       showFront = 'English'
 			showBack = '日本語'
 			lang1lang2 = twMerge(lang1lang2, 'opacity-50')
 			lang2lang1 = twMerge(lang2lang1, 'opacity-100')
+			if(isVerb){
+				lang1lang1 = twMerge(lang1lang1, 'opacity-50')
+			}
+		} else if (lang === 'kanjap'){
+			showFront = 'Kanji'
+			showBack = 'Hiragana'
+			lang1lang2 = twMerge(lang1lang2, 'opacity-50')
+			lang2lang1 = twMerge(lang2lang1, 'opacity-50')
+			if(isVerb){
+				lang1lang1 = twMerge(lang1lang1, 'opacity-100')
+			}
 		}
 		showCardBack = false
-    const { front: newFront, back: newBack } = getRandomPair(dictionary, lang);
+    const { front: newFront, back: newBack } = getRandomPair(dictionary, lang, isVerb);
     front = newFront
     back = newBack
   };
@@ -54,9 +69,6 @@
 			fn.call(this, event);
 		};
 	}
-
-
-	
 </script>
 
 <div class="flex flex-col items-center mt-15">
@@ -64,6 +76,7 @@
 	<div class="flex justify-between">
 		<button type="button" class="{lang1lang2}" on:click={() => updateLang('japeng')}>Japanese-English</button>
 		<button class="{lang2lang1}" on:click={() => updateLang('engjap')}>English-Japanese</button>
+		<button class="{lang1lang1}" on:click={() => updateLang('kanjap')}>Kanji-Hiragana</button>
 	</div>
 	<!-- FLASHCARD -->
 	<div class="bg-transparent w-full md:w-2/3 h-96">
