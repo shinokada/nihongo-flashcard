@@ -16,7 +16,8 @@
 		"threethousand": "node ./scripts/three-thousand.js",
 		"tango": "node ./scripts/tango.js",
 		"onomatopoeia": "node ./scripts/onomatopoeia.js",
-		"verbs": "node ./scripts/verbs.js"
+		"verbs": "node ./scripts/verbs.js",
+		"adjectives": "node ./scripts/adjectives.js"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.40.1",
