@@ -18,9 +18,15 @@ async function scrapeDictionaryData() {
         const cells = Array.from(row.querySelectorAll('td'));
 
         if (cells.length >= 4) {
-          const [japaneseElement, romajiElement, , englishCell] = cells;
+          const [firstTd, romajiElement, , englishCell] = cells;
 
-          const japanese = japaneseElement.querySelector('span[lang="ja"]')?.textContent?.trim() || '';
+          // const japanese = japaneseElement.querySelector('span[lang="ja"]')?.textContent?.trim() || '';
+          let japanese = '';
+          if (firstTd.querySelector('span[lang="ja"]')) {
+            japanese = firstTd.querySelector('span[lang="ja"]').textContent.trim();
+          } else {
+            japanese = firstTd.textContent.trim();
+          }
           const romaji = romajiElement.querySelector('i[lang="ja-Latn"]')?.textContent?.trim() || '';
           const english = englishCell.textContent.trim();
 
