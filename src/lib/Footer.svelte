@@ -14,6 +14,9 @@
               <a href="/" class="text-md hover:underline me-4 md:me-6">Tango</a>
           </li>
           <li>
+            <a href="/nouns" class="text-md hover:underline me-4 md:me-6">Nouns</a>
+          </li>
+          <li>
             <a href="/verbs" class="text-md hover:underline me-4 md:me-6">Verbs</a>
           </li>
           <li>

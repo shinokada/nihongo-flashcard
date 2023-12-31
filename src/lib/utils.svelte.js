@@ -14,7 +14,7 @@ export function getRandomItemFromDictionary (dictionary) {
 export function getRandomPair(jsonData, langlang, isVerb = false ) {
   const randomIndex = Math.floor(Math.random() * jsonData.length);
   const randomPair = jsonData[randomIndex];
-  console.log('isVerb: ', isVerb)
+  // console.log('isVerb: ', isVerb)
   let front, back, kanji, hiragana, romaji, english, japanese, reading
   
   if (isVerb) {

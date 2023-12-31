@@ -17,7 +17,8 @@
 		"tango": "node ./scripts/tango.js",
 		"onomatopoeia": "node ./scripts/onomatopoeia.js",
 		"verbs": "node ./scripts/verbs.js",
-		"adjectives": "node ./scripts/adjectives.js"
+		"adjectives": "node ./scripts/adjectives.js",
+		"nouns": "node ./scripts/nouns.js"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.40.1",

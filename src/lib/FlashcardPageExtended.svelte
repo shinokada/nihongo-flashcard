@@ -39,10 +39,10 @@
 	function handleKeyDown(event) {
 	if (event.key === 'ArrowLeft') {
 		toggleShowBack();
-		console.log('arrowleft pressed')
+		// console.log('arrowleft pressed')
 	} else if (event.key === 'ArrowRight') {
 		updateLang(langlang);
-		console.log('arrowright is pressed')
+		// console.log('arrowright is pressed')
 	}
 	}
 
