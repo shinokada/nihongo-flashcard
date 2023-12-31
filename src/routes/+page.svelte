@@ -1,6 +1,6 @@
 <script>
   import {FlashcardPage} from "$lib"
-  import dictionary from '$lib/data/three-thousand-all.json';
+  import dictionary from '$lib/data/three-thousand.json';
   
 </script>
 

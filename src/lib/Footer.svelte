@@ -23,6 +23,9 @@
             <a href="/adjectives" class="text-md hover:underline me-4 md:me-6">Adjectives</a>
           </li>
           <li>
+            <a href="/gairaigo" class="text-md hover:underline me-4 md:me-6">Gairaigo</a>
+          </li>
+          <li>
             <a href="/onomatopoeia" class="text-md hover:underline me-4 md:me-6">Onomatopoeia</a>
           </li>
         </ul>

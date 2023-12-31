@@ -16,8 +16,8 @@
     navStatus = false
   }
 
-  const linkStyle = 'block py-2 px-3 text-md hover:underline text-gray-900 rounded hover:bg-gray-100 lg:hover:bg-transparent lg:border-0 lg:hover:text-blue-700 lg:p-0 dark:text-white lg:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent'
-  const activeStyle = 'block py-2 px-3 text-md hover:underline text-white bg-blue-700 rounded lg:bg-transparent lg:text-blue-700 lg:p-0 dark:text-white lg:dark:text-blue-500'
+  const linkStyle = 'block py-2 px-3 text-md hover:underline text-gray-900 rounded hover:bg-gray-100 lg:hover:bg-transparent lg:border-0 lg:hover:text-red-700 lg:p-0 dark:text-white lg:dark:hover:text-red-500 dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent'
+  const activeStyle = 'block py-2 px-3 text-md hover:underline text-white bg-red-700 rounded lg:bg-transparent lg:text-red-700 lg:p-0 dark:text-white lg:dark:text-red-500'
 </script>
 
 <nav class="bg-transparent border-gray-200 dark:bg-gray-900">
@@ -45,6 +45,9 @@
         </li>
         <li>
           <a href="/adjectives" onclick={closeNav} aria-current={$page.url.pathname === '/adjectives'} class="{$page.url.pathname === '/adjectives' ? activeStyle : linkStyle}">Adjectives</a>
+        </li>
+        <li>
+          <a href="/gairaigo" onclick={closeNav} aria-current={$page.url.pathname === '/gairaigo'} class="{$page.url.pathname === '/gairaigo' ? activeStyle : linkStyle}">Gairaigo</a>
         </li>
         <li>
           <a href="/onomatopoeia" onclick={closeNav} aria-current={$page.url.pathname === '/onomatopoeia'} class="{$page.url.pathname === '/onomatopoeia' ? activeStyle : linkStyle}">Onomatopoeia</a>

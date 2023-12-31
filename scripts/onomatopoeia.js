@@ -20,7 +20,7 @@ async function scrapeVocabularyData() {
 
         return {
           japanese: columns[0].textContent.trim(),
-          reading: columns[1].textContent.trim(),
+          romaji: columns[1].textContent.trim(),
           english: columns[2].textContent.trim(),
         };
       });

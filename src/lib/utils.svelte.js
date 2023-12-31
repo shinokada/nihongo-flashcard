@@ -15,19 +15,19 @@ export function getRandomPair(jsonData, langlang, isVerb = false ) {
   const randomIndex = Math.floor(Math.random() * jsonData.length);
   const randomPair = jsonData[randomIndex];
   // console.log('isVerb: ', isVerb)
-  let front, back, kanji, hiragana, romaji, english, japanese, reading
+  let front, back, kanji, hiragana, romaji, english, japanese
   
   if (isVerb) {
     ({ kanji, hiragana, romaji, english } = randomPair);
   } else {
-    ({ japanese, reading, english } = randomPair);
+    ({ japanese, romaji, english } = randomPair);
   }
 
   if (langlang === 'japeng') {
     if (isVerb) {
       front = `${hiragana} (${kanji}, ${romaji})`;
     } else { 
-      front = `${japanese} (${reading})`;
+      front = `${japanese} (${romaji})`;
     }
     back = english;
   } else if (langlang === 'engjap') {
@@ -35,7 +35,7 @@ export function getRandomPair(jsonData, langlang, isVerb = false ) {
     if (isVerb) {
       back = `${hiragana} (${kanji}, ${romaji})`;
     } else {
-      back = `${japanese} (${reading})`;
+      back = `${japanese} (${romaji})`;
     }
   } else if (langlang === 'kanjap' && isVerb) {
     front = kanji

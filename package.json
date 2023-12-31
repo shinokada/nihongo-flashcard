@@ -18,7 +18,8 @@
 		"onomatopoeia": "node ./scripts/onomatopoeia.js",
 		"verbs": "node ./scripts/verbs.js",
 		"adjectives": "node ./scripts/adjectives.js",
-		"nouns": "node ./scripts/nouns.js"
+		"nouns": "node ./scripts/nouns.js",
+		"gairaigo": "node ./scripts/gairaigo.js"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.40.1",
