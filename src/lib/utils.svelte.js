@@ -1,4 +1,6 @@
-export function randomword (wordList){
+import randomInteger from 'random-int';
+
+export function randomword (wordList) {
   return wordList[Math.floor(Math.random() * wordList.length)];
 }
 
@@ -12,7 +14,8 @@ export function getRandomItemFromDictionary (dictionary) {
 }
 
 export function getRandomPair(jsonData, langlang, isVerb = false ) {
-  const randomIndex = Math.floor(Math.random() * jsonData.length);
+  const randomIndex = randomInteger(0, jsonData.length - 1); // Generate a random index
+
   const randomPair = jsonData[randomIndex];
   // console.log('isVerb: ', isVerb)
   let front, back, kanji, hiragana, romaji, english, japanese
