@@ -11,9 +11,38 @@ export function getRandomItemFromDictionary (dictionary) {
   };
 }
 
-export function getRandomPair(jsonData, langlang, isVerb = false ) {
-  const randomIndex = Math.floor(Math.random() * jsonData.length);
+
+// Shuffle function
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
+// Initialize shuffled indices and used indices
+let shuffledIndices = [];
+let usedIndices = new Set();
+
+export function getRandomPair (jsonData, langlang, isVerb = false) {
+
+  if (shuffledIndices.length === 0) {
+    // All indices have been used, reshuffle
+    shuffledIndices = shuffleArray(Array.from(Array(jsonData.length).keys()));
+    usedIndices.clear(); // Clear used indices
+  }
+
+  let randomIndex = shuffledIndices.pop();
+  while (usedIndices.has(randomIndex)) {
+    // If the index has been used, get a new one
+    randomIndex = shuffledIndices.pop();
+  }
+  usedIndices.add(randomIndex);
+
   const randomPair = jsonData[randomIndex];
+  // const randomIndex = Math.floor(Math.random() * jsonData.length);
+  // const randomPair = jsonData[randomIndex];
   // console.log('isVerb: ', isVerb)
   let front, back, kanji, hiragana, romaji, english, japanese
   
