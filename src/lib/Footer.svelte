@@ -1,32 +1,26 @@
 <script>
-  import Jp from './Jp.svelte'
+  let { siteName } = $props() 
 </script>
 
 <footer class="dark:bg-gray-900 m-4 mt-16 border-t">
   <div class="w-full max-w-screen-xl mx-auto p-4 md:py-8">
     <div class="sm:flex sm:items-center sm:justify-between">
         <a href="/" class="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse z-10">
-          <Jp size={40} class="display: inline"/> 
-          <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Japanese Flashcard</span>
+      
+          <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">{siteName} </span>
         </a>
         <ul class="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400 z-10">
           <li>
-              <a href="/" class="text-md hover:underline me-4 md:me-6">Tango</a>
+              <a href="https://norsk-flashcard.vercel.app/" target="_blank" class="text-md hover:underline me-4 md:me-6">Norsk flashcard</a>
           </li>
           <li>
-            <a href="/nouns" class="text-md hover:underline me-4 md:me-6">Nouns</a>
+            <a href="https://nihongo-flashcard.vercel.app/" target="_blank" class="text-md hover:underline me-4 md:me-6">Japanese flashcard</a>
           </li>
           <li>
-            <a href="/verbs" class="text-md hover:underline me-4 md:me-6">Verbs</a>
+            <a href="https://flexilexi.vercel.app/" target="_blank" class="text-md hover:underline me-4 md:me-6">FlexiLexi</a>
           </li>
           <li>
-            <a href="/adjectives" class="text-md hover:underline me-4 md:me-6">Adjectives</a>
-          </li>
-          <li>
-            <a href="/gairaigo" class="text-md hover:underline me-4 md:me-6">Gairaigo</a>
-          </li>
-          <li>
-            <a href="/onomatopoeia" class="text-md hover:underline me-4 md:me-6">Onomatopoeia</a>
+            <a href="https://gjett-norsk.vercel.app/" target="_blank" class="text-md hover:underline me-4 md:me-6">Gjett norsk</a>
           </li>
         </ul>
     </div>
