@@ -66,8 +66,8 @@ devDependencies:
     specifier: 5.0.0-next.29
     version: 5.0.0-next.29
   svelte-5-ui-lib:
-    specifier: ^0.1.8
-    version: 0.1.8(svelte@5.0.0-next.29)(tailwind-merge@2.2.0)(tailwindcss@3.4.1)
+    specifier: ^0.1.10
+    version: 0.1.10(svelte@5.0.0-next.29)(tailwind-merge@2.2.0)(tailwindcss@3.4.1)
   svelte-check:
     specifier: ^3.6.2
     version: 3.6.2(postcss-load-config@5.0.2)(postcss@8.4.33)(svelte@5.0.0-next.29)
@@ -3096,8 +3096,8 @@ packages:
     engines: {node: '>= 0.4'}
     dev: true
 
-  /svelte-5-ui-lib@0.1.8(svelte@5.0.0-next.29)(tailwind-merge@2.2.0)(tailwindcss@3.4.1):
-    resolution: {integrity: sha512-3JMAJee8ac1eSXBQui2lcUw8O2LcNBqFgcEL0v5JL3FUwhahlGOeV5PQgyLnMY+uIOF71TQYNmPVhw0QCAyzmA==}
+  /svelte-5-ui-lib@0.1.10(svelte@5.0.0-next.29)(tailwind-merge@2.2.0)(tailwindcss@3.4.1):
+    resolution: {integrity: sha512-tliHlOHDs2iioQjapzN0XtdymBFmydX7EEtp3/s3p+EBFvXUYghKD+PVSxsXt3RCvzTSXqLRIM5o4ImfkmtUfQ==}
     engines: {node: '>=18.0.0', npm: '>=7.0.0'}
     peerDependencies:
       svelte: ^5.0.0
