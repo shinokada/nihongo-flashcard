@@ -11,7 +11,7 @@ async function scrapeDictionaryData() {
     });
 
     const forbiddenWords = [
-      "panty", "sex", "erotic", "sexual", "prostitution", "escort", "adult video",
+      "panty", "sex", "erotic", "orgy", "virgin", "bar", "sexual", "prostitution", "escort", "adult video",
       "brothel", "masochist", "sadist", "love hotel", "masturbation", "penis"
     ];
 
