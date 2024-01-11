@@ -22,7 +22,7 @@
   
   <nav class="bg-transparent border-gray-200 dark:bg-gray-900">
 	<div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-	  <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
+	  <a href="/" onclick={closeNav} class="flex items-center space-x-3 rtl:space-x-reverse">
 		<Jp size={50} class="inline"/> 
 		  <span class="self-center text-2xl sm:text-3xl font-semibold whitespace-nowrap dark:text-white">Japanese Flashcard</span>
 	  </a>
