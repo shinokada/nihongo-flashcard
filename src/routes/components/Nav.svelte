@@ -12,6 +12,7 @@
 		// this can be done adding nav.navStatus directly to DOM element
 		// without using effect
 		navStatus = nav.navStatus;
+		$inspect('navStatus: ', navStatus)
 	});
 </script>
 
