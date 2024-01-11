@@ -4,4 +4,4 @@
   
 </script>
 
-<FlashcardPage {dictionary} title="単語 Words"/>
+<FlashcardPage {dictionary} title="3000 Japanese basic words"/>

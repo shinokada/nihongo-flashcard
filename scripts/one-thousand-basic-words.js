@@ -1,3 +1,4 @@
+import { text } from '@sveltejs/kit';
 import { promises as fs } from 'fs';
 import puppeteer from 'puppeteer';
 
@@ -6,6 +7,13 @@ async function scrapeDictionaryData() {
   const page = await browser.newPage();
 
   try {
+     // Set up console listener so that it will console on a terminal
+     page.on('console', (msg) => {
+      for (let i = 0; i < msg.args().length; ++i) {
+        console.log(`[Browser Console] ${msg.args()[i]}`);
+      }
+     });
+    
     await page.goto('https://en.m.wiktionary.org/wiki/Appendix:1000_Japanese_basic_words', {
       waitUntil: 'domcontentloaded',
     });
@@ -15,7 +23,7 @@ async function scrapeDictionaryData() {
 
       const extractedData = [];
 
-      listItems.forEach((li) => {
+      listItems.forEach( (li) => {
         const spans = li.querySelectorAll('span.Jpan > a');
         const italicTag = li.querySelector('i');
 
@@ -24,14 +32,23 @@ async function scrapeDictionaryData() {
           const kanji = spans[1].textContent.trim(); // Get kanji
           const romaji = italicTag.textContent.trim(); // Get Romaji
           let english = '';
-
+ 
           const textContent = li.textContent.trim();
-          const separatorIndex = textContent.lastIndexOf(' – ');
+          
+          // looking for one or more occurrences of whitespace, en dash, or hyphen. The website has a dash and hyphen.
+          const separatorIndex = textContent.search(/[\s–-]+/);
 
           if (separatorIndex !== -1) {
-            english = textContent.substring(separatorIndex + 3).trim().split('(')[0].trim(); // Get English, remove content within parentheses
+            const substringAfterSeparator = textContent.substring(separatorIndex + 3).trim();
+            
+            // Find the last occurrence of "("
+            const lastOpeningParenthesisIndex = substringAfterSeparator.lastIndexOf('(');
+          
+            // Use the last occurrence to split the string
+            english = lastOpeningParenthesisIndex !== -1
+              ? substringAfterSeparator.substring(0, lastOpeningParenthesisIndex).trim()
+              : substringAfterSeparator;
           }
-
           extractedData.push({
             hiragana,
             kanji,

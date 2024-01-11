@@ -170,7 +170,7 @@
   {
     "hiragana": "きょうし",
     "kanji": "教師",
-    "english": "",
+    "english": "(academic) teacher",
     "romaji": "kyoushi"
   },
   {
@@ -428,13 +428,13 @@
   {
     "hiragana": "ちち",
     "kanji": "父",
-    "english": "father",
+    "english": "father (chichi)",
     "romaji": "chichi"
   },
   {
     "hiragana": "はは",
     "kanji": "母",
-    "english": "mother",
+    "english": "mother (haha)",
     "romaji": "haha"
   },
   {
@@ -452,13 +452,13 @@
   {
     "hiragana": "あに",
     "kanji": "兄",
-    "english": "older brother",
+    "english": "older brother (ani)",
     "romaji": "ani"
   },
   {
     "hiragana": "あね",
     "kanji": "姉",
-    "english": "older sister",
+    "english": "older sister (ane)",
     "romaji": "ane"
   },
   {
@@ -488,13 +488,13 @@
   {
     "hiragana": "そふ",
     "kanji": "祖父",
-    "english": "grandfather",
+    "english": "grandfather (sofu)",
     "romaji": "sofu"
   },
   {
     "hiragana": "そぼ",
     "kanji": "祖母",
-    "english": "grandmother",
+    "english": "grandmother (sobo)",
     "romaji": "sobo"
   },
   {
@@ -842,67 +842,67 @@
   {
     "hiragana": "しょくぶつ",
     "kanji": "植物",
-    "english": "",
+    "english": "plants",
     "romaji": "shokubutsu"
   },
   {
     "hiragana": "くさ",
     "kanji": "草",
-    "english": "",
+    "english": "grass",
     "romaji": "kusa"
   },
   {
     "hiragana": "はな",
     "kanji": "花",
-    "english": "",
+    "english": "flower",
     "romaji": "hana"
   },
   {
     "hiragana": "み",
     "kanji": "実",
-    "english": "",
+    "english": "fruit",
     "romaji": "mi"
   },
   {
     "hiragana": "き",
     "kanji": "木",
-    "english": "",
+    "english": "tree",
     "romaji": "ki"
   },
   {
     "hiragana": "くき",
     "kanji": "茎",
-    "english": "",
+    "english": "stem",
     "romaji": "kuki"
   },
   {
     "hiragana": "きのこ",
     "kanji": "茸",
-    "english": "",
+    "english": "mushroom",
     "romaji": "kinoko"
   },
   {
     "hiragana": "きく",
     "kanji": "菊",
-    "english": "",
+    "english": "chrysanthemum",
     "romaji": "kiku"
   },
   {
     "hiragana": "さくら",
     "kanji": "桜",
-    "english": "",
+    "english": "cherry blossom",
     "romaji": "sakura"
   },
   {
     "hiragana": "まつ",
     "kanji": "松",
-    "english": "",
+    "english": "pine tree",
     "romaji": "matsu"
   },
   {
     "hiragana": "うめ",
     "kanji": "梅",
-    "english": "",
+    "english": "japanese plum or apricot",
     "romaji": "ume"
   },
   {
@@ -998,109 +998,109 @@
   {
     "hiragana": "たべもの",
     "kanji": "食べ物",
-    "english": "",
+    "english": "food",
     "romaji": "tabemono"
   },
   {
     "hiragana": "ちょうしょく",
     "kanji": "朝食",
-    "english": "",
+    "english": "breakfast",
     "romaji": "chōshoku"
   },
   {
     "hiragana": "ひるごはん",
     "kanji": "昼御飯",
-    "english": "",
+    "english": "lunch",
     "romaji": "hirugohan"
   },
   {
     "hiragana": "ばんごはん",
     "kanji": "晩御飯",
-    "english": "",
+    "english": "dinner",
     "romaji": "bangohan"
   },
   {
     "hiragana": "ごはん",
     "kanji": "御飯",
-    "english": "",
+    "english": "cooked rice or meal",
     "romaji": "gohan"
   },
   {
     "hiragana": "みそ",
     "kanji": "味噌",
-    "english": "",
+    "english": "miso",
     "romaji": "miso"
   },
   {
     "hiragana": "りょうり",
     "kanji": "料理",
-    "english": "",
+    "english": "cooking",
     "romaji": "ryōri"
   },
   {
     "hiragana": "おやつ",
     "kanji": "間食",
-    "english": "",
+    "english": "snack",
     "romaji": "oyatsu"
   },
   {
     "hiragana": "たこやき",
     "kanji": "たこ焼き",
-    "english": "",
+    "english": "octopus dumpling",
     "romaji": "takoyaki"
   },
   {
     "hiragana": "のみもの",
     "kanji": "飲み物",
-    "english": "",
+    "english": "drink/beverage",
     "romaji": "nomimono"
   },
   {
     "hiragana": "ちゃ",
     "kanji": "茶",
-    "english": "",
+    "english": "tea",
     "romaji": "cha"
   },
   {
     "hiragana": "おちゃ",
     "kanji": "お茶",
-    "english": "",
+    "english": "green tea",
     "romaji": "ocha"
   },
   {
     "hiragana": "コーヒー",
     "kanji": "珈琲",
-    "english": "",
+    "english": "coffee",
     "romaji": "kōhī"
   },
   {
     "hiragana": "ぎゅうにゅう",
     "kanji": "牛乳",
-    "english": "",
+    "english": "milk",
     "romaji": "gyūnyū"
   },
   {
     "hiragana": "みず",
     "kanji": "水",
-    "english": "",
+    "english": "water",
     "romaji": "mizu"
   },
   {
     "hiragana": "さとう",
     "kanji": "砂糖",
-    "english": "",
+    "english": "sugar",
     "romaji": "satō"
   },
   {
     "hiragana": "しお",
     "kanji": "塩",
-    "english": "",
+    "english": "salt",
     "romaji": "shio"
   },
   {
     "hiragana": "しょうゆ",
     "kanji": "醤油",
-    "english": "",
+    "english": "soy sauce",
     "romaji": "shōyu"
   },
   {
@@ -1562,7 +1562,7 @@
   {
     "hiragana": "きっぷ",
     "kanji": "切符",
-    "english": "ticket",
+    "english": "ticket (public transport, fine)",
     "romaji": "public transport, fine"
   },
   {
@@ -1844,7 +1844,7 @@
   {
     "hiragana": "じてんしゃ",
     "kanji": "自転車",
-    "english": "",
+    "english": "bicycle",
     "romaji": "Jitensha"
   },
   {
@@ -2240,7 +2240,7 @@
   {
     "hiragana": "はば",
     "kanji": "幅",
-    "english": "width, breadth, free room, difference",
+    "english": "width, breadth, free room, difference (between two substances)",
     "romaji": "haba"
   },
   {
@@ -2678,127 +2678,127 @@
   {
     "hiragana": "みだす",
     "kanji": "乱す",
-    "english": "",
+    "english": "to disturb, to disarrange",
     "romaji": "midasu"
   },
   {
     "hiragana": "みだれる",
     "kanji": "乱れる",
-    "english": "",
+    "english": "to be disturbed, to become confused",
     "romaji": "midareru"
   },
   {
     "hiragana": "つかえる",
     "kanji": "仕える",
-    "english": "",
+    "english": "to serve, to work for",
     "romaji": "tsukaeru"
   },
   {
     "hiragana": "そなわる",
     "kanji": "備わる",
-    "english": "",
+    "english": "to be furnished with",
     "romaji": "sonawaru"
   },
   {
     "hiragana": "すぐれる",
     "kanji": "優れる",
-    "english": "",
+    "english": "to excel, to surpass",
     "romaji": "sugureru"
   },
   {
     "hiragana": "ひえる",
     "kanji": "冷える",
-    "english": "",
+    "english": "to grow cold, to get chilly, to cool down",
     "romaji": "hieru"
   },
   {
     "hiragana": "さめる",
     "kanji": "覚める",
-    "english": "",
+    "english": "to wake, to become sober, to be disillusioned",
     "romaji": "sameru"
   },
   {
     "hiragana": "さめる",
     "kanji": "冷める",
-    "english": "",
+    "english": "to cool down",
     "romaji": "sameru"
   },
   {
     "hiragana": "むく",
     "kanji": "向く",
-    "english": "",
+    "english": "to face, to turn toward",
     "romaji": "muku"
   },
   {
     "hiragana": "たおれる",
     "kanji": "倒れる",
-    "english": "",
+    "english": "to fall, to collapse",
     "romaji": "taoreru"
   },
   {
     "hiragana": "かたまる",
     "kanji": "固まる",
-    "english": "",
+    "english": "to harden, to solidify, to become firm",
     "romaji": "katamaru"
   },
   {
     "hiragana": "うまる",
     "kanji": "埋まる",
-    "english": "",
+    "english": "to be filled, to be surrounded, to overflow",
     "romaji": "umaru"
   },
   {
     "hiragana": "うもれる",
     "kanji": "埋もれる",
-    "english": "",
+    "english": "to be buried, to be covered",
     "romaji": "umoreru"
   },
   {
     "hiragana": "ます",
     "kanji": "増す",
-    "english": "",
+    "english": "to increase, to grow",
     "romaji": "masu"
   },
   {
     "hiragana": "ふえる",
     "kanji": "増える",
-    "english": "",
+    "english": "to increase, to multiply",
     "romaji": "fueru"
   },
   {
     "hiragana": "へる",
     "kanji": "減る",
-    "english": "",
+    "english": "to decrease",
     "romaji": "heru"
   },
   {
     "hiragana": "はずれる",
     "kanji": "外れる",
-    "english": "",
+    "english": "to deviate",
     "romaji": "hazureru"
   },
   {
     "hiragana": "ふとる",
     "kanji": "太る",
-    "english": "",
+    "english": "to grow fat",
     "romaji": "futoru"
   },
   {
     "hiragana": "はじまる",
     "kanji": "始まる",
-    "english": "",
+    "english": "to begin",
     "romaji": "hajimaru"
   },
   {
     "hiragana": "おわる",
     "kanji": "終わる",
-    "english": "",
+    "english": "to finish, to close",
     "romaji": "owaru"
   },
   {
     "hiragana": "きめる",
     "kanji": "決める",
-    "english": "",
+    "english": "to decide",
     "romaji": "kimeru"
   },
   {

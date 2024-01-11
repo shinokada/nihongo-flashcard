@@ -1,10 +1,17 @@
-<script>
+<script lang="ts">
 	// import dictionary from '$lib/data/verbs.json';
+  interface Props{
+    dictionary: any;
+		isVerb?: boolean;
+		title?: string;
+		pFront?: string;
+		pBack?: string;
+	}
 
 	import { Flashcard } from '$lib';
   import { getRandomPair } from '$lib/utils.svelte.js';
 	import { twMerge } from 'tailwind-merge';
-  let { dictionary, isVerb, title="Flashcard", pFront, pBack } = $props()
+  let { dictionary, isVerb, title="Flashcard", pFront, pBack } = $props<Props>()
 	let langlang = $state('japeng')
   let front = $state()
 	let back = $state()
@@ -17,7 +24,7 @@
 
 	const toggleShowBack = () => showCardBack = !showCardBack;
 
-	const updateLang = (lang) => {
+	const updateLang = (lang: string) => {
 		langlang = lang
 		if (lang === 'japeng'){
 			showFront = '日本語'

@@ -1,8 +1,8 @@
 <script>
-	import { Navbar, NavLi, NavBrand, NavUl, navHelper } from 'svelte-5-ui-lib';
+	import { Navbar, NavLi, NavBrand, NavUl, uiHelpers } from 'svelte-5-ui-lib';
 	import Jp from '$lib/Jp.svelte'
 
-	let nav = navHelper();
+	let nav = uiHelpers();
 
 	let navStatus = $state();
 	let toggleNav = nav.toggleNav;
@@ -22,8 +22,8 @@
 			</NavBrand>
 	{/snippet}
 	<NavUl>
-		<NavLi href="/" {closeNav}>Tango</NavLi>
-		<NavLi href="/nouns" {closeNav}>Nouns</NavLi>
+		<NavLi href="/" {closeNav}>3K Words</NavLi>
+		<NavLi href="/one-thousand" {closeNav}>1K Words</NavLi>
 		<NavLi href="/verbs" {closeNav}>Verbs</NavLi>
 		<NavLi href="/adjectives" {closeNav}>Adjectives</NavLi>
 		<NavLi href="/gairaigo" {closeNav}>Gairaigo</NavLi>

@@ -3,4 +3,4 @@
   import dictionary from '$lib/data/nouns.json';  
 </script>
 
-<FlashcardPage {dictionary} title="名詞 Nouns" isVerb={true}/>
+<FlashcardPage {dictionary} title="1000 Japanese basic words" isVerb={true}/>

@@ -2,12 +2,12 @@ import { expect, test } from '@playwright/test';
 
 test('index page has expected h1', async ({ page }) => {
 	await page.goto('/');
-	expect(await page.textContent('h1')).toBe('単語 Words');
+	expect(await page.textContent('h1')).toBe('3000 Japanese basic words');
 });
 
-test('nouns page has expected h1', async ({ page }) => {
-	await page.goto('/nouns');
-	expect(await page.textContent('h1')).toBe('名詞 Nouns');
+test('one-thousand page has expected h1', async ({ page }) => {
+	await page.goto('/one-thousand');
+	expect(await page.textContent('h1')).toBe('1000 Japanese basic words');
 });
 
 test('verbs page has expected h1', async ({ page }) => {
