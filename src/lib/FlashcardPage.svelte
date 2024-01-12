@@ -88,7 +88,7 @@
 		{/if}
 	</div>
 	<!-- FLASHCARD -->
-	<div class="bg-transparent w-full md:w-2/3 h-96">
+	<div class="flip-box bg-transparent w-full md:w-2/3 h-96">
 		<div class="flip-box-inner" class:flip-it={showCardBack}>
 			<Flashcard {front} {back} {showCardBack} {pFront} {pBack}/>
 		</div>
@@ -119,13 +119,22 @@
 <svelte:window onkeydown={preventDefault(handleKeyDown)} />
 
 <style>
+	/* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+	.flip-box {
+		background-color: transparent;
+		/* width: 400px;
+		height: 300px; */
+/* 		border: 1px solid #ddd; */
+		perspective: 1000px; /* Remove this if you don't want the 3D effect */
+	}
+
 	/* This container is needed to position the front and back side */
 	.flip-box-inner {
 		position: relative;
 		width: 100%;
 		height: 100%;
 		text-align: center;
-		transition: transform 0.4s;
+		transition: transform 0.6s;
 		transform-style: preserve-3d;
 	}
 
