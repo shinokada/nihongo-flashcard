@@ -1,518 +1,518 @@
 [
-  {
-    "kanji": "青い",
-    "hiragana": "あおい",
-    "romaji": "aoi",
-    "english": "blue"
-  },
-  {
-    "kanji": "赤い",
-    "hiragana": "あかい",
-    "romaji": "akai",
-    "english": "red"
-  },
-  {
-    "kanji": "明るい",
-    "hiragana": "あかるい",
-    "romaji": "akarui",
-    "english": "light, bright"
-  },
-  {
-    "kanji": "温かい",
-    "hiragana": "あたたかい",
-    "romaji": "atatakai",
-    "english": "warm"
-  },
-  {
-    "kanji": "新しい",
-    "hiragana": "あたらしい",
-    "romaji": "atarashii",
-    "english": "new"
-  },
-  {
-    "kanji": "暑い",
-    "hiragana": "あつい",
-    "romaji": "atsui",
-    "english": "hot (air)"
-  },
-  {
-    "kanji": "厚い",
-    "hiragana": "あつい",
-    "romaji": "atsui",
-    "english": "thick"
-  },
-  {
-    "kanji": "危ない",
-    "hiragana": "あぶない",
-    "romaji": "abunai",
-    "english": "dangerous"
-  },
-  {
-    "kanji": "甘い",
-    "hiragana": "あまい",
-    "romaji": "amai",
-    "english": "sweet"
-  },
-  {
-    "kanji": "良い",
-    "hiragana": "よい / いい",
-    "romaji": "yoi / ii",
-    "english": "good"
-  },
-  {
-    "kanji": "忙しい",
-    "hiragana": "いそがしい",
-    "romaji": "isogashii",
-    "english": "to be busy"
-  },
-  {
-    "kanji": "痛い",
-    "hiragana": "いたい",
-    "romaji": "itai",
-    "english": "to be painful"
-  },
-  {
-    "kanji": "薄い",
-    "hiragana": "うすい",
-    "romaji": "usui",
-    "english": "thin"
-  },
-  {
-    "kanji": "美味しい",
-    "hiragana": "おいしい",
-    "romaji": "oishii",
-    "english": "tasty, delicious"
-  },
-  {
-    "kanji": "大きい",
-    "hiragana": "おおきい",
-    "romaji": "ookii",
-    "english": "big"
-  },
-  {
-    "kanji": "遅い",
-    "hiragana": "おそい",
-    "romaji": "osoi",
-    "english": "late, slow"
-  },
-  {
-    "kanji": "重い",
-    "hiragana": "おもい",
-    "romaji": "omoi",
-    "english": "heavy"
-  },
-  {
-    "kanji": "面白い",
-    "hiragana": "おもしろい",
-    "romaji": "omoshiroi",
-    "english": "intersting, funny"
-  },
-  {
-    "kanji": "辛い",
-    "hiragana": "からい",
-    "romaji": "karai",
-    "english": "hot, spicy"
-  },
-  {
-    "kanji": "軽い",
-    "hiragana": "かるい",
-    "romaji": "karui",
-    "english": "light (not heavy)"
-  },
-  {
-    "kanji": "可愛い",
-    "hiragana": "かわいい",
-    "romaji": "kawaii",
-    "english": "cute, pretty"
-  },
-  {
-    "kanji": "黄色い",
-    "hiragana": "きいろい",
-    "romaji": "kiiroi",
-    "english": "yellow"
-  },
-  {
-    "kanji": "汚い",
-    "hiragana": "きたない",
-    "romaji": "kitanai",
-    "english": "dirty"
-  },
-  {
-    "kanji": "暗い",
-    "hiragana": "くらい",
-    "romaji": "kurai",
-    "english": "dark"
-  },
-  {
-    "kanji": "黒い",
-    "hiragana": "くろい",
-    "romaji": "kuroi",
-    "english": "black"
-  },
-  {
-    "kanji": "寒い",
-    "hiragana": "さむい",
-    "romaji": "samui",
-    "english": "cold"
-  },
-  {
-    "kanji": "白い",
-    "hiragana": "しろい",
-    "romaji": "shiroi",
-    "english": "white"
-  },
-  {
-    "kanji": "涼しい",
-    "hiragana": "すずしい",
-    "romaji": "suzushii",
-    "english": "cool"
-  },
-  {
-    "kanji": "狭い",
-    "hiragana": "せまい",
-    "romaji": "semai",
-    "english": "narrow"
-  },
-  {
-    "kanji": "高い",
-    "hiragana": "たかい",
-    "romaji": "takai",
-    "english": "high, expensive"
-  },
-  {
-    "kanji": "楽しい",
-    "hiragana": "たのしい",
-    "romaji": "tanoshii",
-    "english": "pleasant, enjoyable"
-  },
-  {
-    "kanji": "小さい",
-    "hiragana": "ちいさい",
-    "romaji": "chiisai",
-    "english": "small"
-  },
-  {
-    "kanji": "近い",
-    "hiragana": "ちかい",
-    "romaji": "chikai",
-    "english": "near, close"
-  },
-  {
-    "kanji": "詰らない",
-    "hiragana": "つまらない",
-    "romaji": "tsumaranai",
-    "english": "uninteresting"
-  },
-  {
-    "kanji": "冷たい",
-    "hiragana": "つめたい",
-    "romaji": "tsumetai",
-    "english": "cold"
-  },
-  {
-    "kanji": "強い",
-    "hiragana": "つよい",
-    "romaji": "tsuyoi",
-    "english": "strong"
-  },
-  {
-    "kanji": "遠い",
-    "hiragana": "とおい",
-    "romaji": "tooi",
-    "english": "far"
-  },
-  {
-    "kanji": "長い",
-    "hiragana": "ながい",
-    "romaji": "nagai",
-    "english": "long"
-  },
-  {
-    "kanji": "早い",
-    "hiragana": "はやい",
-    "romaji": "hayai",
-    "english": "early"
-  },
-  {
-    "kanji": "速い",
-    "hiragana": "はやい",
-    "romaji": "hayai",
-    "english": "fast, quick"
-  },
-  {
-    "kanji": "低い",
-    "hiragana": "ひくい",
-    "romaji": "hikui",
-    "english": "low"
-  },
-  {
-    "kanji": "広い",
-    "hiragana": "ひろい",
-    "romaji": "hiroi",
-    "english": "wide, spacious"
-  },
-  {
-    "kanji": "太い",
-    "hiragana": "ふとい",
-    "romaji": "futoi",
-    "english": "thick, fat"
-  },
-  {
-    "kanji": "古い",
-    "hiragana": "ふるい",
-    "romaji": "furui",
-    "english": "old"
-  },
-  {
-    "kanji": "欲しい",
-    "hiragana": "ほしい",
-    "romaji": "hoshii",
-    "english": "to want something"
-  },
-  {
-    "kanji": "細い",
-    "hiragana": "ほそい",
-    "romaji": "hosoi",
-    "english": "thin, fine"
-  },
-  {
-    "kanji": "不味い",
-    "hiragana": "まずい",
-    "romaji": "mazui",
-    "english": "bad tasting"
-  },
-  {
-    "kanji": "丸い",
-    "hiragana": "まるい",
-    "romaji": "marui",
-    "english": "round"
-  },
-  {
-    "kanji": "短い",
-    "hiragana": "みじかい",
-    "romaji": "mijikai",
-    "english": "short"
-  },
-  {
-    "kanji": "難しい",
-    "hiragana": "むずかしい",
-    "romaji": "muzukashii",
-    "english": "difficult"
-  },
-  {
-    "kanji": "優しい",
-    "hiragana": "やさしい",
-    "romaji": "yasashii",
-    "english": "gentle"
-  },
-  {
-    "kanji": "安い",
-    "hiragana": "やすい",
-    "romaji": "yasui",
-    "english": "cheap"
-  },
-  {
-    "kanji": "若い",
-    "hiragana": "わかい",
-    "romaji": "wakai",
-    "english": "young"
-  },
-  {
-    "kanji": "好き",
-    "hiragana": "すき",
-    "romaji": "Suki",
-    "english": "Like, love"
-  },
-  {
-    "kanji": "結構",
-    "hiragana": "けっこう",
-    "romaji": "Kekkou",
-    "english": "wonderful,enviable"
-  },
-  {
-    "kanji": "有名",
-    "hiragana": "ゆうめい",
-    "romaji": "Yuumei",
-    "english": "Famous"
-  },
-  {
-    "kanji": "きれい",
-    "hiragana": "きれい",
-    "romaji": "Kirei",
-    "english": "Pretty, beautiful"
-  },
-  {
-    "kanji": "丁寧",
-    "hiragana": "ていねい",
-    "romaji": "teinei",
-    "english": "polite"
-  },
-  {
-    "kanji": "嫌い",
-    "hiragana": "きらい",
-    "romaji": "kirai",
-    "english": "to not like"
-  },
-  {
-    "kanji": "静か",
-    "hiragana": "しずか",
-    "romaji": "shizuka",
-    "english": "quiet"
-  },
-  {
-    "kanji": "暇",
-    "hiragana": "ひま",
-    "romaji": "hima",
-    "english": "free (time)"
-  },
-  {
-    "kanji": "賑やか",
-    "hiragana": "にぎやか",
-    "romaji": "nigiyaka",
-    "english": "lively"
-  },
-  {
-    "kanji": "便利",
-    "hiragana": "べんり",
-    "romaji": "benri",
-    "english": "useful, convenient"
-  },
-  {
-    "kanji": "元気",
-    "hiragana": "げんき",
-    "romaji": "genki",
-    "english": "healthy"
-  },
-  {
-    "kanji": "色々",
-    "hiragana": "いろいろ",
-    "romaji": "iroiro",
-    "english": "various"
-  },
-  {
-    "kanji": "大丈夫",
-    "hiragana": "だいじょうぶ",
-    "romaji": "daijoubu",
-    "english": "OK,fine"
-  },
-  {
-    "kanji": "丈夫",
-    "hiragana": "じょうぶ",
-    "romaji": "Joubu",
-    "english": "Healthy, robust"
-  },
-  {
-    "kanji": "大変",
-    "hiragana": "たいへん",
-    "romaji": "Taihen",
-    "english": "Terrible"
-  },
-  {
-    "kanji": "楽",
-    "hiragana": "らく",
-    "romaji": "Raku",
-    "english": "comfortable, easy"
-  },
-  {
-    "kanji": "大切",
-    "hiragana": "たいせつ",
-    "romaji": "Taisetsu",
-    "english": "important,precious"
-  },
-  {
-    "kanji": "上手",
-    "hiragana": "じょうず",
-    "romaji": "jyouzu",
-    "english": "good, skilled"
-  },
-  {
-    "kanji": "下手",
-    "hiragana": "へた",
-    "romaji": "heta",
-    "english": "bad at, unskilled"
-  },
-  {
-    "kanji": "一生懸命",
-    "hiragana": "いっしょうけんめい",
-    "romaji": "isshoukenmei",
-    "english": "to one’s fullest possibility"
-  },
-  {
-    "kanji": "危険",
-    "hiragana": "きけん",
-    "romaji": "kiken",
-    "english": "Dangerous"
-  },
-  {
-    "kanji": "残念",
-    "hiragana": "ざんねん",
-    "romaji": "zannen",
-    "english": "regrettable, dissapointing"
-  },
-  {
-    "kanji": "心配",
-    "hiragana": "しんぱい",
-    "romaji": "shinpai",
-    "english": "care, worry"
-  },
-  {
-    "kanji": "自由",
-    "hiragana": "じゆう",
-    "romaji": "jiyuu",
-    "english": "free, unrestrained"
-  },
-  {
-    "kanji": "十分",
-    "hiragana": "じゅうぶん",
-    "romaji": "jyuubun",
-    "english": "sufficient"
-  },
-  {
-    "kanji": "大好き",
-    "hiragana": "だいすき",
-    "romaji": "daisuki",
-    "english": "Passionate"
-  },
-  {
-    "kanji": "適当",
-    "hiragana": "てきとう",
-    "romaji": "tekitou",
-    "english": "proper, suitable"
-  },
-  {
-    "kanji": "特別",
-    "hiragana": "とくべつ",
-    "romaji": "Tokubetsu",
-    "english": "special"
-  },
-  {
-    "kanji": "熱心",
-    "hiragana": "ねっしん",
-    "romaji": "nesshin",
-    "english": "eager, enthusiastic"
-  },
-  {
-    "kanji": "必要",
-    "hiragana": "ひつよう",
-    "romaji": "Hitsuyou",
-    "english": "necessary"
-  },
-  {
-    "kanji": "真直ぐ",
-    "hiragana": "まっすぐ",
-    "romaji": "massugu",
-    "english": "straight"
-  },
-  {
-    "kanji": "無理",
-    "hiragana": "むり",
-    "romaji": "muri",
-    "english": "unreasonnable"
-  },
-  {
-    "kanji": "立派",
-    "hiragana": "りっぱ",
-    "romaji": "Rippa",
-    "english": "Excellent, splendid,fine"
-  }
+	{
+		"kanji": "青い",
+		"hiragana": "あおい",
+		"romaji": "aoi",
+		"english": "blue"
+	},
+	{
+		"kanji": "赤い",
+		"hiragana": "あかい",
+		"romaji": "akai",
+		"english": "red"
+	},
+	{
+		"kanji": "明るい",
+		"hiragana": "あかるい",
+		"romaji": "akarui",
+		"english": "light, bright"
+	},
+	{
+		"kanji": "温かい",
+		"hiragana": "あたたかい",
+		"romaji": "atatakai",
+		"english": "warm"
+	},
+	{
+		"kanji": "新しい",
+		"hiragana": "あたらしい",
+		"romaji": "atarashii",
+		"english": "new"
+	},
+	{
+		"kanji": "暑い",
+		"hiragana": "あつい",
+		"romaji": "atsui",
+		"english": "hot (air)"
+	},
+	{
+		"kanji": "厚い",
+		"hiragana": "あつい",
+		"romaji": "atsui",
+		"english": "thick"
+	},
+	{
+		"kanji": "危ない",
+		"hiragana": "あぶない",
+		"romaji": "abunai",
+		"english": "dangerous"
+	},
+	{
+		"kanji": "甘い",
+		"hiragana": "あまい",
+		"romaji": "amai",
+		"english": "sweet"
+	},
+	{
+		"kanji": "良い",
+		"hiragana": "よい / いい",
+		"romaji": "yoi / ii",
+		"english": "good"
+	},
+	{
+		"kanji": "忙しい",
+		"hiragana": "いそがしい",
+		"romaji": "isogashii",
+		"english": "to be busy"
+	},
+	{
+		"kanji": "痛い",
+		"hiragana": "いたい",
+		"romaji": "itai",
+		"english": "to be painful"
+	},
+	{
+		"kanji": "薄い",
+		"hiragana": "うすい",
+		"romaji": "usui",
+		"english": "thin"
+	},
+	{
+		"kanji": "美味しい",
+		"hiragana": "おいしい",
+		"romaji": "oishii",
+		"english": "tasty, delicious"
+	},
+	{
+		"kanji": "大きい",
+		"hiragana": "おおきい",
+		"romaji": "ookii",
+		"english": "big"
+	},
+	{
+		"kanji": "遅い",
+		"hiragana": "おそい",
+		"romaji": "osoi",
+		"english": "late, slow"
+	},
+	{
+		"kanji": "重い",
+		"hiragana": "おもい",
+		"romaji": "omoi",
+		"english": "heavy"
+	},
+	{
+		"kanji": "面白い",
+		"hiragana": "おもしろい",
+		"romaji": "omoshiroi",
+		"english": "intersting, funny"
+	},
+	{
+		"kanji": "辛い",
+		"hiragana": "からい",
+		"romaji": "karai",
+		"english": "hot, spicy"
+	},
+	{
+		"kanji": "軽い",
+		"hiragana": "かるい",
+		"romaji": "karui",
+		"english": "light (not heavy)"
+	},
+	{
+		"kanji": "可愛い",
+		"hiragana": "かわいい",
+		"romaji": "kawaii",
+		"english": "cute, pretty"
+	},
+	{
+		"kanji": "黄色い",
+		"hiragana": "きいろい",
+		"romaji": "kiiroi",
+		"english": "yellow"
+	},
+	{
+		"kanji": "汚い",
+		"hiragana": "きたない",
+		"romaji": "kitanai",
+		"english": "dirty"
+	},
+	{
+		"kanji": "暗い",
+		"hiragana": "くらい",
+		"romaji": "kurai",
+		"english": "dark"
+	},
+	{
+		"kanji": "黒い",
+		"hiragana": "くろい",
+		"romaji": "kuroi",
+		"english": "black"
+	},
+	{
+		"kanji": "寒い",
+		"hiragana": "さむい",
+		"romaji": "samui",
+		"english": "cold"
+	},
+	{
+		"kanji": "白い",
+		"hiragana": "しろい",
+		"romaji": "shiroi",
+		"english": "white"
+	},
+	{
+		"kanji": "涼しい",
+		"hiragana": "すずしい",
+		"romaji": "suzushii",
+		"english": "cool"
+	},
+	{
+		"kanji": "狭い",
+		"hiragana": "せまい",
+		"romaji": "semai",
+		"english": "narrow"
+	},
+	{
+		"kanji": "高い",
+		"hiragana": "たかい",
+		"romaji": "takai",
+		"english": "high, expensive"
+	},
+	{
+		"kanji": "楽しい",
+		"hiragana": "たのしい",
+		"romaji": "tanoshii",
+		"english": "pleasant, enjoyable"
+	},
+	{
+		"kanji": "小さい",
+		"hiragana": "ちいさい",
+		"romaji": "chiisai",
+		"english": "small"
+	},
+	{
+		"kanji": "近い",
+		"hiragana": "ちかい",
+		"romaji": "chikai",
+		"english": "near, close"
+	},
+	{
+		"kanji": "詰らない",
+		"hiragana": "つまらない",
+		"romaji": "tsumaranai",
+		"english": "uninteresting"
+	},
+	{
+		"kanji": "冷たい",
+		"hiragana": "つめたい",
+		"romaji": "tsumetai",
+		"english": "cold"
+	},
+	{
+		"kanji": "強い",
+		"hiragana": "つよい",
+		"romaji": "tsuyoi",
+		"english": "strong"
+	},
+	{
+		"kanji": "遠い",
+		"hiragana": "とおい",
+		"romaji": "tooi",
+		"english": "far"
+	},
+	{
+		"kanji": "長い",
+		"hiragana": "ながい",
+		"romaji": "nagai",
+		"english": "long"
+	},
+	{
+		"kanji": "早い",
+		"hiragana": "はやい",
+		"romaji": "hayai",
+		"english": "early"
+	},
+	{
+		"kanji": "速い",
+		"hiragana": "はやい",
+		"romaji": "hayai",
+		"english": "fast, quick"
+	},
+	{
+		"kanji": "低い",
+		"hiragana": "ひくい",
+		"romaji": "hikui",
+		"english": "low"
+	},
+	{
+		"kanji": "広い",
+		"hiragana": "ひろい",
+		"romaji": "hiroi",
+		"english": "wide, spacious"
+	},
+	{
+		"kanji": "太い",
+		"hiragana": "ふとい",
+		"romaji": "futoi",
+		"english": "thick, fat"
+	},
+	{
+		"kanji": "古い",
+		"hiragana": "ふるい",
+		"romaji": "furui",
+		"english": "old"
+	},
+	{
+		"kanji": "欲しい",
+		"hiragana": "ほしい",
+		"romaji": "hoshii",
+		"english": "to want something"
+	},
+	{
+		"kanji": "細い",
+		"hiragana": "ほそい",
+		"romaji": "hosoi",
+		"english": "thin, fine"
+	},
+	{
+		"kanji": "不味い",
+		"hiragana": "まずい",
+		"romaji": "mazui",
+		"english": "bad tasting"
+	},
+	{
+		"kanji": "丸い",
+		"hiragana": "まるい",
+		"romaji": "marui",
+		"english": "round"
+	},
+	{
+		"kanji": "短い",
+		"hiragana": "みじかい",
+		"romaji": "mijikai",
+		"english": "short"
+	},
+	{
+		"kanji": "難しい",
+		"hiragana": "むずかしい",
+		"romaji": "muzukashii",
+		"english": "difficult"
+	},
+	{
+		"kanji": "優しい",
+		"hiragana": "やさしい",
+		"romaji": "yasashii",
+		"english": "gentle"
+	},
+	{
+		"kanji": "安い",
+		"hiragana": "やすい",
+		"romaji": "yasui",
+		"english": "cheap"
+	},
+	{
+		"kanji": "若い",
+		"hiragana": "わかい",
+		"romaji": "wakai",
+		"english": "young"
+	},
+	{
+		"kanji": "好き",
+		"hiragana": "すき",
+		"romaji": "Suki",
+		"english": "Like, love"
+	},
+	{
+		"kanji": "結構",
+		"hiragana": "けっこう",
+		"romaji": "Kekkou",
+		"english": "wonderful,enviable"
+	},
+	{
+		"kanji": "有名",
+		"hiragana": "ゆうめい",
+		"romaji": "Yuumei",
+		"english": "Famous"
+	},
+	{
+		"kanji": "きれい",
+		"hiragana": "きれい",
+		"romaji": "Kirei",
+		"english": "Pretty, beautiful"
+	},
+	{
+		"kanji": "丁寧",
+		"hiragana": "ていねい",
+		"romaji": "teinei",
+		"english": "polite"
+	},
+	{
+		"kanji": "嫌い",
+		"hiragana": "きらい",
+		"romaji": "kirai",
+		"english": "to not like"
+	},
+	{
+		"kanji": "静か",
+		"hiragana": "しずか",
+		"romaji": "shizuka",
+		"english": "quiet"
+	},
+	{
+		"kanji": "暇",
+		"hiragana": "ひま",
+		"romaji": "hima",
+		"english": "free (time)"
+	},
+	{
+		"kanji": "賑やか",
+		"hiragana": "にぎやか",
+		"romaji": "nigiyaka",
+		"english": "lively"
+	},
+	{
+		"kanji": "便利",
+		"hiragana": "べんり",
+		"romaji": "benri",
+		"english": "useful, convenient"
+	},
+	{
+		"kanji": "元気",
+		"hiragana": "げんき",
+		"romaji": "genki",
+		"english": "healthy"
+	},
+	{
+		"kanji": "色々",
+		"hiragana": "いろいろ",
+		"romaji": "iroiro",
+		"english": "various"
+	},
+	{
+		"kanji": "大丈夫",
+		"hiragana": "だいじょうぶ",
+		"romaji": "daijoubu",
+		"english": "OK,fine"
+	},
+	{
+		"kanji": "丈夫",
+		"hiragana": "じょうぶ",
+		"romaji": "Joubu",
+		"english": "Healthy, robust"
+	},
+	{
+		"kanji": "大変",
+		"hiragana": "たいへん",
+		"romaji": "Taihen",
+		"english": "Terrible"
+	},
+	{
+		"kanji": "楽",
+		"hiragana": "らく",
+		"romaji": "Raku",
+		"english": "comfortable, easy"
+	},
+	{
+		"kanji": "大切",
+		"hiragana": "たいせつ",
+		"romaji": "Taisetsu",
+		"english": "important,precious"
+	},
+	{
+		"kanji": "上手",
+		"hiragana": "じょうず",
+		"romaji": "jyouzu",
+		"english": "good, skilled"
+	},
+	{
+		"kanji": "下手",
+		"hiragana": "へた",
+		"romaji": "heta",
+		"english": "bad at, unskilled"
+	},
+	{
+		"kanji": "一生懸命",
+		"hiragana": "いっしょうけんめい",
+		"romaji": "isshoukenmei",
+		"english": "to one’s fullest possibility"
+	},
+	{
+		"kanji": "危険",
+		"hiragana": "きけん",
+		"romaji": "kiken",
+		"english": "Dangerous"
+	},
+	{
+		"kanji": "残念",
+		"hiragana": "ざんねん",
+		"romaji": "zannen",
+		"english": "regrettable, dissapointing"
+	},
+	{
+		"kanji": "心配",
+		"hiragana": "しんぱい",
+		"romaji": "shinpai",
+		"english": "care, worry"
+	},
+	{
+		"kanji": "自由",
+		"hiragana": "じゆう",
+		"romaji": "jiyuu",
+		"english": "free, unrestrained"
+	},
+	{
+		"kanji": "十分",
+		"hiragana": "じゅうぶん",
+		"romaji": "jyuubun",
+		"english": "sufficient"
+	},
+	{
+		"kanji": "大好き",
+		"hiragana": "だいすき",
+		"romaji": "daisuki",
+		"english": "Passionate"
+	},
+	{
+		"kanji": "適当",
+		"hiragana": "てきとう",
+		"romaji": "tekitou",
+		"english": "proper, suitable"
+	},
+	{
+		"kanji": "特別",
+		"hiragana": "とくべつ",
+		"romaji": "Tokubetsu",
+		"english": "special"
+	},
+	{
+		"kanji": "熱心",
+		"hiragana": "ねっしん",
+		"romaji": "nesshin",
+		"english": "eager, enthusiastic"
+	},
+	{
+		"kanji": "必要",
+		"hiragana": "ひつよう",
+		"romaji": "Hitsuyou",
+		"english": "necessary"
+	},
+	{
+		"kanji": "真直ぐ",
+		"hiragana": "まっすぐ",
+		"romaji": "massugu",
+		"english": "straight"
+	},
+	{
+		"kanji": "無理",
+		"hiragana": "むり",
+		"romaji": "muri",
+		"english": "unreasonnable"
+	},
+	{
+		"kanji": "立派",
+		"hiragana": "りっぱ",
+		"romaji": "Rippa",
+		"english": "Excellent, splendid,fine"
+	}
 ]

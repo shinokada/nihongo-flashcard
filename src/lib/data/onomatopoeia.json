@@ -1,2272 +1,2272 @@
 [
-  {
-    "japanese": "あたふた",
-    "romaji": "atafuta",
-    "english": "hurriedly, hastily"
-  },
-  {
-    "japanese": "あっさり",
-    "romaji": "assari",
-    "english": "simple, lightly seasoned"
-  },
-  {
-    "japanese": "あっぷあっぷ",
-    "romaji": "appuappu",
-    "english": "glub-glub, blub-blub"
-  },
-  {
-    "japanese": "あはは",
-    "romaji": "ahaha",
-    "english": "ha-ha, har-har"
-  },
-  {
-    "japanese": "いそいそ",
-    "romaji": "isoiso",
-    "english": "cheerful"
-  },
-  {
-    "japanese": "いちゃいちゃ",
-    "romaji": "ichaicha",
-    "english": "flirt with"
-  },
-  {
-    "japanese": "いらいら",
-    "romaji": "iraira",
-    "english": "growing impatient, irritating"
-  },
-  {
-    "japanese": "うきうき",
-    "romaji": "ukiuki",
-    "english": "buoyant and cheerful, in high spirits"
-  },
-  {
-    "japanese": "うずうず",
-    "romaji": "uzuuzu",
-    "english": "be impatient, itch for"
-  },
-  {
-    "japanese": "うかうか",
-    "romaji": "ukauka",
-    "english": "off one's guard, idle, not attentive"
-  },
-  {
-    "japanese": "うじゃうじゃ",
-    "romaji": "uja uja",
-    "english": "swarm with"
-  },
-  {
-    "japanese": "うじうじ",
-    "romaji": "uji uji",
-    "english": "uncertianly, inrresolute, indecisively, vacilante"
-  },
-  {
-    "japanese": "うっかり",
-    "romaji": "ukkari",
-    "english": "absentmindedly, carelessly, inadvertently"
-  },
-  {
-    "japanese": "うっすら",
-    "romaji": "ussura",
-    "english": "faintly, slightly, lightly."
-  },
-  {
-    "japanese": "うっとり",
-    "romaji": "uttori",
-    "english": "filled with rapture, enchanted, enraptured"
-  },
-  {
-    "japanese": "うとうと",
-    "romaji": "utouto",
-    "english": "dozing"
-  },
-  {
-    "japanese": "うふふ",
-    "romaji": "ufufu",
-    "english": "titter, tee-hee"
-  },
-  {
-    "japanese": "うやむや",
-    "romaji": "uyamuya",
-    "english": "unsettled, undecided, indecisively."
-  },
-  {
-    "japanese": "うようよ",
-    "romaji": "uyouyo",
-    "english": "crawling, wriggling, covered with"
-  },
-  {
-    "japanese": "うろちょろ",
-    "romaji": "urochoro",
-    "english": "hang around, run around."
-  },
-  {
-    "japanese": "うんざり",
-    "romaji": "unnzari",
-    "english": "be disgusted (by, at, with), sick of, fed up with"
-  },
-  {
-    "japanese": "おぎゃおぎゃ",
-    "romaji": "ogyaogya",
-    "english": "wailing"
-  },
-  {
-    "japanese": "おろおろ",
-    "romaji": "orooro",
-    "english": "in bewilderment, thrown off balance, shaken"
-  },
-  {
-    "japanese": "かあかあ",
-    "romaji": "kaakaa",
-    "english": "caw"
-  },
-  {
-    "japanese": "があがあ",
-    "romaji": "gaagaa",
-    "english": "gabble."
-  },
-  {
-    "japanese": "がくん(と)",
-    "romaji": "gakunn",
-    "english": "with a jerk, suddenly"
-  },
-  {
-    "japanese": "かさかさ",
-    "romaji": "kasakasa",
-    "english": "dry"
-  },
-  {
-    "japanese": "カサカサ",
-    "romaji": "kasakasa",
-    "english": "rustle."
-  },
-  {
-    "japanese": "かしゃっ(と)",
-    "romaji": "kashatto",
-    "english": "click"
-  },
-  {
-    "japanese": "がしゃっ(と)",
-    "romaji": "gashatto",
-    "english": "crash,crack"
-  },
-  {
-    "japanese": "かすかす",
-    "romaji": "kasukasu",
-    "english": "dry and tasteless"
-  },
-  {
-    "japanese": "かたかた",
-    "romaji": "katakata",
-    "english": "clitter-clatter, clack-clack , rattle"
-  },
-  {
-    "japanese": "がたがた",
-    "romaji": "gatagata",
-    "english": "rickety, shaky"
-  },
-  {
-    "japanese": "がたっ(と)",
-    "romaji": "gatatto",
-    "english": "clank"
-  },
-  {
-    "japanese": "がたびし",
-    "romaji": "gatabishi",
-    "english": "rattle"
-  },
-  {
-    "japanese": "ガタンゴトン",
-    "romaji": "gatann",
-    "english": "clunk-glunk"
-  },
-  {
-    "japanese": "かちかち",
-    "romaji": "kachikachi",
-    "english": "hard"
-  },
-  {
-    "japanese": "カチッと",
-    "romaji": "kachi",
-    "english": "clink, plink, chink"
-  },
-  {
-    "japanese": "かちゃかちゃ",
-    "romaji": "kachakach",
-    "english": "clank"
-  },
-  {
-    "japanese": "ガチャン",
-    "romaji": "gachann",
-    "english": "bump"
-  },
-  {
-    "japanese": "かちん",
-    "romaji": "kachinn",
-    "english": "offended"
-  },
-  {
-    "japanese": "がっかり",
-    "romaji": "gakkari",
-    "english": "be disappointed (at), be dejected, lose heart, feel let down"
-  },
-  {
-    "japanese": "がっくり",
-    "romaji": "gakkuri",
-    "english": "drooping, heartbroken"
-  },
-  {
-    "japanese": "がつがつ",
-    "romaji": "gatsugatsu",
-    "english": "greedily, voraciously, burning with the desire"
-  },
-  {
-    "japanese": "がっちり",
-    "romaji": "gacchiri",
-    "english": "calculating, shrewd, steadfast"
-  },
-  {
-    "japanese": "かっ(と)",
-    "romaji": "katto",
-    "english": "a rage"
-  },
-  {
-    "japanese": "がっぽがっぽ",
-    "romaji": "gappogappo",
-    "english": "abundantly"
-  },
-  {
-    "japanese": "がっぽり",
-    "romaji": "gappori",
-    "english": "a wad"
-  },
-  {
-    "japanese": "かつん(と)",
-    "romaji": "gatsunn",
-    "english": "bam, thunk, whack."
-  },
-  {
-    "japanese": "がぶがぶ",
-    "romaji": "gabugabu",
-    "english": "gulping, guzzling"
-  },
-  {
-    "japanese": "がみがみ",
-    "romaji": "gamigami",
-    "english": "nagging, griping, snapping"
-  },
-  {
-    "japanese": "がやがや",
-    "romaji": "gayagaya",
-    "english": "noisily"
-  },
-  {
-    "japanese": "からから",
-    "romaji": "karakara",
-    "english": "dry, lightheartedly, innocently"
-  },
-  {
-    "japanese": "がらがら",
-    "romaji": "garagara",
-    "english": "rattle-rattle"
-  },
-  {
-    "japanese": "がらがら",
-    "romaji": "garagara",
-    "english": "empty"
-  },
-  {
-    "japanese": "からっ(と)",
-    "romaji": "karatto",
-    "english": "changing suddenly and completely"
-  },
-  {
-    "japanese": "がらり(と)",
-    "romaji": "garari",
-    "english": "completely"
-  },
-  {
-    "japanese": "がらん(と)",
-    "romaji": "garann",
-    "english": "empty, bare, deserted"
-  },
-  {
-    "japanese": "からんからん",
-    "romaji": "karannkarann",
-    "english": "clang-clang"
-  },
-  {
-    "japanese": "カリカリ",
-    "romaji": "karikari",
-    "english": "crisp, crunchy"
-  },
-  {
-    "japanese": "ガリガリ",
-    "romaji": "garigari",
-    "english": "crunch-crunch"
-  },
-  {
-    "japanese": "がん(と)",
-    "romaji": "gann",
-    "english": "conk, bang"
-  },
-  {
-    "japanese": "かんかん",
-    "romaji": "kannkann",
-    "english": "intense heat"
-  },
-  {
-    "japanese": "がんがん",
-    "romaji": "ganngann",
-    "english": "hard, strongly"
-  },
-  {
-    "japanese": "ぎいぎい",
-    "romaji": "giigii",
-    "english": "creaking"
-  },
-  {
-    "japanese": "ぎくしゃく",
-    "romaji": "gikushaku",
-    "english": "souring of a relationship, strain"
-  },
-  {
-    "japanese": "ぎくっ(と)",
-    "romaji": "gikutto",
-    "english": "startling, frightening"
-  },
-  {
-    "japanese": "ぎこぎこ",
-    "romaji": "gikogiko",
-    "english": "squeak squeak"
-  },
-  {
-    "japanese": "きちきち",
-    "romaji": "kichikichi",
-    "english": "be closely packed, precisely"
-  },
-  {
-    "japanese": "きちんと",
-    "romaji": "kichinnto",
-    "english": "neatly, accurately, exactly, orderly, properly"
-  },
-  {
-    "japanese": "ぎっしり",
-    "romaji": "gisshiri",
-    "english": "closely, tightly, crammed, jam-packed"
-  },
-  {
-    "japanese": "きっちり",
-    "romaji": "kicchiri",
-    "english": "tightly, exactly, perfectly"
-  },
-  {
-    "japanese": "きっ(と)",
-    "romaji": "kitto",
-    "english": "sharply, sternly"
-  },
-  {
-    "japanese": "きっぱり",
-    "romaji": "kippari",
-    "english": "definitely, decisively"
-  },
-  {
-    "japanese": "きびきび",
-    "romaji": "kibikibi",
-    "english": "briskly, energetically"
-  },
-  {
-    "japanese": "ギャアギャア",
-    "romaji": "gyaagyaa",
-    "english": "screech, scream, yak-yak"
-  },
-  {
-    "japanese": "キャッキャッ",
-    "romaji": "kyakkya",
-    "english": "chitter, chatter, giggle, cackle"
-  },
-  {
-    "japanese": "キャンキャン",
-    "romaji": "kyannkyann",
-    "english": "yelp, yap"
-  },
-  {
-    "japanese": "ぎゅうぎゅう",
-    "romaji": "gyu-gyu-",
-    "english": "squeezed, jam-packed, tight, tormenting"
-  },
-  {
-    "japanese": "きゅん",
-    "romaji": "kyuunn",
-    "english": "twinge of love with heart"
-  },
-  {
-    "japanese": "ぎゅっ(と)",
-    "romaji": "gyutto",
-    "english": "crunch"
-  },
-  {
-    "japanese": "きゅっきゅっ",
-    "romaji": "kyukkyutto",
-    "english": "squeaking"
-  },
-  {
-    "japanese": "きょとん",
-    "romaji": "kyotonn",
-    "english": "a blank look (of amazement), dazed"
-  },
-  {
-    "japanese": "きょろきょろ",
-    "romaji": "kyorokyoro",
-    "english": "look [walk] around restlessly or nervously"
-  },
-  {
-    "japanese": "きらきら",
-    "romaji": "kirakira",
-    "english": "glitter, sparkling, twinkling, glistening"
-  },
-  {
-    "japanese": "ぎらぎら",
-    "romaji": "giragira",
-    "english": "glaring, dazzling"
-  },
-  {
-    "japanese": "きらり",
-    "romaji": "kirari",
-    "english": "sparkle"
-  },
-  {
-    "japanese": "ぎりぎり",
-    "romaji": "girigiri",
-    "english": "last, just, at a threshold"
-  },
-  {
-    "japanese": "きりり",
-    "romaji": "kiriri",
-    "english": "sharp,tight, notidiotic"
-  },
-  {
-    "japanese": "ぐいぐい",
-    "romaji": "guigui",
-    "english": "strong, vigorous"
-  },
-  {
-    "japanese": "ぐうぐう",
-    "romaji": "guuguu",
-    "english": "rumbling sound"
-  },
-  {
-    "japanese": "ぐさっ(と)",
-    "romaji": "gusatto",
-    "english": "thuck, thuk, tsak, dagger thrust"
-  },
-  {
-    "japanese": "くしゃくしゃ",
-    "romaji": "kushakusha",
-    "english": "crumple, wrinkle"
-  },
-  {
-    "japanese": "ぐしょぐしょ",
-    "romaji": "gushogusho",
-    "english": "drenched wet"
-  },
-  {
-    "japanese": "くすくす",
-    "romaji": "kusukusu",
-    "english": "titter, giggle, chuckle, snicker"
-  },
-  {
-    "japanese": "ぐずぐず",
-    "romaji": "guzuguzu",
-    "english": "slowly, tardily, hesitantly, hesitatingly, dawdle"
-  },
-  {
-    "japanese": "くちゃくちゃ",
-    "romaji": "kuchakucha",
-    "english": "crumpled, smack"
-  },
-  {
-    "japanese": "ぐちゃぐちゃ",
-    "romaji": "guchgucha",
-    "english": "sloppy, soggy, messy"
-  },
-  {
-    "japanese": "くたくた",
-    "romaji": "kutakuta",
-    "english": "pooped, dead tired ,exhausted, mushy"
-  },
-  {
-    "japanese": "ぐつぐつ",
-    "romaji": "gutsugutsu",
-    "english": "bubble- bubble"
-  },
-  {
-    "japanese": "くっきり",
-    "romaji": "kukkiri",
-    "english": "clearly, distinctly"
-  },
-  {
-    "japanese": "ぐっすり",
-    "romaji": "gussuri",
-    "english": "sleep soundly"
-  },
-  {
-    "japanese": "ぐったり",
-    "romaji": "guttari",
-    "english": "limp with fatigue, slump, weary"
-  },
-  {
-    "japanese": "ぐっと",
-    "romaji": "gutto",
-    "english": "with all one's might,at a breath"
-  },
-  {
-    "japanese": "ぐどくど",
-    "romaji": "kudokudo",
-    "english": "tediously, repetitively"
-  },
-  {
-    "japanese": "ぐでんぐでん",
-    "romaji": "gudengudenn",
-    "english": "drunk"
-  },
-  {
-    "japanese": "ぐにゃり(と)",
-    "romaji": "gunyari",
-    "english": "flabbily bending"
-  },
-  {
-    "japanese": "くよくよ",
-    "romaji": "kuyokuyo",
-    "english": "fretting about, brooding over"
-  },
-  {
-    "japanese": "くねくね",
-    "romaji": "kunekune",
-    "english": "zigzag, wiggle"
-  },
-  {
-    "japanese": "ぐらぐら",
-    "romaji": "guragura",
-    "english": "wobble, totter, shake"
-  },
-  {
-    "japanese": "ぐるぐる",
-    "romaji": "guruguru",
-    "english": "wave circle, whirling round and round, spinning, coil around"
-  },
-  {
-    "japanese": "クンクン",
-    "romaji": "kunnkunn",
-    "english": "sniff-sniff, whine"
-  },
-  {
-    "japanese": "ぐんぐん",
-    "romaji": "gunngunn",
-    "english": "rapidly, steadily"
-  },
-  {
-    "japanese": "けちょんけちょん",
-    "romaji": "kechonnkechonn",
-    "english": "completely, thoroughly"
-  },
-  {
-    "japanese": "けばけば",
-    "romaji": "kebakeba",
-    "english": "showy, gaudy, garish"
-  },
-  {
-    "japanese": "げらげら",
-    "romaji": "geragera",
-    "english": "guffaw, haw-haw"
-  },
-  {
-    "japanese": "ごくごく",
-    "romaji": "gokugoku",
-    "english": "glub-glub, glug-glug glub-glub"
-  },
-  {
-    "japanese": "けろけろ",
-    "romaji": "kerokero",
-    "english": "croak"
-  },
-  {
-    "japanese": "げんなり",
-    "romaji": "gennnari",
-    "english": "be fed up,be dispirited"
-  },
-  {
-    "japanese": "ごうごう",
-    "romaji": "gougou",
-    "english": "roaring"
-  },
-  {
-    "japanese": "ごくごく",
-    "romaji": "gokugoku",
-    "english": "glub-glub"
-  },
-  {
-    "japanese": "ごくっと",
-    "romaji": "gokutto",
-    "english": "sound of gulping"
-  },
-  {
-    "japanese": "コケコッコー",
-    "romaji": "kokekokkou",
-    "english": "cock-a- doodle-doo"
-  },
-  {
-    "japanese": "ごしごし",
-    "romaji": "goshigoshi",
-    "english": "rub"
-  },
-  {
-    "japanese": "こそこそ",
-    "romaji": "kosokoso",
-    "english": "in whispers, sneaking, secretly"
-  },
-  {
-    "japanese": "ごたごた",
-    "romaji": "gotagota",
-    "english": "in disorder, in a jumble, messy, mixed up, dissension"
-  },
-  {
-    "japanese": "ごちゃごちゃ",
-    "romaji": "gochagocha",
-    "english": "messy, confused, griping"
-  },
-  {
-    "japanese": "ごちゃごちゃ",
-    "romaji": "gochagocha",
-    "english": "messy, confused, griping"
-  },
-  {
-    "japanese": "こちんこちん",
-    "romaji": "kochinnkochinn",
-    "english": "tense, strained"
-  },
-  {
-    "japanese": "こつこつ",
-    "romaji": "kotsukotsu",
-    "english": "tap-tap, steadily, untiringly"
-  },
-  {
-    "japanese": "ごつん(と)",
-    "romaji": "gotsunn",
-    "english": "thump, bump"
-  },
-  {
-    "japanese": "こっそり",
-    "romaji": "kossori",
-    "english": "stealthily, secretly, without being noticed"
-  },
-  {
-    "japanese": "ごっそり",
-    "romaji": "gossori",
-    "english": "all, completely, a lot"
-  },
-  {
-    "japanese": "こってり",
-    "romaji": "kotteri",
-    "english": "thickly, heavily, strongly, at length"
-  },
-  {
-    "japanese": "ことこと",
-    "romaji": "kotokoto",
-    "english": "rattling, clicking, simmering"
-  },
-  {
-    "japanese": "ごぼごぼ",
-    "romaji": "gobogobo",
-    "english": "gurgle"
-  },
-  {
-    "japanese": "ゴホゴホ",
-    "romaji": "gohogoho",
-    "english": "Cough! Coff coff coff."
-  },
-  {
-    "japanese": "こまごま",
-    "romaji": "komagoma",
-    "english": "little things, minutely, in detail"
-  },
-  {
-    "japanese": "ごりごり",
-    "romaji": "gorigori",
-    "english": "scraping, scratching"
-  },
-  {
-    "japanese": "ころころ",
-    "romaji": "korokoro",
-    "english": "small and round thing rolling, high-pitched sound ,something fickle"
-  },
-  {
-    "japanese": "ごろごろ",
-    "romaji": "gorogoro",
-    "english": "rumble, thundering. growling, roll on,purr"
-  },
-  {
-    "japanese": "ころっ(と)",
-    "romaji": "korotto",
-    "english": "sound of something small rolling once, complete reversal of a situation"
-  },
-  {
-    "japanese": "こわごわ",
-    "romaji": "kowagowa",
-    "english": "timidly, nervously, fearfully, gingerly"
-  },
-  {
-    "japanese": "ごわごわ",
-    "romaji": "kowagowa",
-    "english": "stiff,starchy"
-  },
-  {
-    "japanese": "こんがり",
-    "romaji": "konngari",
-    "english": "well-cooked, well-done, browned"
-  },
-  {
-    "japanese": "こんこん",
-    "romaji": "konnkonn",
-    "english": "tap-tap, knock-knock, cough-cough, heavily"
-  },
-  {
-    "japanese": "こんもり",
-    "romaji": "konnmori",
-    "english": "thickly, densely, luxuriantly"
-  },
-  {
-    "japanese": "ざあざあ",
-    "romaji": "zaazaa",
-    "english": "sound of rushing water, sound of pouring rain, white noise sound"
-  },
-  {
-    "japanese": "さあっ(と)",
-    "romaji": "saatto",
-    "english": "quite suddenly"
-  },
-  {
-    "japanese": "ざあっ(と)",
-    "romaji": "zaatto",
-    "english": "sound of water"
-  },
-  {
-    "japanese": "ざくざく",
-    "romaji": "zakuzaku",
-    "english": "lots of coins, sound of walking on frost"
-  },
-  {
-    "japanese": "ざっと",
-    "romaji": "zatto",
-    "english": "roughly, approximately, briefly, lightly"
-  },
-  {
-    "japanese": "さっぱり",
-    "romaji": "sappari",
-    "english": "neat and tidy,feel refreshed, frank, completely, simply"
-  },
-  {
-    "japanese": "さばさば",
-    "romaji": "sabasaba",
-    "english": "relief, candid"
-  },
-  {
-    "japanese": "ざぶざぶ",
-    "romaji": "zabuzabu",
-    "english": "gushing [of water]"
-  },
-  {
-    "japanese": "さむざむ",
-    "romaji": "samuzamu",
-    "english": "cold, chilly, wintry, desolate"
-  },
-  {
-    "japanese": "さらさら",
-    "romaji": "sarasara",
-    "english": "rustling, murmuring, fluently"
-  },
-  {
-    "japanese": "ざらざら",
-    "romaji": "zarazara",
-    "english": "rough, coarse"
-  },
-  {
-    "japanese": "さらり",
-    "romaji": "sarari",
-    "english": "sleek, smooth, without hesitation"
-  },
-  {
-    "japanese": "ざわざわ",
-    "romaji": "zawazawa",
-    "english": "noisy, sound of people talking"
-  },
-  {
-    "japanese": "さんさん",
-    "romaji": "sannsann",
-    "english": "brilliant, bright"
-  },
-  {
-    "japanese": "ジイジイ",
-    "romaji": "jiijii",
-    "english": "sizzle, shrill droning of a cicada"
-  },
-  {
-    "japanese": "しくしく",
-    "romaji": "shikushiku",
-    "english": "sob"
-  },
-  {
-    "japanese": "じくじく",
-    "romaji": "jikujiku",
-    "english": "oozily"
-  },
-  {
-    "japanese": "じたばた",
-    "romaji": "jitabata",
-    "english": "struggle, wriggle"
-  },
-  {
-    "japanese": "しっかり",
-    "romaji": "shikkari",
-    "english": "fast, tightly, firm, reliable"
-  },
-  {
-    "japanese": "じっくり",
-    "romaji": "jikkuri",
-    "english": "slowly and carefully"
-  },
-  {
-    "japanese": "しっとり",
-    "romaji": "shittori",
-    "english": "calm, graceful, damp, moist"
-  },
-  {
-    "japanese": "じっとり",
-    "romaji": "jittori",
-    "english": "damp, moist"
-  },
-  {
-    "japanese": "じとじと",
-    "romaji": "jitojito",
-    "english": "damp, humid"
-  },
-  {
-    "japanese": "しぶしぶ",
-    "romaji": "shibushibu",
-    "english": "reluctantly, grudgingly"
-  },
-  {
-    "japanese": "じめじめ",
-    "romaji": "jimejime",
-    "english": "damp, humid, clammy, gloomy"
-  },
-  {
-    "japanese": "じゃーじゃー",
-    "romaji": "ja-ja-",
-    "english": "The sound of hard raining or frying"
-  },
-  {
-    "japanese": "じゃかすか",
-    "romaji": "jakasuka",
-    "english": "with gusto"
-  },
-  {
-    "japanese": "じゃぶじゃぶ",
-    "romaji": "jabujabu",
-    "english": "splashing water sound"
-  },
-  {
-    "japanese": "しゃなりしゃなり",
-    "romaji": "shanarishanari",
-    "english": "gracefully, mincingly"
-  },
-  {
-    "japanese": "じゃりじゃり",
-    "romaji": "jarijari",
-    "english": "crunchy, sound of walking on sands"
-  },
-  {
-    "japanese": "しゃんしゃん",
-    "romaji": "shanshann",
-    "english": "the ting‐a‐ling, be hale and hearty"
-  },
-  {
-    "japanese": "じゃんじゃん",
-    "romaji": "janjan",
-    "english": "ding‐dong, jingle‐jangle, something happening non-stop"
-  },
-  {
-    "japanese": "シュシュポッポ",
-    "romaji": "shushupoppo",
-    "english": "Choo-choo, sound of locomotive"
-  },
-  {
-    "japanese": "しょぼしょぼ",
-    "romaji": "shoboshobo",
-    "english": "drizzling, weakly, feeble."
-  },
-  {
-    "japanese": "しょんぼり",
-    "romaji": "shonnbori",
-    "english": "looking miserable, being downhearted"
-  },
-  {
-    "japanese": "じゅっ(と)",
-    "romaji": "jutto",
-    "english": "sound of sizzling or dropping a heated iron into water"
-  },
-  {
-    "japanese": "じりじり",
-    "romaji": "jirijir",
-    "english": "running out of patience, slowly approaching"
-  },
-  {
-    "japanese": "しりめつれつ",
-    "romaji": "shirimetsuretsu",
-    "english": "inconsistency, incoherence"
-  },
-  {
-    "japanese": "じろじろ",
-    "romaji": "jirojiro",
-    "english": "stare, scrutinize"
-  },
-  {
-    "japanese": "じわじわ",
-    "romaji": "jiwajiwa",
-    "english": "gradually, slowly"
-  },
-  {
-    "japanese": "しん(と)",
-    "romaji": "shinnto",
-    "english": "deadly silent"
-  },
-  {
-    "japanese": "しんみり",
-    "romaji": "shinnmiri",
-    "english": "solemn, serious, sad"
-  },
-  {
-    "japanese": "すうっ(と)",
-    "romaji": "suutto",
-    "english": "refreshed, relieved, straight"
-  },
-  {
-    "japanese": "ずかずか",
-    "romaji": "zukazuka",
-    "english": "without hestation, without consideration"
-  },
-  {
-    "japanese": "すかっ(と)",
-    "romaji": "sukatto",
-    "english": "refreshed, clear"
-  },
-  {
-    "japanese": "ずきずき",
-    "romaji": "zukizuki",
-    "english": "throbbing pain"
-  },
-  {
-    "japanese": "すくすく",
-    "romaji": "sukusuku",
-    "english": "quickly, fast, rapidly"
-  },
-  {
-    "japanese": "ずけずけ",
-    "romaji": "zukezuke",
-    "english": "blunt [speaking], openly speaking"
-  },
-  {
-    "japanese": "すごすご",
-    "romaji": "sugosugo",
-    "english": "disheartened, dejected"
-  },
-  {
-    "japanese": "ずっしり",
-    "romaji": "zusshiri",
-    "english": "heavily, profoundly"
-  },
-  {
-    "japanese": "ずずん(と)",
-    "romaji": "zuzunn",
-    "english": "deep rumble"
-  },
-  {
-    "japanese": "すたすた",
-    "romaji": "sutszuta",
-    "english": "stepping straight forward, quickly with no looking back"
-  },
-  {
-    "japanese": "ずたずた",
-    "romaji": "zutazuta",
-    "english": "to pieces, into shreds"
-  },
-  {
-    "japanese": "すっからかん",
-    "romaji": "sukkarakann",
-    "english": "completely empty, penniless broke"
-  },
-  {
-    "japanese": "すっかり",
-    "romaji": "sukkari",
-    "english": "completely, really, quite"
-  },
-  {
-    "japanese": "すっきり",
-    "romaji": "sukkiri",
-    "english": "refreshing, straightforward [clear]"
-  },
-  {
-    "japanese": "ずっしり",
-    "romaji": "zusshiri",
-    "english": "heavily, profoundly"
-  },
-  {
-    "japanese": "すっぽり",
-    "romaji": "suppori",
-    "english": "entirely, completely, snugly"
-  },
-  {
-    "japanese": "すとん(と)",
-    "romaji": "sutonn",
-    "english": "a thump, straight down"
-  },
-  {
-    "japanese": "ずどん",
-    "romaji": "zudonn",
-    "english": "a bang"
-  },
-  {
-    "japanese": "すぱっ(と)",
-    "romaji": "supatto",
-    "english": "cleanly, easily"
-  },
-  {
-    "japanese": "ずぶっ(と)",
-    "romaji": "zubutto",
-    "english": "thuck, thuk"
-  },
-  {
-    "japanese": "ずぶずぶ",
-    "romaji": "zubuzubu",
-    "english": "get stuck, deep involvement"
-  },
-  {
-    "japanese": "すべすべ",
-    "romaji": "subesube",
-    "english": "smooth, sleek, silky"
-  },
-  {
-    "japanese": "すやすや",
-    "romaji": "suyasuya",
-    "english": "[sleeping] peacefully or quietly"
-  },
-  {
-    "japanese": "すらすら",
-    "romaji": "surasura",
-    "english": "easily, effortlessly, without any trouble, smoothly"
-  },
-  {
-    "japanese": "ずらり",
-    "romaji": "zurari",
-    "english": "in a row, lined up"
-  },
-  {
-    "japanese": "するする",
-    "romaji": "surusuru",
-    "english": "smoothly, swiftly"
-  },
-  {
-    "japanese": "するり(と)",
-    "romaji": "sururi",
-    "english": "with a smooth, without delay"
-  },
-  {
-    "japanese": "すれすれ",
-    "romaji": "suresure",
-    "english": "closely, nearly touching, barely enough"
-  },
-  {
-    "japanese": "すんなり",
-    "romaji": "sunnnari",
-    "english": "without any trouble, slender"
-  },
-  {
-    "japanese": "せっせ",
-    "romaji": "sesse",
-    "english": "hard, diligently, busily, frequently"
-  },
-  {
-    "japanese": "ぞくぞく",
-    "romaji": "zokuzoku",
-    "english": "shivering with cold or fear, be thrilled"
-  },
-  {
-    "japanese": "ぞっこん",
-    "romaji": "zokkon",
-    "english": "completely, entirely"
-  },
-  {
-    "japanese": "ぞっと",
-    "romaji": "zotto",
-    "english": "shudder, bloodcurdling, hair-raising, horrifying, shiverinig"
-  },
-  {
-    "japanese": "そよそよ",
-    "romaji": "soyosoyo",
-    "english": "softly breeze"
-  },
-  {
-    "japanese": "ぞりぞり",
-    "romaji": "zorizori",
-    "english": "scraping"
-  },
-  {
-    "japanese": "そろそろ",
-    "romaji": "sorosoro",
-    "english": "slowly, quietly, almost [the time]"
-  },
-  {
-    "japanese": "ぞろぞろ",
-    "romaji": "zorozoro",
-    "english": "in groups"
-  },
-  {
-    "japanese": "そろり",
-    "romaji": "sorori",
-    "english": "[move] quietly and slowly, slow and smoothly"
-  },
-  {
-    "japanese": "そわそわ",
-    "romaji": "sowasowa",
-    "english": "restless, fidgety, nervous excitement"
-  },
-  {
-    "japanese": "だくだく",
-    "romaji": "dakudaku",
-    "english": "gush out"
-  },
-  {
-    "japanese": "たじたじ",
-    "romaji": "tajitaji",
-    "english": "flinching cowering, quailing, upsetting"
-  },
-  {
-    "japanese": "たっぷり",
-    "romaji": "tappuri",
-    "english": "full of, plenty"
-  },
-  {
-    "japanese": "だぶだぶ",
-    "romaji": "dabudabu",
-    "english": "loose, too big,  too much"
-  },
-  {
-    "japanese": "たらーん",
-    "romaji": "taran",
-    "english": "dangling"
-  },
-  {
-    "japanese": "たらたら",
-    "romaji": "taratara",
-    "english": "dribbling, in a trickle"
-  },
-  {
-    "japanese": "だらだら",
-    "romaji": "daradara",
-    "english": "idling,  inefficient, prolongeing, dragging"
-  },
-  {
-    "japanese": "だらり",
-    "romaji": "darari",
-    "english": "languidly, loosely"
-  },
-  {
-    "japanese": "だんだん",
-    "romaji": "danndann",
-    "english": "gradually, by degrees"
-  },
-  {
-    "japanese": "ちかちか",
-    "romaji": "chikachika",
-    "english": "twinkle, winkle, wink, flash, blink"
-  },
-  {
-    "japanese": "チクタク",
-    "romaji": "chikutaku",
-    "english": "ticktock, ticktack"
-  },
-  {
-    "japanese": "ちくちく",
-    "romaji": "chikuchiku",
-    "english": "picking pain, prick"
-  },
-  {
-    "japanese": "ちくっ(と)",
-    "romaji": "chikkuto",
-    "english": "pricking"
-  },
-  {
-    "japanese": "ちぐはぐ",
-    "romaji": "chiguhagu",
-    "english": "odd [pairing], incoherent, out of step"
-  },
-  {
-    "japanese": "ちびちび",
-    "romaji": "chibichibi",
-    "english": "in small sips, little by little"
-  },
-  {
-    "japanese": "ちゃくちゃくと",
-    "romaji": "chakuchaku",
-    "english": "step by step, steadily [ahead]"
-  },
-  {
-    "japanese": "ちゃっかり",
-    "romaji": "chakkari",
-    "english": "shrewd, calculating, nervy"
-  },
-  {
-    "japanese": "ちゃりん",
-    "romaji": "charinn",
-    "english": "a clink"
-  },
-  {
-    "japanese": "ちゃんと",
-    "romaji": "channto",
-    "english": "regularly, neatly, straight, properly"
-  },
-  {
-    "japanese": "ちゅうちゅう",
-    "romaji": "chuuchuu",
-    "english": "squeaking"
-  },
-  {
-    "japanese": "ちゅんちゅん",
-    "romaji": "chunnchunn",
-    "english": "chirp, cheep"
-  },
-  {
-    "japanese": "ちょいちょい",
-    "romaji": "choichoi",
-    "english": "often, frequently, now and then"
-  },
-  {
-    "japanese": "ちょきちょき",
-    "romaji": "chokichoki",
-    "english": "clip clip"
-  },
-  {
-    "japanese": "ちょくちょく",
-    "romaji": "chokuchoku",
-    "english": "often, frequently, now and then"
-  },
-  {
-    "japanese": "ちょっぴり",
-    "romaji": "choppiri",
-    "english": "very little bit, tiny bit"
-  },
-  {
-    "japanese": "ちょろちょろ",
-    "romaji": "chorochoro",
-    "english": "darting about, in trickles"
-  },
-  {
-    "japanese": "ちやほや",
-    "romaji": "chiyahoya",
-    "english": "spoiling, pampering, all the attention"
-  },
-  {
-    "japanese": "ちらちら",
-    "romaji": "chirachira",
-    "english": "fluttering ,twinkling, glimmering, off and on"
-  },
-  {
-    "japanese": "ちりんちりん",
-    "romaji": "chirinn chirinn",
-    "english": "jangle"
-  },
-  {
-    "japanese": "ちんちろりん",
-    "romaji": "chinnchirorin",
-    "english": "chirrups"
-  },
-  {
-    "japanese": "つくづく",
-    "romaji": "tsukuzuku",
-    "english": "carefully, attentively, completely"
-  },
-  {
-    "japanese": "つべこべ",
-    "romaji": "tsubekobe",
-    "english": "complaining, nitpicking"
-  },
-  {
-    "japanese": "つるつる",
-    "romaji": "tsurutsuru",
-    "english": "slurping sound,soft and smooth, slippery"
-  },
-  {
-    "japanese": "つんつん",
-    "romaji": "tsunntsunn",
-    "english": "aloof, morose, pointed, haughtily"
-  },
-  {
-    "japanese": "てきぱき",
-    "romaji": "tekipaki",
-    "english": "in a crisp manner、brisk action"
-  },
-  {
-    "japanese": "でこぼこ",
-    "romaji": "dekoboko",
-    "english": "unevenness, ruggedness"
-  },
-  {
-    "japanese": "どかっ(と)",
-    "romaji": "dokatto",
-    "english": "thuddingly, plumping down"
-  },
-  {
-    "japanese": "どきどき",
-    "romaji": "dokidoki",
-    "english": "thumpity-thump, beat fast, throb"
-  },
-  {
-    "japanese": "とくとく",
-    "romaji": "tokutoku",
-    "english": "glug‐glug"
-  },
-  {
-    "japanese": "とことん",
-    "romaji": "tokotonn",
-    "english": "to the end, thoroughly"
-  },
-  {
-    "japanese": "どさっ(と)",
-    "romaji": "dosatto",
-    "english": "with a thud"
-  },
-  {
-    "japanese": "どしどし",
-    "romaji": "doshidoshi",
-    "english": "freely, in large numbers"
-  },
-  {
-    "japanese": "どすんどすん",
-    "romaji": "dosunndosunn",
-    "english": "thud-thud"
-  },
-  {
-    "japanese": "どたばた",
-    "romaji": "dotabata",
-    "english": "noisily, kick and struggle"
-  },
-  {
-    "japanese": "ドッカーン",
-    "romaji": "dokka-n",
-    "english": "kaboom"
-  },
-  {
-    "japanese": "どっさり",
-    "romaji": "dossari",
-    "english": "lot of, heaps"
-  },
-  {
-    "japanese": "どっしり(と)",
-    "romaji": "dosshiri",
-    "english": "bulky and heavy, unflappable"
-  },
-  {
-    "japanese": "とっとと",
-    "romaji": "tottoto",
-    "english": "quickly, fast, hurriedly"
-  },
-  {
-    "japanese": "どっ(と)",
-    "romaji": "dotto",
-    "english": "suddenly, all at once"
-  },
-  {
-    "japanese": "どっぷり",
-    "romaji": "doppuri",
-    "english": "totally immersed in something"
-  },
-  {
-    "japanese": "どぶん",
-    "romaji": "dobunn",
-    "english": "plop, splash"
-  },
-  {
-    "japanese": "とぼとぼ",
-    "romaji": "tobotobo",
-    "english": "plodding, trudging"
-  },
-  {
-    "japanese": "どやどや",
-    "romaji": "doyadoya",
-    "english": "sound of many footsteps"
-  },
-  {
-    "japanese": "とろっ(と)",
-    "romaji": "torotto",
-    "english": "to become syrupy"
-  },
-  {
-    "japanese": "とろとろ",
-    "romaji": "torotoro",
-    "english": "simmering, syrupy"
-  },
-  {
-    "japanese": "どろどろ",
-    "romaji": "dorodoro",
-    "english": "syrupy, muddled"
-  },
-  {
-    "japanese": "どんちゃん",
-    "romaji": "donnchann",
-    "english": "riotous"
-  },
-  {
-    "japanese": "どんどん",
-    "romaji": "donndonn",
-    "english": "rub-a-dub, boom! boom!, steadily, rapidly"
-  },
-  {
-    "japanese": "どんより",
-    "romaji": "donnyori",
-    "english": "leaden or gloomy [sky], dull"
-  },
-  {
-    "japanese": "なみなみ",
-    "romaji": "naminami",
-    "english": "to the brim, uncommon"
-  },
-  {
-    "japanese": "のこのこ",
-    "romaji": "nokonoko",
-    "english": "unconcernedly, nonchalantly"
-  },
-  {
-    "japanese": "のほほん(と)",
-    "romaji": "nohohonnto",
-    "english": "nonchalantly"
-  },
-  {
-    "japanese": "のろのろ",
-    "romaji": "noronoro",
-    "english": "slowly, snail's pace, crawling"
-  },
-  {
-    "japanese": "のんびり",
-    "romaji": "nonnbiri",
-    "english": "leisurely, easygoing, carefree"
-  },
-  {
-    "japanese": "にこにこ",
-    "romaji": "nikoniko",
-    "english": "smile, beaming, cheerful"
-  },
-  {
-    "japanese": "にっこり",
-    "romaji": "nikkori",
-    "english": "smile sweetly, smile, grin"
-  },
-  {
-    "japanese": "にやにや",
-    "romaji": "niyaniya",
-    "english": "grinning, smirking"
-  },
-  {
-    "japanese": "にゃあにゃあ",
-    "romaji": "nyaanyaa",
-    "english": "meow"
-  },
-  {
-    "japanese": "にょきにょき",
-    "romaji": "nyokinyoki",
-    "english": "shooting up one after another"
-  },
-  {
-    "japanese": "にんまり",
-    "romaji": "ninnmari",
-    "english": "complacent smile"
-  },
-  {
-    "japanese": "ぬくぬく",
-    "romaji": "nukunuku",
-    "english": "comfortably, snugly, cosily"
-  },
-  {
-    "japanese": "ぬっ(と)",
-    "romaji": "nutto",
-    "english": "suddenly, abruptly"
-  },
-  {
-    "japanese": "ぬるぬる",
-    "romaji": "nurunuru",
-    "english": "slimy, slippery"
-  },
-  {
-    "japanese": "ねちねち",
-    "romaji": "nechinechi",
-    "english": "sticky, persistent"
-  },
-  {
-    "japanese": "ねばねば",
-    "romaji": "nebaneba",
-    "english": "stickiness"
-  },
-  {
-    "japanese": "ぱあっ(と)",
-    "romaji": "paatto",
-    "english": "enthusiastically, going all out"
-  },
-  {
-    "japanese": "はきはき",
-    "romaji": "hakihaki",
-    "english": "clearly, briskly, with alacrity"
-  },
-  {
-    "japanese": "ハクション",
-    "romaji": "hakushon",
-    "english": "choo, ah-choo, ka-choo, ker-choo."
-  },
-  {
-    "japanese": "ぱくり",
-    "romaji": "pakuri",
-    "english": "snapping into, biting into"
-  },
-  {
-    "japanese": "ぱさっ(と)",
-    "romaji": "basatto",
-    "english": "whack, lop off"
-  },
-  {
-    "japanese": "ぱさぱさ",
-    "romaji": "pasapasa",
-    "english": "friable, crumbly, dried"
-  },
-  {
-    "japanese": "はた(と)",
-    "romaji": "hatato",
-    "english": "suddenly, sharply"
-  },
-  {
-    "japanese": "ぱたっ(と)",
-    "romaji": "patatto",
-    "english": "suddenly, plop sound"
-  },
-  {
-    "japanese": "パタパタ",
-    "romaji": "hatahata",
-    "english": "flapping sound"
-  },
-  {
-    "japanese": "ばたばた",
-    "romaji": "batabata",
-    "english": "flapping rattling sound,  commotion"
-  },
-  {
-    "japanese": "ばたん(と)",
-    "romaji": "batann",
-    "english": "with a bang, smartly"
-  },
-  {
-    "japanese": "ぱちぱち",
-    "romaji": "pachipachi",
-    "english": "pop-pop, snap-snap"
-  },
-  {
-    "japanese": "はっきり",
-    "romaji": "hakkiri",
-    "english": "clear, distinct."
-  },
-  {
-    "japanese": "はっと",
-    "romaji": "hatto",
-    "english": "startled"
-  },
-  {
-    "japanese": "ぱっと",
-    "romaji": "patto",
-    "english": "suddenly, all at once"
-  },
-  {
-    "japanese": "はらはら",
-    "romaji": "harahara",
-    "english": "feel uneasy [nervous], thrilling"
-  },
-  {
-    "japanese": "ぱらぱら",
-    "romaji": "parapara",
-    "english": "rain sprinklong sound, or hail pattering  sound, riffling pages"
-  },
-  {
-    "japanese": "ばらばら",
-    "romaji": "barabara",
-    "english": "scattering, dismembering"
-  },
-  {
-    "japanese": "ばったりと",
-    "romaji": "pattarito",
-    "english": "sudden [fall], abrupt stop"
-  },
-  {
-    "japanese": "ばりっ(と)",
-    "romaji": "baritto",
-    "english": "a sound of tearing/ ripping"
-  },
-  {
-    "japanese": "ばん(と)",
-    "romaji": "bannto",
-    "english": "a bang of gun"
-  },
-  {
-    "japanese": "ばんばん",
-    "romaji": "bannbann",
-    "english": "doing something at a mad pace"
-  },
-  {
-    "japanese": "ばんばん",
-    "romaji": "pannpann",
-    "english": "kapow, bang, clap-clap"
-  },
-  {
-    "japanese": "ぴいぴい",
-    "romaji": "piipii",
-    "english": "peep"
-  },
-  {
-    "japanese": "ひぃんひぃん",
-    "romaji": "hii-nnhii-nn",
-    "english": "neigh of a horse"
-  },
-  {
-    "japanese": "ぴかぴか",
-    "romaji": "pikapika",
-    "english": "shining, glitteriing, glistening"
-  },
-  {
-    "japanese": "ぴかり",
-    "romaji": "pikari",
-    "english": "a flash of light"
-  },
-  {
-    "japanese": "ぴくっ(と)",
-    "romaji": "pikutto",
-    "english": "twitch,jerk"
-  },
-  {
-    "japanese": "ぴくぴく",
-    "romaji": "pikupiku",
-    "english": "twitching"
-  },
-  {
-    "japanese": "びくびく",
-    "romaji": "bikubiku",
-    "english": "being afraid of, timid, nervous"
-  },
-  {
-    "japanese": "びしっ(と)",
-    "romaji": "bishitto",
-    "english": "with a snap, sternly, cleanly, smartly"
-  },
-  {
-    "japanese": "ひしひし",
-    "romaji": "hishihishi",
-    "english": "fast, tight"
-  },
-  {
-    "japanese": "びしびし",
-    "romaji": "bishibishi",
-    "english": "stickily, relentlessly"
-  },
-  {
-    "japanese": "ピシャ",
-    "romaji": "pisha",
-    "english": "splat,"
-  },
-  {
-    "japanese": "ぴしゃり(と)",
-    "romaji": "pishari",
-    "english": "slapping, splashing, splatting, banging shut, flat"
-  },
-  {
-    "japanese": "びしょびしょ",
-    "romaji": "bishobisho",
-    "english": "drenched, soaked wet"
-  },
-  {
-    "japanese": "ひそひそ",
-    "romaji": "hisohiso",
-    "english": "in whispering"
-  },
-  {
-    "japanese": "ぴたっ",
-    "romaji": "pitatto",
-    "english": "closely, exactly, suddenly, tightly"
-  },
-  {
-    "japanese": "ひたひた",
-    "romaji": "hitahita",
-    "english": "gradually, steadily"
-  },
-  {
-    "japanese": "ぴちぴち",
-    "romaji": "pichipichi",
-    "english": "lively, energetic"
-  },
-  {
-    "japanese": "びっしょり",
-    "romaji": "bisshori",
-    "english": "wet through, drenched"
-  },
-  {
-    "japanese": "ひっそり",
-    "romaji": "hissori",
-    "english": "quiet, still, deserted"
-  },
-  {
-    "japanese": "ぴったり",
-    "romaji": "pittari",
-    "english": "tightly, perfectly, exactly"
-  },
-  {
-    "japanese": "ぴっちり",
-    "romaji": "picchiri",
-    "english": "tightly, snugly"
-  },
-  {
-    "japanese": "ぴっ(と)",
-    "romaji": "pitto",
-    "english": "sound of whistle"
-  },
-  {
-    "japanese": "ピヨピヨ",
-    "romaji": "piyopiyo",
-    "english": "peep, cheep, tweet"
-  },
-  {
-    "japanese": "ひょい(と)",
-    "romaji": "hyoito",
-    "english": "suddenly, accidentally, nimbly"
-  },
-  {
-    "japanese": "ひょっこり",
-    "romaji": "hyokkori",
-    "english": "unexpectedly, by chance"
-  },
-  {
-    "japanese": "ひやひや",
-    "romaji": "hiyahiya",
-    "english": "chilly, being scared stiff"
-  },
-  {
-    "japanese": "ひゅーひゅー",
-    "romaji": "hyu-hyu-",
-    "english": "whistle"
-  },
-  {
-    "japanese": "ひょろひょろ",
-    "romaji": "hyorohyoro",
-    "english": "frail, lanky, totter"
-  },
-  {
-    "japanese": "ぴゅうっ(と)",
-    "romaji": "pyuutto",
-    "english": "gushing, whistle"
-  },
-  {
-    "japanese": "ひゃっ(と)",
-    "romaji": "hiyatto",
-    "english": "shiver, chilling"
-  },
-  {
-    "japanese": "ぴゅうぴゅう",
-    "romaji": "pyuupyuu",
-    "english": "sound of whistling"
-  },
-  {
-    "japanese": "ひらひら",
-    "romaji": "hirahira",
-    "english": "fluttering,  flapping"
-  },
-  {
-    "japanese": "ひりひり",
-    "romaji": "hirihiri",
-    "english": "smart"
-  },
-  {
-    "japanese": "ぴりぴり",
-    "romaji": "piripiri",
-    "english": "burning the tongue, becoming tense"
-  },
-  {
-    "japanese": "ひらり",
-    "romaji": "hirari",
-    "english": "lightly, nimbly"
-  },
-  {
-    "japanese": "ぴんと",
-    "romaji": "pinnto",
-    "english": "inspiration, sixth sense"
-  },
-  {
-    "japanese": "ぴんぴん",
-    "romaji": "pinnpinn",
-    "english": "lively"
-  },
-  {
-    "japanese": "ひんやり",
-    "romaji": "hinnyari",
-    "english": "feel cool"
-  },
-  {
-    "japanese": "ぷい(と)",
-    "romaji": "puito",
-    "english": "suddenly"
-  },
-  {
-    "japanese": "ふう～",
-    "romaji": "huu-",
-    "english": "phew"
-  },
-  {
-    "japanese": "ふさふさ",
-    "romaji": "fusafusa",
-    "english": "in tufts"
-  },
-  {
-    "japanese": "ぶすっ(と)",
-    "romaji": "busutto",
-    "english": "pierceing, discontempt"
-  },
-  {
-    "japanese": "ぷっつり",
-    "romaji": "puttsuri",
-    "english": "entirely, wholly"
-  },
-  {
-    "japanese": "ふっと",
-    "romaji": "futto",
-    "english": "blowing air, suddenly, abruptly"
-  },
-  {
-    "japanese": "ぷっと",
-    "romaji": "putto",
-    "english": "puffing, pouting"
-  },
-  {
-    "japanese": "ぶつぶつ",
-    "romaji": "butsubutsu",
-    "english": "grunt, mumble"
-  },
-  {
-    "japanese": "ふふん(と)",
-    "romaji": "fufunn",
-    "english": "humph, pooh"
-  },
-  {
-    "japanese": "ぶよぶよ",
-    "romaji": "buyobuyo",
-    "english": "soft and flabby"
-  },
-  {
-    "japanese": "ふらっ(と)、ふらりと",
-    "romaji": "furatto",
-    "english": "casually, suddenly, unexpectantly"
-  },
-  {
-    "japanese": "ふらふら",
-    "romaji": "hurahura",
-    "english": "loosely [swinging], being indecisive"
-  },
-  {
-    "japanese": "ぶるぶる",
-    "romaji": "burubura",
-    "english": "trembling, shivering, shaking"
-  },
-  {
-    "japanese": "ぶるぶる",
-    "romaji": "burubura",
-    "english": "trembling, shivering, shaking"
-  },
-  {
-    "japanese": "ふわっ(と),ふわり",
-    "romaji": "fuwatto",
-    "english": "floating, drifting, weightlessness"
-  },
-  {
-    "japanese": "ふわふわ",
-    "romaji": "fuwafuwa",
-    "english": "soft, floating, light, restless, flighty"
-  },
-  {
-    "japanese": "ぶんぶん",
-    "romaji": "bunnbunn",
-    "english": "buzz, hum"
-  },
-  {
-    "japanese": "ぷんぷん",
-    "romaji": "punnpunn",
-    "english": "stinking, smell strongly, fuming"
-  },
-  {
-    "japanese": "ふんわり",
-    "romaji": "funnwari",
-    "english": "gently, airily, fluffily"
-  },
-  {
-    "japanese": "ぺこぺこ",
-    "romaji": "pekopeko",
-    "english": "starving, servile manner"
-  },
-  {
-    "japanese": "べたべた",
-    "romaji": "betabeta",
-    "english": "sticky, all over, clinging"
-  },
-  {
-    "japanese": "ぺちゃんこ",
-    "romaji": "pechannko",
-    "english": "crushed flat, flattened"
-  },
-  {
-    "japanese": "べったり",
-    "romaji": "bettari",
-    "english": "plastered, clinging, covered all over"
-  },
-  {
-    "japanese": "へとへと",
-    "romaji": "hetoheto",
-    "english": "being worn out"
-  },
-  {
-    "japanese": "べとべと",
-    "romaji": "betobeto",
-    "english": "being sticky"
-  },
-  {
-    "japanese": "へなへな",
-    "romaji": "henahena",
-    "english": "flimsy, weakly"
-  },
-  {
-    "japanese": "ぺらぺら",
-    "romaji": "perapera",
-    "english": "fluent, talkative, flimsy"
-  },
-  {
-    "japanese": "ぺろっと、ぺろり",
-    "romaji": "perotto",
-    "english": "stick one's tongue out, eat up"
-  },
-  {
-    "japanese": "ぺろぺろ",
-    "romaji": "peropero",
-    "english": "slurp-slurp, dead drunk"
-  },
-  {
-    "japanese": "ぼうぼう、もうもう",
-    "romaji": "boubou",
-    "english": "burning vigorously, endless"
-  },
-  {
-    "japanese": "ほかほか",
-    "romaji": "hokahoka",
-    "english": "steamy, warm"
-  },
-  {
-    "japanese": "ぽかぽか",
-    "romaji": "pokapoka",
-    "english": "warm, pelting"
-  },
-  {
-    "japanese": "ぼきっ(と)",
-    "romaji": "bokitto",
-    "english": "crack, snap sound"
-  },
-  {
-    "japanese": "ほくほく",
-    "romaji": "hokuhoku",
-    "english": "with satisfaction, not soggy"
-  },
-  {
-    "japanese": "ぼけっ(と)、ぼおっと、ぼそっと",
-    "romaji": "boketto",
-    "english": "absent- mindedly, idly."
-  },
-  {
-    "japanese": "ぽたぽた",
-    "romaji": "potapota",
-    "english": "dripping ,trickling"
-  },
-  {
-    "japanese": "ぽちゃぽちゃ",
-    "romaji": "pochapocha",
-    "english": "splash, splattering sound"
-  },
-  {
-    "japanese": "ぽっかり",
-    "romaji": "pokkari",
-    "english": "floating light, cracked and opening a mouth"
-  },
-  {
-    "japanese": "ぽっくり",
-    "romaji": "pokkuri",
-    "english": "suddenly"
-  },
-  {
-    "japanese": "ぽっちゃり",
-    "romaji": "pocchari",
-    "english": "chubby, plump"
-  },
-  {
-    "japanese": "ほっと",
-    "romaji": "hotto",
-    "english": "drawing a long sigh, feeling a relief"
-  },
-  {
-    "japanese": "ぽつん(と)",
-    "romaji": "potsunn",
-    "english": "isolated, rain drops"
-  },
-  {
-    "japanese": "ぽとぽと",
-    "romaji": "potopoto",
-    "english": "trickle down, drip"
-  },
-  {
-    "japanese": "ぽとり",
-    "romaji": "potori",
-    "english": "dripping, or dropping a small item"
-  },
-  {
-    "japanese": "ぼりぼり",
-    "romaji": "boribori",
-    "english": "munch, crunch"
-  },
-  {
-    "japanese": "ほろっ(と)、ほろり",
-    "romaji": "horotto",
-    "english": "moving/ touching [story]"
-  },
-  {
-    "japanese": "ぼろぼろ",
-    "romaji": "boroboro",
-    "english": "worn-out, crumbled, scattered"
-  },
-  {
-    "japanese": "ぽつぽつ",
-    "romaji": "potsupotsu",
-    "english": "dotted, in dribs and drabs, by twos and threes"
-  },
-  {
-    "japanese": "ぼつぼつ",
-    "romaji": "botsubotsu",
-    "english": "in shortly, little by little, spots"
-  },
-  {
-    "japanese": "ぼんやり",
-    "romaji": "bonnyari",
-    "english": "dimly, vaguely, absent- minded"
-  },
-  {
-    "japanese": "まごまご",
-    "romaji": "magomago",
-    "english": "being at a loss"
-  },
-  {
-    "japanese": "まざまざ(と)",
-    "romaji": "mazamaza",
-    "english": "clearly, vividly"
-  },
-  {
-    "japanese": "まるまる",
-    "romaji": "marumaru",
-    "english": "round, fat"
-  },
-  {
-    "japanese": "みしみし",
-    "romaji": "mishimishi",
-    "english": "creaking"
-  },
-  {
-    "japanese": "みっちり",
-    "romaji": "micchiri",
-    "english": "severely, strictly, diligently"
-  },
-  {
-    "japanese": "むかっ",
-    "romaji": "mukatto",
-    "english": "losing one's temper"
-  },
-  {
-    "japanese": "むかむか",
-    "romaji": "mukamuka",
-    "english": "feel nauseated, disgusting one"
-  },
-  {
-    "japanese": "むくむく",
-    "romaji": "mukumuku",
-    "english": "rising up, plump, shaggy"
-  },
-  {
-    "japanese": "むずむず",
-    "romaji": "muzumuzu",
-    "english": "itch, to be eager"
-  },
-  {
-    "japanese": "むっ",
-    "romaji": "mutto",
-    "english": "be sullen, offended, stuffy"
-  },
-  {
-    "japanese": "むにゃむにゃ",
-    "romaji": "munyamunya",
-    "english": "mumbling, talking in sleep"
-  },
-  {
-    "japanese": "むらむら",
-    "romaji": "muramura",
-    "english": "an impulse"
-  },
-  {
-    "japanese": "めきめき",
-    "romaji": "mekimeki",
-    "english": "remarkably, rapidly"
-  },
-  {
-    "japanese": "めちゃくちゃ",
-    "romaji": "mechakucha",
-    "english": "absurd, unreasonable, incoherent, reckless"
-  },
-  {
-    "japanese": "めっきり",
-    "romaji": "mekkiri",
-    "english": "remarkably, noticeably"
-  },
-  {
-    "japanese": "めらめら",
-    "romaji": "meramera",
-    "english": "blazeing, leaping frame"
-  },
-  {
-    "japanese": "めりめり",
-    "romaji": "merimeri",
-    "english": "riippp, splintering, cracking"
-  },
-  {
-    "japanese": "もうもう",
-    "romaji": "moumou",
-    "english": "dense, thick"
-  },
-  {
-    "japanese": "もうもう",
-    "romaji": "moumou",
-    "english": "moo"
-  },
-  {
-    "japanese": "もくもく",
-    "romaji": "mokumoku",
-    "english": "with clouds of smoke , silent."
-  },
-  {
-    "japanese": "もぐもぐ",
-    "romaji": "mogumogu",
-    "english": "chew, mumble"
-  },
-  {
-    "japanese": "もじもじ",
-    "romaji": "mojimoji",
-    "english": "hesitating, fidgeting"
-  },
-  {
-    "japanese": "もたもた",
-    "romaji": "motamota",
-    "english": "inefficient, slow"
-  },
-  {
-    "japanese": "もやもや",
-    "romaji": "moyamoya",
-    "english": "misty, gloomy, pent-up feeling"
-  },
-  {
-    "japanese": "やきもき",
-    "romaji": "yakimoki",
-    "english": "anxious, impatient, dying, fretting"
-  },
-  {
-    "japanese": "やっぱり",
-    "romaji": "yappari",
-    "english": "after all, as expected"
-  },
-  {
-    "japanese": "やんわり",
-    "romaji": "yannwari",
-    "english": "gently, mildly"
-  },
-  {
-    "japanese": "よたよた",
-    "romaji": "yotayota",
-    "english": "tottering, [walking] unsteadily"
-  },
-  {
-    "japanese": "よちよち",
-    "romaji": "yochiyochi",
-    "english": "totteringly"
-  },
-  {
-    "japanese": "よぼよぼ",
-    "romaji": "yoboyobo",
-    "english": "totter, senile"
-  },
-  {
-    "japanese": "よれよれ",
-    "romaji": "yoreyore",
-    "english": "worn-out, wrinkled-up"
-  },
-  {
-    "japanese": "ゆっくり",
-    "romaji": "yukkuri",
-    "english": "slowly, unhurriedly, leisurely"
-  },
-  {
-    "japanese": "ゆったり",
-    "romaji": "yuttari",
-    "english": "spaceful, relaxing"
-  },
-  {
-    "japanese": "ゆらゆら",
-    "romaji": "yurayura",
-    "english": "slow swaying"
-  },
-  {
-    "japanese": "りんりん",
-    "romaji": "rinnrinn",
-    "english": "ring, tinkle, bell ringing"
-  },
-  {
-    "japanese": "わくわく",
-    "romaji": "wakuwaku",
-    "english": "with eager anticipation, bubbling with expectation"
-  },
-  {
-    "japanese": "わっ(と)",
-    "romaji": "watto",
-    "english": "suddenly, burst into tears, shout"
-  },
-  {
-    "japanese": "わなわな",
-    "romaji": "wanawana",
-    "english": "trembling from fear, shiver"
-  },
-  {
-    "japanese": "わんわん",
-    "romaji": "wannwann",
-    "english": "bark"
-  },
-  {
-    "japanese": "わははは",
-    "romaji": "wa ha ha ha",
-    "english": "guffaw, har-har-har"
-  }
+	{
+		"japanese": "あたふた",
+		"romaji": "atafuta",
+		"english": "hurriedly, hastily"
+	},
+	{
+		"japanese": "あっさり",
+		"romaji": "assari",
+		"english": "simple, lightly seasoned"
+	},
+	{
+		"japanese": "あっぷあっぷ",
+		"romaji": "appuappu",
+		"english": "glub-glub, blub-blub"
+	},
+	{
+		"japanese": "あはは",
+		"romaji": "ahaha",
+		"english": "ha-ha, har-har"
+	},
+	{
+		"japanese": "いそいそ",
+		"romaji": "isoiso",
+		"english": "cheerful"
+	},
+	{
+		"japanese": "いちゃいちゃ",
+		"romaji": "ichaicha",
+		"english": "flirt with"
+	},
+	{
+		"japanese": "いらいら",
+		"romaji": "iraira",
+		"english": "growing impatient, irritating"
+	},
+	{
+		"japanese": "うきうき",
+		"romaji": "ukiuki",
+		"english": "buoyant and cheerful, in high spirits"
+	},
+	{
+		"japanese": "うずうず",
+		"romaji": "uzuuzu",
+		"english": "be impatient, itch for"
+	},
+	{
+		"japanese": "うかうか",
+		"romaji": "ukauka",
+		"english": "off one's guard, idle, not attentive"
+	},
+	{
+		"japanese": "うじゃうじゃ",
+		"romaji": "uja uja",
+		"english": "swarm with"
+	},
+	{
+		"japanese": "うじうじ",
+		"romaji": "uji uji",
+		"english": "uncertianly, inrresolute, indecisively, vacilante"
+	},
+	{
+		"japanese": "うっかり",
+		"romaji": "ukkari",
+		"english": "absentmindedly, carelessly, inadvertently"
+	},
+	{
+		"japanese": "うっすら",
+		"romaji": "ussura",
+		"english": "faintly, slightly, lightly."
+	},
+	{
+		"japanese": "うっとり",
+		"romaji": "uttori",
+		"english": "filled with rapture, enchanted, enraptured"
+	},
+	{
+		"japanese": "うとうと",
+		"romaji": "utouto",
+		"english": "dozing"
+	},
+	{
+		"japanese": "うふふ",
+		"romaji": "ufufu",
+		"english": "titter, tee-hee"
+	},
+	{
+		"japanese": "うやむや",
+		"romaji": "uyamuya",
+		"english": "unsettled, undecided, indecisively."
+	},
+	{
+		"japanese": "うようよ",
+		"romaji": "uyouyo",
+		"english": "crawling, wriggling, covered with"
+	},
+	{
+		"japanese": "うろちょろ",
+		"romaji": "urochoro",
+		"english": "hang around, run around."
+	},
+	{
+		"japanese": "うんざり",
+		"romaji": "unnzari",
+		"english": "be disgusted (by, at, with), sick of, fed up with"
+	},
+	{
+		"japanese": "おぎゃおぎゃ",
+		"romaji": "ogyaogya",
+		"english": "wailing"
+	},
+	{
+		"japanese": "おろおろ",
+		"romaji": "orooro",
+		"english": "in bewilderment, thrown off balance, shaken"
+	},
+	{
+		"japanese": "かあかあ",
+		"romaji": "kaakaa",
+		"english": "caw"
+	},
+	{
+		"japanese": "があがあ",
+		"romaji": "gaagaa",
+		"english": "gabble."
+	},
+	{
+		"japanese": "がくん(と)",
+		"romaji": "gakunn",
+		"english": "with a jerk, suddenly"
+	},
+	{
+		"japanese": "かさかさ",
+		"romaji": "kasakasa",
+		"english": "dry"
+	},
+	{
+		"japanese": "カサカサ",
+		"romaji": "kasakasa",
+		"english": "rustle."
+	},
+	{
+		"japanese": "かしゃっ(と)",
+		"romaji": "kashatto",
+		"english": "click"
+	},
+	{
+		"japanese": "がしゃっ(と)",
+		"romaji": "gashatto",
+		"english": "crash,crack"
+	},
+	{
+		"japanese": "かすかす",
+		"romaji": "kasukasu",
+		"english": "dry and tasteless"
+	},
+	{
+		"japanese": "かたかた",
+		"romaji": "katakata",
+		"english": "clitter-clatter, clack-clack , rattle"
+	},
+	{
+		"japanese": "がたがた",
+		"romaji": "gatagata",
+		"english": "rickety, shaky"
+	},
+	{
+		"japanese": "がたっ(と)",
+		"romaji": "gatatto",
+		"english": "clank"
+	},
+	{
+		"japanese": "がたびし",
+		"romaji": "gatabishi",
+		"english": "rattle"
+	},
+	{
+		"japanese": "ガタンゴトン",
+		"romaji": "gatann",
+		"english": "clunk-glunk"
+	},
+	{
+		"japanese": "かちかち",
+		"romaji": "kachikachi",
+		"english": "hard"
+	},
+	{
+		"japanese": "カチッと",
+		"romaji": "kachi",
+		"english": "clink, plink, chink"
+	},
+	{
+		"japanese": "かちゃかちゃ",
+		"romaji": "kachakach",
+		"english": "clank"
+	},
+	{
+		"japanese": "ガチャン",
+		"romaji": "gachann",
+		"english": "bump"
+	},
+	{
+		"japanese": "かちん",
+		"romaji": "kachinn",
+		"english": "offended"
+	},
+	{
+		"japanese": "がっかり",
+		"romaji": "gakkari",
+		"english": "be disappointed (at), be dejected, lose heart, feel let down"
+	},
+	{
+		"japanese": "がっくり",
+		"romaji": "gakkuri",
+		"english": "drooping, heartbroken"
+	},
+	{
+		"japanese": "がつがつ",
+		"romaji": "gatsugatsu",
+		"english": "greedily, voraciously, burning with the desire"
+	},
+	{
+		"japanese": "がっちり",
+		"romaji": "gacchiri",
+		"english": "calculating, shrewd, steadfast"
+	},
+	{
+		"japanese": "かっ(と)",
+		"romaji": "katto",
+		"english": "a rage"
+	},
+	{
+		"japanese": "がっぽがっぽ",
+		"romaji": "gappogappo",
+		"english": "abundantly"
+	},
+	{
+		"japanese": "がっぽり",
+		"romaji": "gappori",
+		"english": "a wad"
+	},
+	{
+		"japanese": "かつん(と)",
+		"romaji": "gatsunn",
+		"english": "bam, thunk, whack."
+	},
+	{
+		"japanese": "がぶがぶ",
+		"romaji": "gabugabu",
+		"english": "gulping, guzzling"
+	},
+	{
+		"japanese": "がみがみ",
+		"romaji": "gamigami",
+		"english": "nagging, griping, snapping"
+	},
+	{
+		"japanese": "がやがや",
+		"romaji": "gayagaya",
+		"english": "noisily"
+	},
+	{
+		"japanese": "からから",
+		"romaji": "karakara",
+		"english": "dry, lightheartedly, innocently"
+	},
+	{
+		"japanese": "がらがら",
+		"romaji": "garagara",
+		"english": "rattle-rattle"
+	},
+	{
+		"japanese": "がらがら",
+		"romaji": "garagara",
+		"english": "empty"
+	},
+	{
+		"japanese": "からっ(と)",
+		"romaji": "karatto",
+		"english": "changing suddenly and completely"
+	},
+	{
+		"japanese": "がらり(と)",
+		"romaji": "garari",
+		"english": "completely"
+	},
+	{
+		"japanese": "がらん(と)",
+		"romaji": "garann",
+		"english": "empty, bare, deserted"
+	},
+	{
+		"japanese": "からんからん",
+		"romaji": "karannkarann",
+		"english": "clang-clang"
+	},
+	{
+		"japanese": "カリカリ",
+		"romaji": "karikari",
+		"english": "crisp, crunchy"
+	},
+	{
+		"japanese": "ガリガリ",
+		"romaji": "garigari",
+		"english": "crunch-crunch"
+	},
+	{
+		"japanese": "がん(と)",
+		"romaji": "gann",
+		"english": "conk, bang"
+	},
+	{
+		"japanese": "かんかん",
+		"romaji": "kannkann",
+		"english": "intense heat"
+	},
+	{
+		"japanese": "がんがん",
+		"romaji": "ganngann",
+		"english": "hard, strongly"
+	},
+	{
+		"japanese": "ぎいぎい",
+		"romaji": "giigii",
+		"english": "creaking"
+	},
+	{
+		"japanese": "ぎくしゃく",
+		"romaji": "gikushaku",
+		"english": "souring of a relationship, strain"
+	},
+	{
+		"japanese": "ぎくっ(と)",
+		"romaji": "gikutto",
+		"english": "startling, frightening"
+	},
+	{
+		"japanese": "ぎこぎこ",
+		"romaji": "gikogiko",
+		"english": "squeak squeak"
+	},
+	{
+		"japanese": "きちきち",
+		"romaji": "kichikichi",
+		"english": "be closely packed, precisely"
+	},
+	{
+		"japanese": "きちんと",
+		"romaji": "kichinnto",
+		"english": "neatly, accurately, exactly, orderly, properly"
+	},
+	{
+		"japanese": "ぎっしり",
+		"romaji": "gisshiri",
+		"english": "closely, tightly, crammed, jam-packed"
+	},
+	{
+		"japanese": "きっちり",
+		"romaji": "kicchiri",
+		"english": "tightly, exactly, perfectly"
+	},
+	{
+		"japanese": "きっ(と)",
+		"romaji": "kitto",
+		"english": "sharply, sternly"
+	},
+	{
+		"japanese": "きっぱり",
+		"romaji": "kippari",
+		"english": "definitely, decisively"
+	},
+	{
+		"japanese": "きびきび",
+		"romaji": "kibikibi",
+		"english": "briskly, energetically"
+	},
+	{
+		"japanese": "ギャアギャア",
+		"romaji": "gyaagyaa",
+		"english": "screech, scream, yak-yak"
+	},
+	{
+		"japanese": "キャッキャッ",
+		"romaji": "kyakkya",
+		"english": "chitter, chatter, giggle, cackle"
+	},
+	{
+		"japanese": "キャンキャン",
+		"romaji": "kyannkyann",
+		"english": "yelp, yap"
+	},
+	{
+		"japanese": "ぎゅうぎゅう",
+		"romaji": "gyu-gyu-",
+		"english": "squeezed, jam-packed, tight, tormenting"
+	},
+	{
+		"japanese": "きゅん",
+		"romaji": "kyuunn",
+		"english": "twinge of love with heart"
+	},
+	{
+		"japanese": "ぎゅっ(と)",
+		"romaji": "gyutto",
+		"english": "crunch"
+	},
+	{
+		"japanese": "きゅっきゅっ",
+		"romaji": "kyukkyutto",
+		"english": "squeaking"
+	},
+	{
+		"japanese": "きょとん",
+		"romaji": "kyotonn",
+		"english": "a blank look (of amazement), dazed"
+	},
+	{
+		"japanese": "きょろきょろ",
+		"romaji": "kyorokyoro",
+		"english": "look [walk] around restlessly or nervously"
+	},
+	{
+		"japanese": "きらきら",
+		"romaji": "kirakira",
+		"english": "glitter, sparkling, twinkling, glistening"
+	},
+	{
+		"japanese": "ぎらぎら",
+		"romaji": "giragira",
+		"english": "glaring, dazzling"
+	},
+	{
+		"japanese": "きらり",
+		"romaji": "kirari",
+		"english": "sparkle"
+	},
+	{
+		"japanese": "ぎりぎり",
+		"romaji": "girigiri",
+		"english": "last, just, at a threshold"
+	},
+	{
+		"japanese": "きりり",
+		"romaji": "kiriri",
+		"english": "sharp,tight, notidiotic"
+	},
+	{
+		"japanese": "ぐいぐい",
+		"romaji": "guigui",
+		"english": "strong, vigorous"
+	},
+	{
+		"japanese": "ぐうぐう",
+		"romaji": "guuguu",
+		"english": "rumbling sound"
+	},
+	{
+		"japanese": "ぐさっ(と)",
+		"romaji": "gusatto",
+		"english": "thuck, thuk, tsak, dagger thrust"
+	},
+	{
+		"japanese": "くしゃくしゃ",
+		"romaji": "kushakusha",
+		"english": "crumple, wrinkle"
+	},
+	{
+		"japanese": "ぐしょぐしょ",
+		"romaji": "gushogusho",
+		"english": "drenched wet"
+	},
+	{
+		"japanese": "くすくす",
+		"romaji": "kusukusu",
+		"english": "titter, giggle, chuckle, snicker"
+	},
+	{
+		"japanese": "ぐずぐず",
+		"romaji": "guzuguzu",
+		"english": "slowly, tardily, hesitantly, hesitatingly, dawdle"
+	},
+	{
+		"japanese": "くちゃくちゃ",
+		"romaji": "kuchakucha",
+		"english": "crumpled, smack"
+	},
+	{
+		"japanese": "ぐちゃぐちゃ",
+		"romaji": "guchgucha",
+		"english": "sloppy, soggy, messy"
+	},
+	{
+		"japanese": "くたくた",
+		"romaji": "kutakuta",
+		"english": "pooped, dead tired ,exhausted, mushy"
+	},
+	{
+		"japanese": "ぐつぐつ",
+		"romaji": "gutsugutsu",
+		"english": "bubble- bubble"
+	},
+	{
+		"japanese": "くっきり",
+		"romaji": "kukkiri",
+		"english": "clearly, distinctly"
+	},
+	{
+		"japanese": "ぐっすり",
+		"romaji": "gussuri",
+		"english": "sleep soundly"
+	},
+	{
+		"japanese": "ぐったり",
+		"romaji": "guttari",
+		"english": "limp with fatigue, slump, weary"
+	},
+	{
+		"japanese": "ぐっと",
+		"romaji": "gutto",
+		"english": "with all one's might,at a breath"
+	},
+	{
+		"japanese": "ぐどくど",
+		"romaji": "kudokudo",
+		"english": "tediously, repetitively"
+	},
+	{
+		"japanese": "ぐでんぐでん",
+		"romaji": "gudengudenn",
+		"english": "drunk"
+	},
+	{
+		"japanese": "ぐにゃり(と)",
+		"romaji": "gunyari",
+		"english": "flabbily bending"
+	},
+	{
+		"japanese": "くよくよ",
+		"romaji": "kuyokuyo",
+		"english": "fretting about, brooding over"
+	},
+	{
+		"japanese": "くねくね",
+		"romaji": "kunekune",
+		"english": "zigzag, wiggle"
+	},
+	{
+		"japanese": "ぐらぐら",
+		"romaji": "guragura",
+		"english": "wobble, totter, shake"
+	},
+	{
+		"japanese": "ぐるぐる",
+		"romaji": "guruguru",
+		"english": "wave circle, whirling round and round, spinning, coil around"
+	},
+	{
+		"japanese": "クンクン",
+		"romaji": "kunnkunn",
+		"english": "sniff-sniff, whine"
+	},
+	{
+		"japanese": "ぐんぐん",
+		"romaji": "gunngunn",
+		"english": "rapidly, steadily"
+	},
+	{
+		"japanese": "けちょんけちょん",
+		"romaji": "kechonnkechonn",
+		"english": "completely, thoroughly"
+	},
+	{
+		"japanese": "けばけば",
+		"romaji": "kebakeba",
+		"english": "showy, gaudy, garish"
+	},
+	{
+		"japanese": "げらげら",
+		"romaji": "geragera",
+		"english": "guffaw, haw-haw"
+	},
+	{
+		"japanese": "ごくごく",
+		"romaji": "gokugoku",
+		"english": "glub-glub, glug-glug glub-glub"
+	},
+	{
+		"japanese": "けろけろ",
+		"romaji": "kerokero",
+		"english": "croak"
+	},
+	{
+		"japanese": "げんなり",
+		"romaji": "gennnari",
+		"english": "be fed up,be dispirited"
+	},
+	{
+		"japanese": "ごうごう",
+		"romaji": "gougou",
+		"english": "roaring"
+	},
+	{
+		"japanese": "ごくごく",
+		"romaji": "gokugoku",
+		"english": "glub-glub"
+	},
+	{
+		"japanese": "ごくっと",
+		"romaji": "gokutto",
+		"english": "sound of gulping"
+	},
+	{
+		"japanese": "コケコッコー",
+		"romaji": "kokekokkou",
+		"english": "cock-a- doodle-doo"
+	},
+	{
+		"japanese": "ごしごし",
+		"romaji": "goshigoshi",
+		"english": "rub"
+	},
+	{
+		"japanese": "こそこそ",
+		"romaji": "kosokoso",
+		"english": "in whispers, sneaking, secretly"
+	},
+	{
+		"japanese": "ごたごた",
+		"romaji": "gotagota",
+		"english": "in disorder, in a jumble, messy, mixed up, dissension"
+	},
+	{
+		"japanese": "ごちゃごちゃ",
+		"romaji": "gochagocha",
+		"english": "messy, confused, griping"
+	},
+	{
+		"japanese": "ごちゃごちゃ",
+		"romaji": "gochagocha",
+		"english": "messy, confused, griping"
+	},
+	{
+		"japanese": "こちんこちん",
+		"romaji": "kochinnkochinn",
+		"english": "tense, strained"
+	},
+	{
+		"japanese": "こつこつ",
+		"romaji": "kotsukotsu",
+		"english": "tap-tap, steadily, untiringly"
+	},
+	{
+		"japanese": "ごつん(と)",
+		"romaji": "gotsunn",
+		"english": "thump, bump"
+	},
+	{
+		"japanese": "こっそり",
+		"romaji": "kossori",
+		"english": "stealthily, secretly, without being noticed"
+	},
+	{
+		"japanese": "ごっそり",
+		"romaji": "gossori",
+		"english": "all, completely, a lot"
+	},
+	{
+		"japanese": "こってり",
+		"romaji": "kotteri",
+		"english": "thickly, heavily, strongly, at length"
+	},
+	{
+		"japanese": "ことこと",
+		"romaji": "kotokoto",
+		"english": "rattling, clicking, simmering"
+	},
+	{
+		"japanese": "ごぼごぼ",
+		"romaji": "gobogobo",
+		"english": "gurgle"
+	},
+	{
+		"japanese": "ゴホゴホ",
+		"romaji": "gohogoho",
+		"english": "Cough! Coff coff coff."
+	},
+	{
+		"japanese": "こまごま",
+		"romaji": "komagoma",
+		"english": "little things, minutely, in detail"
+	},
+	{
+		"japanese": "ごりごり",
+		"romaji": "gorigori",
+		"english": "scraping, scratching"
+	},
+	{
+		"japanese": "ころころ",
+		"romaji": "korokoro",
+		"english": "small and round thing rolling, high-pitched sound ,something fickle"
+	},
+	{
+		"japanese": "ごろごろ",
+		"romaji": "gorogoro",
+		"english": "rumble, thundering. growling, roll on,purr"
+	},
+	{
+		"japanese": "ころっ(と)",
+		"romaji": "korotto",
+		"english": "sound of something small rolling once, complete reversal of a situation"
+	},
+	{
+		"japanese": "こわごわ",
+		"romaji": "kowagowa",
+		"english": "timidly, nervously, fearfully, gingerly"
+	},
+	{
+		"japanese": "ごわごわ",
+		"romaji": "kowagowa",
+		"english": "stiff,starchy"
+	},
+	{
+		"japanese": "こんがり",
+		"romaji": "konngari",
+		"english": "well-cooked, well-done, browned"
+	},
+	{
+		"japanese": "こんこん",
+		"romaji": "konnkonn",
+		"english": "tap-tap, knock-knock, cough-cough, heavily"
+	},
+	{
+		"japanese": "こんもり",
+		"romaji": "konnmori",
+		"english": "thickly, densely, luxuriantly"
+	},
+	{
+		"japanese": "ざあざあ",
+		"romaji": "zaazaa",
+		"english": "sound of rushing water, sound of pouring rain, white noise sound"
+	},
+	{
+		"japanese": "さあっ(と)",
+		"romaji": "saatto",
+		"english": "quite suddenly"
+	},
+	{
+		"japanese": "ざあっ(と)",
+		"romaji": "zaatto",
+		"english": "sound of water"
+	},
+	{
+		"japanese": "ざくざく",
+		"romaji": "zakuzaku",
+		"english": "lots of coins, sound of walking on frost"
+	},
+	{
+		"japanese": "ざっと",
+		"romaji": "zatto",
+		"english": "roughly, approximately, briefly, lightly"
+	},
+	{
+		"japanese": "さっぱり",
+		"romaji": "sappari",
+		"english": "neat and tidy,feel refreshed, frank, completely, simply"
+	},
+	{
+		"japanese": "さばさば",
+		"romaji": "sabasaba",
+		"english": "relief, candid"
+	},
+	{
+		"japanese": "ざぶざぶ",
+		"romaji": "zabuzabu",
+		"english": "gushing [of water]"
+	},
+	{
+		"japanese": "さむざむ",
+		"romaji": "samuzamu",
+		"english": "cold, chilly, wintry, desolate"
+	},
+	{
+		"japanese": "さらさら",
+		"romaji": "sarasara",
+		"english": "rustling, murmuring, fluently"
+	},
+	{
+		"japanese": "ざらざら",
+		"romaji": "zarazara",
+		"english": "rough, coarse"
+	},
+	{
+		"japanese": "さらり",
+		"romaji": "sarari",
+		"english": "sleek, smooth, without hesitation"
+	},
+	{
+		"japanese": "ざわざわ",
+		"romaji": "zawazawa",
+		"english": "noisy, sound of people talking"
+	},
+	{
+		"japanese": "さんさん",
+		"romaji": "sannsann",
+		"english": "brilliant, bright"
+	},
+	{
+		"japanese": "ジイジイ",
+		"romaji": "jiijii",
+		"english": "sizzle, shrill droning of a cicada"
+	},
+	{
+		"japanese": "しくしく",
+		"romaji": "shikushiku",
+		"english": "sob"
+	},
+	{
+		"japanese": "じくじく",
+		"romaji": "jikujiku",
+		"english": "oozily"
+	},
+	{
+		"japanese": "じたばた",
+		"romaji": "jitabata",
+		"english": "struggle, wriggle"
+	},
+	{
+		"japanese": "しっかり",
+		"romaji": "shikkari",
+		"english": "fast, tightly, firm, reliable"
+	},
+	{
+		"japanese": "じっくり",
+		"romaji": "jikkuri",
+		"english": "slowly and carefully"
+	},
+	{
+		"japanese": "しっとり",
+		"romaji": "shittori",
+		"english": "calm, graceful, damp, moist"
+	},
+	{
+		"japanese": "じっとり",
+		"romaji": "jittori",
+		"english": "damp, moist"
+	},
+	{
+		"japanese": "じとじと",
+		"romaji": "jitojito",
+		"english": "damp, humid"
+	},
+	{
+		"japanese": "しぶしぶ",
+		"romaji": "shibushibu",
+		"english": "reluctantly, grudgingly"
+	},
+	{
+		"japanese": "じめじめ",
+		"romaji": "jimejime",
+		"english": "damp, humid, clammy, gloomy"
+	},
+	{
+		"japanese": "じゃーじゃー",
+		"romaji": "ja-ja-",
+		"english": "The sound of hard raining or frying"
+	},
+	{
+		"japanese": "じゃかすか",
+		"romaji": "jakasuka",
+		"english": "with gusto"
+	},
+	{
+		"japanese": "じゃぶじゃぶ",
+		"romaji": "jabujabu",
+		"english": "splashing water sound"
+	},
+	{
+		"japanese": "しゃなりしゃなり",
+		"romaji": "shanarishanari",
+		"english": "gracefully, mincingly"
+	},
+	{
+		"japanese": "じゃりじゃり",
+		"romaji": "jarijari",
+		"english": "crunchy, sound of walking on sands"
+	},
+	{
+		"japanese": "しゃんしゃん",
+		"romaji": "shanshann",
+		"english": "the ting‐a‐ling, be hale and hearty"
+	},
+	{
+		"japanese": "じゃんじゃん",
+		"romaji": "janjan",
+		"english": "ding‐dong, jingle‐jangle, something happening non-stop"
+	},
+	{
+		"japanese": "シュシュポッポ",
+		"romaji": "shushupoppo",
+		"english": "Choo-choo, sound of locomotive"
+	},
+	{
+		"japanese": "しょぼしょぼ",
+		"romaji": "shoboshobo",
+		"english": "drizzling, weakly, feeble."
+	},
+	{
+		"japanese": "しょんぼり",
+		"romaji": "shonnbori",
+		"english": "looking miserable, being downhearted"
+	},
+	{
+		"japanese": "じゅっ(と)",
+		"romaji": "jutto",
+		"english": "sound of sizzling or dropping a heated iron into water"
+	},
+	{
+		"japanese": "じりじり",
+		"romaji": "jirijir",
+		"english": "running out of patience, slowly approaching"
+	},
+	{
+		"japanese": "しりめつれつ",
+		"romaji": "shirimetsuretsu",
+		"english": "inconsistency, incoherence"
+	},
+	{
+		"japanese": "じろじろ",
+		"romaji": "jirojiro",
+		"english": "stare, scrutinize"
+	},
+	{
+		"japanese": "じわじわ",
+		"romaji": "jiwajiwa",
+		"english": "gradually, slowly"
+	},
+	{
+		"japanese": "しん(と)",
+		"romaji": "shinnto",
+		"english": "deadly silent"
+	},
+	{
+		"japanese": "しんみり",
+		"romaji": "shinnmiri",
+		"english": "solemn, serious, sad"
+	},
+	{
+		"japanese": "すうっ(と)",
+		"romaji": "suutto",
+		"english": "refreshed, relieved, straight"
+	},
+	{
+		"japanese": "ずかずか",
+		"romaji": "zukazuka",
+		"english": "without hestation, without consideration"
+	},
+	{
+		"japanese": "すかっ(と)",
+		"romaji": "sukatto",
+		"english": "refreshed, clear"
+	},
+	{
+		"japanese": "ずきずき",
+		"romaji": "zukizuki",
+		"english": "throbbing pain"
+	},
+	{
+		"japanese": "すくすく",
+		"romaji": "sukusuku",
+		"english": "quickly, fast, rapidly"
+	},
+	{
+		"japanese": "ずけずけ",
+		"romaji": "zukezuke",
+		"english": "blunt [speaking], openly speaking"
+	},
+	{
+		"japanese": "すごすご",
+		"romaji": "sugosugo",
+		"english": "disheartened, dejected"
+	},
+	{
+		"japanese": "ずっしり",
+		"romaji": "zusshiri",
+		"english": "heavily, profoundly"
+	},
+	{
+		"japanese": "ずずん(と)",
+		"romaji": "zuzunn",
+		"english": "deep rumble"
+	},
+	{
+		"japanese": "すたすた",
+		"romaji": "sutszuta",
+		"english": "stepping straight forward, quickly with no looking back"
+	},
+	{
+		"japanese": "ずたずた",
+		"romaji": "zutazuta",
+		"english": "to pieces, into shreds"
+	},
+	{
+		"japanese": "すっからかん",
+		"romaji": "sukkarakann",
+		"english": "completely empty, penniless broke"
+	},
+	{
+		"japanese": "すっかり",
+		"romaji": "sukkari",
+		"english": "completely, really, quite"
+	},
+	{
+		"japanese": "すっきり",
+		"romaji": "sukkiri",
+		"english": "refreshing, straightforward [clear]"
+	},
+	{
+		"japanese": "ずっしり",
+		"romaji": "zusshiri",
+		"english": "heavily, profoundly"
+	},
+	{
+		"japanese": "すっぽり",
+		"romaji": "suppori",
+		"english": "entirely, completely, snugly"
+	},
+	{
+		"japanese": "すとん(と)",
+		"romaji": "sutonn",
+		"english": "a thump, straight down"
+	},
+	{
+		"japanese": "ずどん",
+		"romaji": "zudonn",
+		"english": "a bang"
+	},
+	{
+		"japanese": "すぱっ(と)",
+		"romaji": "supatto",
+		"english": "cleanly, easily"
+	},
+	{
+		"japanese": "ずぶっ(と)",
+		"romaji": "zubutto",
+		"english": "thuck, thuk"
+	},
+	{
+		"japanese": "ずぶずぶ",
+		"romaji": "zubuzubu",
+		"english": "get stuck, deep involvement"
+	},
+	{
+		"japanese": "すべすべ",
+		"romaji": "subesube",
+		"english": "smooth, sleek, silky"
+	},
+	{
+		"japanese": "すやすや",
+		"romaji": "suyasuya",
+		"english": "[sleeping] peacefully or quietly"
+	},
+	{
+		"japanese": "すらすら",
+		"romaji": "surasura",
+		"english": "easily, effortlessly, without any trouble, smoothly"
+	},
+	{
+		"japanese": "ずらり",
+		"romaji": "zurari",
+		"english": "in a row, lined up"
+	},
+	{
+		"japanese": "するする",
+		"romaji": "surusuru",
+		"english": "smoothly, swiftly"
+	},
+	{
+		"japanese": "するり(と)",
+		"romaji": "sururi",
+		"english": "with a smooth, without delay"
+	},
+	{
+		"japanese": "すれすれ",
+		"romaji": "suresure",
+		"english": "closely, nearly touching, barely enough"
+	},
+	{
+		"japanese": "すんなり",
+		"romaji": "sunnnari",
+		"english": "without any trouble, slender"
+	},
+	{
+		"japanese": "せっせ",
+		"romaji": "sesse",
+		"english": "hard, diligently, busily, frequently"
+	},
+	{
+		"japanese": "ぞくぞく",
+		"romaji": "zokuzoku",
+		"english": "shivering with cold or fear, be thrilled"
+	},
+	{
+		"japanese": "ぞっこん",
+		"romaji": "zokkon",
+		"english": "completely, entirely"
+	},
+	{
+		"japanese": "ぞっと",
+		"romaji": "zotto",
+		"english": "shudder, bloodcurdling, hair-raising, horrifying, shiverinig"
+	},
+	{
+		"japanese": "そよそよ",
+		"romaji": "soyosoyo",
+		"english": "softly breeze"
+	},
+	{
+		"japanese": "ぞりぞり",
+		"romaji": "zorizori",
+		"english": "scraping"
+	},
+	{
+		"japanese": "そろそろ",
+		"romaji": "sorosoro",
+		"english": "slowly, quietly, almost [the time]"
+	},
+	{
+		"japanese": "ぞろぞろ",
+		"romaji": "zorozoro",
+		"english": "in groups"
+	},
+	{
+		"japanese": "そろり",
+		"romaji": "sorori",
+		"english": "[move] quietly and slowly, slow and smoothly"
+	},
+	{
+		"japanese": "そわそわ",
+		"romaji": "sowasowa",
+		"english": "restless, fidgety, nervous excitement"
+	},
+	{
+		"japanese": "だくだく",
+		"romaji": "dakudaku",
+		"english": "gush out"
+	},
+	{
+		"japanese": "たじたじ",
+		"romaji": "tajitaji",
+		"english": "flinching cowering, quailing, upsetting"
+	},
+	{
+		"japanese": "たっぷり",
+		"romaji": "tappuri",
+		"english": "full of, plenty"
+	},
+	{
+		"japanese": "だぶだぶ",
+		"romaji": "dabudabu",
+		"english": "loose, too big,  too much"
+	},
+	{
+		"japanese": "たらーん",
+		"romaji": "taran",
+		"english": "dangling"
+	},
+	{
+		"japanese": "たらたら",
+		"romaji": "taratara",
+		"english": "dribbling, in a trickle"
+	},
+	{
+		"japanese": "だらだら",
+		"romaji": "daradara",
+		"english": "idling,  inefficient, prolongeing, dragging"
+	},
+	{
+		"japanese": "だらり",
+		"romaji": "darari",
+		"english": "languidly, loosely"
+	},
+	{
+		"japanese": "だんだん",
+		"romaji": "danndann",
+		"english": "gradually, by degrees"
+	},
+	{
+		"japanese": "ちかちか",
+		"romaji": "chikachika",
+		"english": "twinkle, winkle, wink, flash, blink"
+	},
+	{
+		"japanese": "チクタク",
+		"romaji": "chikutaku",
+		"english": "ticktock, ticktack"
+	},
+	{
+		"japanese": "ちくちく",
+		"romaji": "chikuchiku",
+		"english": "picking pain, prick"
+	},
+	{
+		"japanese": "ちくっ(と)",
+		"romaji": "chikkuto",
+		"english": "pricking"
+	},
+	{
+		"japanese": "ちぐはぐ",
+		"romaji": "chiguhagu",
+		"english": "odd [pairing], incoherent, out of step"
+	},
+	{
+		"japanese": "ちびちび",
+		"romaji": "chibichibi",
+		"english": "in small sips, little by little"
+	},
+	{
+		"japanese": "ちゃくちゃくと",
+		"romaji": "chakuchaku",
+		"english": "step by step, steadily [ahead]"
+	},
+	{
+		"japanese": "ちゃっかり",
+		"romaji": "chakkari",
+		"english": "shrewd, calculating, nervy"
+	},
+	{
+		"japanese": "ちゃりん",
+		"romaji": "charinn",
+		"english": "a clink"
+	},
+	{
+		"japanese": "ちゃんと",
+		"romaji": "channto",
+		"english": "regularly, neatly, straight, properly"
+	},
+	{
+		"japanese": "ちゅうちゅう",
+		"romaji": "chuuchuu",
+		"english": "squeaking"
+	},
+	{
+		"japanese": "ちゅんちゅん",
+		"romaji": "chunnchunn",
+		"english": "chirp, cheep"
+	},
+	{
+		"japanese": "ちょいちょい",
+		"romaji": "choichoi",
+		"english": "often, frequently, now and then"
+	},
+	{
+		"japanese": "ちょきちょき",
+		"romaji": "chokichoki",
+		"english": "clip clip"
+	},
+	{
+		"japanese": "ちょくちょく",
+		"romaji": "chokuchoku",
+		"english": "often, frequently, now and then"
+	},
+	{
+		"japanese": "ちょっぴり",
+		"romaji": "choppiri",
+		"english": "very little bit, tiny bit"
+	},
+	{
+		"japanese": "ちょろちょろ",
+		"romaji": "chorochoro",
+		"english": "darting about, in trickles"
+	},
+	{
+		"japanese": "ちやほや",
+		"romaji": "chiyahoya",
+		"english": "spoiling, pampering, all the attention"
+	},
+	{
+		"japanese": "ちらちら",
+		"romaji": "chirachira",
+		"english": "fluttering ,twinkling, glimmering, off and on"
+	},
+	{
+		"japanese": "ちりんちりん",
+		"romaji": "chirinn chirinn",
+		"english": "jangle"
+	},
+	{
+		"japanese": "ちんちろりん",
+		"romaji": "chinnchirorin",
+		"english": "chirrups"
+	},
+	{
+		"japanese": "つくづく",
+		"romaji": "tsukuzuku",
+		"english": "carefully, attentively, completely"
+	},
+	{
+		"japanese": "つべこべ",
+		"romaji": "tsubekobe",
+		"english": "complaining, nitpicking"
+	},
+	{
+		"japanese": "つるつる",
+		"romaji": "tsurutsuru",
+		"english": "slurping sound,soft and smooth, slippery"
+	},
+	{
+		"japanese": "つんつん",
+		"romaji": "tsunntsunn",
+		"english": "aloof, morose, pointed, haughtily"
+	},
+	{
+		"japanese": "てきぱき",
+		"romaji": "tekipaki",
+		"english": "in a crisp manner、brisk action"
+	},
+	{
+		"japanese": "でこぼこ",
+		"romaji": "dekoboko",
+		"english": "unevenness, ruggedness"
+	},
+	{
+		"japanese": "どかっ(と)",
+		"romaji": "dokatto",
+		"english": "thuddingly, plumping down"
+	},
+	{
+		"japanese": "どきどき",
+		"romaji": "dokidoki",
+		"english": "thumpity-thump, beat fast, throb"
+	},
+	{
+		"japanese": "とくとく",
+		"romaji": "tokutoku",
+		"english": "glug‐glug"
+	},
+	{
+		"japanese": "とことん",
+		"romaji": "tokotonn",
+		"english": "to the end, thoroughly"
+	},
+	{
+		"japanese": "どさっ(と)",
+		"romaji": "dosatto",
+		"english": "with a thud"
+	},
+	{
+		"japanese": "どしどし",
+		"romaji": "doshidoshi",
+		"english": "freely, in large numbers"
+	},
+	{
+		"japanese": "どすんどすん",
+		"romaji": "dosunndosunn",
+		"english": "thud-thud"
+	},
+	{
+		"japanese": "どたばた",
+		"romaji": "dotabata",
+		"english": "noisily, kick and struggle"
+	},
+	{
+		"japanese": "ドッカーン",
+		"romaji": "dokka-n",
+		"english": "kaboom"
+	},
+	{
+		"japanese": "どっさり",
+		"romaji": "dossari",
+		"english": "lot of, heaps"
+	},
+	{
+		"japanese": "どっしり(と)",
+		"romaji": "dosshiri",
+		"english": "bulky and heavy, unflappable"
+	},
+	{
+		"japanese": "とっとと",
+		"romaji": "tottoto",
+		"english": "quickly, fast, hurriedly"
+	},
+	{
+		"japanese": "どっ(と)",
+		"romaji": "dotto",
+		"english": "suddenly, all at once"
+	},
+	{
+		"japanese": "どっぷり",
+		"romaji": "doppuri",
+		"english": "totally immersed in something"
+	},
+	{
+		"japanese": "どぶん",
+		"romaji": "dobunn",
+		"english": "plop, splash"
+	},
+	{
+		"japanese": "とぼとぼ",
+		"romaji": "tobotobo",
+		"english": "plodding, trudging"
+	},
+	{
+		"japanese": "どやどや",
+		"romaji": "doyadoya",
+		"english": "sound of many footsteps"
+	},
+	{
+		"japanese": "とろっ(と)",
+		"romaji": "torotto",
+		"english": "to become syrupy"
+	},
+	{
+		"japanese": "とろとろ",
+		"romaji": "torotoro",
+		"english": "simmering, syrupy"
+	},
+	{
+		"japanese": "どろどろ",
+		"romaji": "dorodoro",
+		"english": "syrupy, muddled"
+	},
+	{
+		"japanese": "どんちゃん",
+		"romaji": "donnchann",
+		"english": "riotous"
+	},
+	{
+		"japanese": "どんどん",
+		"romaji": "donndonn",
+		"english": "rub-a-dub, boom! boom!, steadily, rapidly"
+	},
+	{
+		"japanese": "どんより",
+		"romaji": "donnyori",
+		"english": "leaden or gloomy [sky], dull"
+	},
+	{
+		"japanese": "なみなみ",
+		"romaji": "naminami",
+		"english": "to the brim, uncommon"
+	},
+	{
+		"japanese": "のこのこ",
+		"romaji": "nokonoko",
+		"english": "unconcernedly, nonchalantly"
+	},
+	{
+		"japanese": "のほほん(と)",
+		"romaji": "nohohonnto",
+		"english": "nonchalantly"
+	},
+	{
+		"japanese": "のろのろ",
+		"romaji": "noronoro",
+		"english": "slowly, snail's pace, crawling"
+	},
+	{
+		"japanese": "のんびり",
+		"romaji": "nonnbiri",
+		"english": "leisurely, easygoing, carefree"
+	},
+	{
+		"japanese": "にこにこ",
+		"romaji": "nikoniko",
+		"english": "smile, beaming, cheerful"
+	},
+	{
+		"japanese": "にっこり",
+		"romaji": "nikkori",
+		"english": "smile sweetly, smile, grin"
+	},
+	{
+		"japanese": "にやにや",
+		"romaji": "niyaniya",
+		"english": "grinning, smirking"
+	},
+	{
+		"japanese": "にゃあにゃあ",
+		"romaji": "nyaanyaa",
+		"english": "meow"
+	},
+	{
+		"japanese": "にょきにょき",
+		"romaji": "nyokinyoki",
+		"english": "shooting up one after another"
+	},
+	{
+		"japanese": "にんまり",
+		"romaji": "ninnmari",
+		"english": "complacent smile"
+	},
+	{
+		"japanese": "ぬくぬく",
+		"romaji": "nukunuku",
+		"english": "comfortably, snugly, cosily"
+	},
+	{
+		"japanese": "ぬっ(と)",
+		"romaji": "nutto",
+		"english": "suddenly, abruptly"
+	},
+	{
+		"japanese": "ぬるぬる",
+		"romaji": "nurunuru",
+		"english": "slimy, slippery"
+	},
+	{
+		"japanese": "ねちねち",
+		"romaji": "nechinechi",
+		"english": "sticky, persistent"
+	},
+	{
+		"japanese": "ねばねば",
+		"romaji": "nebaneba",
+		"english": "stickiness"
+	},
+	{
+		"japanese": "ぱあっ(と)",
+		"romaji": "paatto",
+		"english": "enthusiastically, going all out"
+	},
+	{
+		"japanese": "はきはき",
+		"romaji": "hakihaki",
+		"english": "clearly, briskly, with alacrity"
+	},
+	{
+		"japanese": "ハクション",
+		"romaji": "hakushon",
+		"english": "choo, ah-choo, ka-choo, ker-choo."
+	},
+	{
+		"japanese": "ぱくり",
+		"romaji": "pakuri",
+		"english": "snapping into, biting into"
+	},
+	{
+		"japanese": "ぱさっ(と)",
+		"romaji": "basatto",
+		"english": "whack, lop off"
+	},
+	{
+		"japanese": "ぱさぱさ",
+		"romaji": "pasapasa",
+		"english": "friable, crumbly, dried"
+	},
+	{
+		"japanese": "はた(と)",
+		"romaji": "hatato",
+		"english": "suddenly, sharply"
+	},
+	{
+		"japanese": "ぱたっ(と)",
+		"romaji": "patatto",
+		"english": "suddenly, plop sound"
+	},
+	{
+		"japanese": "パタパタ",
+		"romaji": "hatahata",
+		"english": "flapping sound"
+	},
+	{
+		"japanese": "ばたばた",
+		"romaji": "batabata",
+		"english": "flapping rattling sound,  commotion"
+	},
+	{
+		"japanese": "ばたん(と)",
+		"romaji": "batann",
+		"english": "with a bang, smartly"
+	},
+	{
+		"japanese": "ぱちぱち",
+		"romaji": "pachipachi",
+		"english": "pop-pop, snap-snap"
+	},
+	{
+		"japanese": "はっきり",
+		"romaji": "hakkiri",
+		"english": "clear, distinct."
+	},
+	{
+		"japanese": "はっと",
+		"romaji": "hatto",
+		"english": "startled"
+	},
+	{
+		"japanese": "ぱっと",
+		"romaji": "patto",
+		"english": "suddenly, all at once"
+	},
+	{
+		"japanese": "はらはら",
+		"romaji": "harahara",
+		"english": "feel uneasy [nervous], thrilling"
+	},
+	{
+		"japanese": "ぱらぱら",
+		"romaji": "parapara",
+		"english": "rain sprinklong sound, or hail pattering  sound, riffling pages"
+	},
+	{
+		"japanese": "ばらばら",
+		"romaji": "barabara",
+		"english": "scattering, dismembering"
+	},
+	{
+		"japanese": "ばったりと",
+		"romaji": "pattarito",
+		"english": "sudden [fall], abrupt stop"
+	},
+	{
+		"japanese": "ばりっ(と)",
+		"romaji": "baritto",
+		"english": "a sound of tearing/ ripping"
+	},
+	{
+		"japanese": "ばん(と)",
+		"romaji": "bannto",
+		"english": "a bang of gun"
+	},
+	{
+		"japanese": "ばんばん",
+		"romaji": "bannbann",
+		"english": "doing something at a mad pace"
+	},
+	{
+		"japanese": "ばんばん",
+		"romaji": "pannpann",
+		"english": "kapow, bang, clap-clap"
+	},
+	{
+		"japanese": "ぴいぴい",
+		"romaji": "piipii",
+		"english": "peep"
+	},
+	{
+		"japanese": "ひぃんひぃん",
+		"romaji": "hii-nnhii-nn",
+		"english": "neigh of a horse"
+	},
+	{
+		"japanese": "ぴかぴか",
+		"romaji": "pikapika",
+		"english": "shining, glitteriing, glistening"
+	},
+	{
+		"japanese": "ぴかり",
+		"romaji": "pikari",
+		"english": "a flash of light"
+	},
+	{
+		"japanese": "ぴくっ(と)",
+		"romaji": "pikutto",
+		"english": "twitch,jerk"
+	},
+	{
+		"japanese": "ぴくぴく",
+		"romaji": "pikupiku",
+		"english": "twitching"
+	},
+	{
+		"japanese": "びくびく",
+		"romaji": "bikubiku",
+		"english": "being afraid of, timid, nervous"
+	},
+	{
+		"japanese": "びしっ(と)",
+		"romaji": "bishitto",
+		"english": "with a snap, sternly, cleanly, smartly"
+	},
+	{
+		"japanese": "ひしひし",
+		"romaji": "hishihishi",
+		"english": "fast, tight"
+	},
+	{
+		"japanese": "びしびし",
+		"romaji": "bishibishi",
+		"english": "stickily, relentlessly"
+	},
+	{
+		"japanese": "ピシャ",
+		"romaji": "pisha",
+		"english": "splat,"
+	},
+	{
+		"japanese": "ぴしゃり(と)",
+		"romaji": "pishari",
+		"english": "slapping, splashing, splatting, banging shut, flat"
+	},
+	{
+		"japanese": "びしょびしょ",
+		"romaji": "bishobisho",
+		"english": "drenched, soaked wet"
+	},
+	{
+		"japanese": "ひそひそ",
+		"romaji": "hisohiso",
+		"english": "in whispering"
+	},
+	{
+		"japanese": "ぴたっ",
+		"romaji": "pitatto",
+		"english": "closely, exactly, suddenly, tightly"
+	},
+	{
+		"japanese": "ひたひた",
+		"romaji": "hitahita",
+		"english": "gradually, steadily"
+	},
+	{
+		"japanese": "ぴちぴち",
+		"romaji": "pichipichi",
+		"english": "lively, energetic"
+	},
+	{
+		"japanese": "びっしょり",
+		"romaji": "bisshori",
+		"english": "wet through, drenched"
+	},
+	{
+		"japanese": "ひっそり",
+		"romaji": "hissori",
+		"english": "quiet, still, deserted"
+	},
+	{
+		"japanese": "ぴったり",
+		"romaji": "pittari",
+		"english": "tightly, perfectly, exactly"
+	},
+	{
+		"japanese": "ぴっちり",
+		"romaji": "picchiri",
+		"english": "tightly, snugly"
+	},
+	{
+		"japanese": "ぴっ(と)",
+		"romaji": "pitto",
+		"english": "sound of whistle"
+	},
+	{
+		"japanese": "ピヨピヨ",
+		"romaji": "piyopiyo",
+		"english": "peep, cheep, tweet"
+	},
+	{
+		"japanese": "ひょい(と)",
+		"romaji": "hyoito",
+		"english": "suddenly, accidentally, nimbly"
+	},
+	{
+		"japanese": "ひょっこり",
+		"romaji": "hyokkori",
+		"english": "unexpectedly, by chance"
+	},
+	{
+		"japanese": "ひやひや",
+		"romaji": "hiyahiya",
+		"english": "chilly, being scared stiff"
+	},
+	{
+		"japanese": "ひゅーひゅー",
+		"romaji": "hyu-hyu-",
+		"english": "whistle"
+	},
+	{
+		"japanese": "ひょろひょろ",
+		"romaji": "hyorohyoro",
+		"english": "frail, lanky, totter"
+	},
+	{
+		"japanese": "ぴゅうっ(と)",
+		"romaji": "pyuutto",
+		"english": "gushing, whistle"
+	},
+	{
+		"japanese": "ひゃっ(と)",
+		"romaji": "hiyatto",
+		"english": "shiver, chilling"
+	},
+	{
+		"japanese": "ぴゅうぴゅう",
+		"romaji": "pyuupyuu",
+		"english": "sound of whistling"
+	},
+	{
+		"japanese": "ひらひら",
+		"romaji": "hirahira",
+		"english": "fluttering,  flapping"
+	},
+	{
+		"japanese": "ひりひり",
+		"romaji": "hirihiri",
+		"english": "smart"
+	},
+	{
+		"japanese": "ぴりぴり",
+		"romaji": "piripiri",
+		"english": "burning the tongue, becoming tense"
+	},
+	{
+		"japanese": "ひらり",
+		"romaji": "hirari",
+		"english": "lightly, nimbly"
+	},
+	{
+		"japanese": "ぴんと",
+		"romaji": "pinnto",
+		"english": "inspiration, sixth sense"
+	},
+	{
+		"japanese": "ぴんぴん",
+		"romaji": "pinnpinn",
+		"english": "lively"
+	},
+	{
+		"japanese": "ひんやり",
+		"romaji": "hinnyari",
+		"english": "feel cool"
+	},
+	{
+		"japanese": "ぷい(と)",
+		"romaji": "puito",
+		"english": "suddenly"
+	},
+	{
+		"japanese": "ふう～",
+		"romaji": "huu-",
+		"english": "phew"
+	},
+	{
+		"japanese": "ふさふさ",
+		"romaji": "fusafusa",
+		"english": "in tufts"
+	},
+	{
+		"japanese": "ぶすっ(と)",
+		"romaji": "busutto",
+		"english": "pierceing, discontempt"
+	},
+	{
+		"japanese": "ぷっつり",
+		"romaji": "puttsuri",
+		"english": "entirely, wholly"
+	},
+	{
+		"japanese": "ふっと",
+		"romaji": "futto",
+		"english": "blowing air, suddenly, abruptly"
+	},
+	{
+		"japanese": "ぷっと",
+		"romaji": "putto",
+		"english": "puffing, pouting"
+	},
+	{
+		"japanese": "ぶつぶつ",
+		"romaji": "butsubutsu",
+		"english": "grunt, mumble"
+	},
+	{
+		"japanese": "ふふん(と)",
+		"romaji": "fufunn",
+		"english": "humph, pooh"
+	},
+	{
+		"japanese": "ぶよぶよ",
+		"romaji": "buyobuyo",
+		"english": "soft and flabby"
+	},
+	{
+		"japanese": "ふらっ(と)、ふらりと",
+		"romaji": "furatto",
+		"english": "casually, suddenly, unexpectantly"
+	},
+	{
+		"japanese": "ふらふら",
+		"romaji": "hurahura",
+		"english": "loosely [swinging], being indecisive"
+	},
+	{
+		"japanese": "ぶるぶる",
+		"romaji": "burubura",
+		"english": "trembling, shivering, shaking"
+	},
+	{
+		"japanese": "ぶるぶる",
+		"romaji": "burubura",
+		"english": "trembling, shivering, shaking"
+	},
+	{
+		"japanese": "ふわっ(と),ふわり",
+		"romaji": "fuwatto",
+		"english": "floating, drifting, weightlessness"
+	},
+	{
+		"japanese": "ふわふわ",
+		"romaji": "fuwafuwa",
+		"english": "soft, floating, light, restless, flighty"
+	},
+	{
+		"japanese": "ぶんぶん",
+		"romaji": "bunnbunn",
+		"english": "buzz, hum"
+	},
+	{
+		"japanese": "ぷんぷん",
+		"romaji": "punnpunn",
+		"english": "stinking, smell strongly, fuming"
+	},
+	{
+		"japanese": "ふんわり",
+		"romaji": "funnwari",
+		"english": "gently, airily, fluffily"
+	},
+	{
+		"japanese": "ぺこぺこ",
+		"romaji": "pekopeko",
+		"english": "starving, servile manner"
+	},
+	{
+		"japanese": "べたべた",
+		"romaji": "betabeta",
+		"english": "sticky, all over, clinging"
+	},
+	{
+		"japanese": "ぺちゃんこ",
+		"romaji": "pechannko",
+		"english": "crushed flat, flattened"
+	},
+	{
+		"japanese": "べったり",
+		"romaji": "bettari",
+		"english": "plastered, clinging, covered all over"
+	},
+	{
+		"japanese": "へとへと",
+		"romaji": "hetoheto",
+		"english": "being worn out"
+	},
+	{
+		"japanese": "べとべと",
+		"romaji": "betobeto",
+		"english": "being sticky"
+	},
+	{
+		"japanese": "へなへな",
+		"romaji": "henahena",
+		"english": "flimsy, weakly"
+	},
+	{
+		"japanese": "ぺらぺら",
+		"romaji": "perapera",
+		"english": "fluent, talkative, flimsy"
+	},
+	{
+		"japanese": "ぺろっと、ぺろり",
+		"romaji": "perotto",
+		"english": "stick one's tongue out, eat up"
+	},
+	{
+		"japanese": "ぺろぺろ",
+		"romaji": "peropero",
+		"english": "slurp-slurp, dead drunk"
+	},
+	{
+		"japanese": "ぼうぼう、もうもう",
+		"romaji": "boubou",
+		"english": "burning vigorously, endless"
+	},
+	{
+		"japanese": "ほかほか",
+		"romaji": "hokahoka",
+		"english": "steamy, warm"
+	},
+	{
+		"japanese": "ぽかぽか",
+		"romaji": "pokapoka",
+		"english": "warm, pelting"
+	},
+	{
+		"japanese": "ぼきっ(と)",
+		"romaji": "bokitto",
+		"english": "crack, snap sound"
+	},
+	{
+		"japanese": "ほくほく",
+		"romaji": "hokuhoku",
+		"english": "with satisfaction, not soggy"
+	},
+	{
+		"japanese": "ぼけっ(と)、ぼおっと、ぼそっと",
+		"romaji": "boketto",
+		"english": "absent- mindedly, idly."
+	},
+	{
+		"japanese": "ぽたぽた",
+		"romaji": "potapota",
+		"english": "dripping ,trickling"
+	},
+	{
+		"japanese": "ぽちゃぽちゃ",
+		"romaji": "pochapocha",
+		"english": "splash, splattering sound"
+	},
+	{
+		"japanese": "ぽっかり",
+		"romaji": "pokkari",
+		"english": "floating light, cracked and opening a mouth"
+	},
+	{
+		"japanese": "ぽっくり",
+		"romaji": "pokkuri",
+		"english": "suddenly"
+	},
+	{
+		"japanese": "ぽっちゃり",
+		"romaji": "pocchari",
+		"english": "chubby, plump"
+	},
+	{
+		"japanese": "ほっと",
+		"romaji": "hotto",
+		"english": "drawing a long sigh, feeling a relief"
+	},
+	{
+		"japanese": "ぽつん(と)",
+		"romaji": "potsunn",
+		"english": "isolated, rain drops"
+	},
+	{
+		"japanese": "ぽとぽと",
+		"romaji": "potopoto",
+		"english": "trickle down, drip"
+	},
+	{
+		"japanese": "ぽとり",
+		"romaji": "potori",
+		"english": "dripping, or dropping a small item"
+	},
+	{
+		"japanese": "ぼりぼり",
+		"romaji": "boribori",
+		"english": "munch, crunch"
+	},
+	{
+		"japanese": "ほろっ(と)、ほろり",
+		"romaji": "horotto",
+		"english": "moving/ touching [story]"
+	},
+	{
+		"japanese": "ぼろぼろ",
+		"romaji": "boroboro",
+		"english": "worn-out, crumbled, scattered"
+	},
+	{
+		"japanese": "ぽつぽつ",
+		"romaji": "potsupotsu",
+		"english": "dotted, in dribs and drabs, by twos and threes"
+	},
+	{
+		"japanese": "ぼつぼつ",
+		"romaji": "botsubotsu",
+		"english": "in shortly, little by little, spots"
+	},
+	{
+		"japanese": "ぼんやり",
+		"romaji": "bonnyari",
+		"english": "dimly, vaguely, absent- minded"
+	},
+	{
+		"japanese": "まごまご",
+		"romaji": "magomago",
+		"english": "being at a loss"
+	},
+	{
+		"japanese": "まざまざ(と)",
+		"romaji": "mazamaza",
+		"english": "clearly, vividly"
+	},
+	{
+		"japanese": "まるまる",
+		"romaji": "marumaru",
+		"english": "round, fat"
+	},
+	{
+		"japanese": "みしみし",
+		"romaji": "mishimishi",
+		"english": "creaking"
+	},
+	{
+		"japanese": "みっちり",
+		"romaji": "micchiri",
+		"english": "severely, strictly, diligently"
+	},
+	{
+		"japanese": "むかっ",
+		"romaji": "mukatto",
+		"english": "losing one's temper"
+	},
+	{
+		"japanese": "むかむか",
+		"romaji": "mukamuka",
+		"english": "feel nauseated, disgusting one"
+	},
+	{
+		"japanese": "むくむく",
+		"romaji": "mukumuku",
+		"english": "rising up, plump, shaggy"
+	},
+	{
+		"japanese": "むずむず",
+		"romaji": "muzumuzu",
+		"english": "itch, to be eager"
+	},
+	{
+		"japanese": "むっ",
+		"romaji": "mutto",
+		"english": "be sullen, offended, stuffy"
+	},
+	{
+		"japanese": "むにゃむにゃ",
+		"romaji": "munyamunya",
+		"english": "mumbling, talking in sleep"
+	},
+	{
+		"japanese": "むらむら",
+		"romaji": "muramura",
+		"english": "an impulse"
+	},
+	{
+		"japanese": "めきめき",
+		"romaji": "mekimeki",
+		"english": "remarkably, rapidly"
+	},
+	{
+		"japanese": "めちゃくちゃ",
+		"romaji": "mechakucha",
+		"english": "absurd, unreasonable, incoherent, reckless"
+	},
+	{
+		"japanese": "めっきり",
+		"romaji": "mekkiri",
+		"english": "remarkably, noticeably"
+	},
+	{
+		"japanese": "めらめら",
+		"romaji": "meramera",
+		"english": "blazeing, leaping frame"
+	},
+	{
+		"japanese": "めりめり",
+		"romaji": "merimeri",
+		"english": "riippp, splintering, cracking"
+	},
+	{
+		"japanese": "もうもう",
+		"romaji": "moumou",
+		"english": "dense, thick"
+	},
+	{
+		"japanese": "もうもう",
+		"romaji": "moumou",
+		"english": "moo"
+	},
+	{
+		"japanese": "もくもく",
+		"romaji": "mokumoku",
+		"english": "with clouds of smoke , silent."
+	},
+	{
+		"japanese": "もぐもぐ",
+		"romaji": "mogumogu",
+		"english": "chew, mumble"
+	},
+	{
+		"japanese": "もじもじ",
+		"romaji": "mojimoji",
+		"english": "hesitating, fidgeting"
+	},
+	{
+		"japanese": "もたもた",
+		"romaji": "motamota",
+		"english": "inefficient, slow"
+	},
+	{
+		"japanese": "もやもや",
+		"romaji": "moyamoya",
+		"english": "misty, gloomy, pent-up feeling"
+	},
+	{
+		"japanese": "やきもき",
+		"romaji": "yakimoki",
+		"english": "anxious, impatient, dying, fretting"
+	},
+	{
+		"japanese": "やっぱり",
+		"romaji": "yappari",
+		"english": "after all, as expected"
+	},
+	{
+		"japanese": "やんわり",
+		"romaji": "yannwari",
+		"english": "gently, mildly"
+	},
+	{
+		"japanese": "よたよた",
+		"romaji": "yotayota",
+		"english": "tottering, [walking] unsteadily"
+	},
+	{
+		"japanese": "よちよち",
+		"romaji": "yochiyochi",
+		"english": "totteringly"
+	},
+	{
+		"japanese": "よぼよぼ",
+		"romaji": "yoboyobo",
+		"english": "totter, senile"
+	},
+	{
+		"japanese": "よれよれ",
+		"romaji": "yoreyore",
+		"english": "worn-out, wrinkled-up"
+	},
+	{
+		"japanese": "ゆっくり",
+		"romaji": "yukkuri",
+		"english": "slowly, unhurriedly, leisurely"
+	},
+	{
+		"japanese": "ゆったり",
+		"romaji": "yuttari",
+		"english": "spaceful, relaxing"
+	},
+	{
+		"japanese": "ゆらゆら",
+		"romaji": "yurayura",
+		"english": "slow swaying"
+	},
+	{
+		"japanese": "りんりん",
+		"romaji": "rinnrinn",
+		"english": "ring, tinkle, bell ringing"
+	},
+	{
+		"japanese": "わくわく",
+		"romaji": "wakuwaku",
+		"english": "with eager anticipation, bubbling with expectation"
+	},
+	{
+		"japanese": "わっ(と)",
+		"romaji": "watto",
+		"english": "suddenly, burst into tears, shout"
+	},
+	{
+		"japanese": "わなわな",
+		"romaji": "wanawana",
+		"english": "trembling from fear, shiver"
+	},
+	{
+		"japanese": "わんわん",
+		"romaji": "wannwann",
+		"english": "bark"
+	},
+	{
+		"japanese": "わははは",
+		"romaji": "wa ha ha ha",
+		"english": "guffaw, har-har-har"
+	}
 ]
