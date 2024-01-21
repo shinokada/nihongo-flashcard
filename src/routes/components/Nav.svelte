@@ -27,7 +27,7 @@
 
 	{#snippet brand()}
 		<NavBrand siteName="Nihongo Flashcard" {closeNav}>
-			<Jp size={50} class="inline" />
+			<Jp size={40} class="inline" />
 		</NavBrand>
 		<div class="flex items-center ml-auto lg:order-1">
             <Darkmode class="inline-block dark:hover:text-white hover:text-gray-900" />
