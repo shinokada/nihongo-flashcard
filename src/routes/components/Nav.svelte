@@ -16,7 +16,7 @@
 	let divClass = "ml-auto w-full"
     let ulClass =
     'flex flex-col py-3 lg:flex-row lg:my-0 text-sm order-1 font-medium gap-4 lg:gap-2 dark:lg:bg-transparent border-0';
-    let navClass = 'w-full divide-gray-200 border-gray-200 px-2 py-2.5 text-gray-500 dark:divide-gray-700 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-400 sm:px-4'
+    let navClass = 'w-full divide-gray-200 border-gray-200 text-gray-500 dark:divide-gray-700 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-400 sm:px-4'
 
 </script>
 
