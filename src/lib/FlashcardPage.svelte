@@ -104,11 +104,11 @@
 	<!-- BUTTONS -->
 
 	<div class="flex space-x-4 pt-4">
-		<button onclick={toggleShowBack} class="inline-flex items-center bg-gray-300 p-4">
+		<button onclick={toggleShowBack} class="inline-flex items-center bg-gray-300 dark:bg-gray-700 p-4">
 			{showCardBack ? showFront : showBack}
 		</button>
 
-		<button class="inline-flex items-center bg-gray-300 p-4" onclick={() => updateLang(langlang)}>
+		<button class="inline-flex items-center bg-gray-300 dark:bg-gray-700 p-4" onclick={() => updateLang(langlang)}>
 			NEXT
 		</button>
 	</div>
