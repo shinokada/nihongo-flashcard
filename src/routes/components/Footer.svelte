@@ -2,11 +2,11 @@
 	import { Footer, FooterBrand, FooterLi, FooterUl } from 'svelte-5-ui-lib';
 </script>
 
-<Footer class="bg-gray-100 shadow-none dark:bg-gray-900" footerType="logo">
+<Footer footerclass="bg-gray-100 shadow-none dark:bg-gray-900" footerType="logo">
 	<div class="sm:flex sm:items-center sm:justify-between">
 		<FooterBrand href="/" name="LexiLearn Hub" />
 		<FooterUl
-			ulClass="flex flex-wrap items-center mt-3 sm:pl-4 text-sm text-gray-500 dark:text-gray-400 gap-2 sm:mt-0"
+			ulclass="flex flex-wrap items-center mt-3 sm:pl-4 text-sm text-gray-500 dark:text-gray-400 gap-2 sm:mt-0"
 		>
 			<FooterLi href="https://multilanguage-flashcard.vercel.app/" target="_blank"
 				>Multilanguage flashcard</FooterLi
