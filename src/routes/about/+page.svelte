@@ -9,7 +9,7 @@
   const viteVersion = __VITEVERSION__;
   </script>
   
-  <div class="mx-auto max-w-4xl px-8 py-4 text-left">
+  <div class="mx-auto max-w-4xl px-8 text-left">
     <h1>About</h1>
   <p>
     Nihongo-Flashcard is for Japanese learners who want to learn Japanese vocabulary. There are different levels of flashcards: 1K words, Verbs, Adjectives, Gairaigo, and Onomatopoeia. 
