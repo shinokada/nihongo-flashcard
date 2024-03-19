@@ -8,7 +8,7 @@
 	}
 
 	import { twMerge } from 'tailwind-merge';
-	let { front, back, showCardBack, pFront, pBack } = $props<Props>();
+	let { front, back, showCardBack, pFront, pBack }: Props = $props();
 
 	const frontDivCls = 'absolute inset-0 bg-custom-red text-white flex justify-center items-center';
 	const pClass = 'text-5xl p-8';

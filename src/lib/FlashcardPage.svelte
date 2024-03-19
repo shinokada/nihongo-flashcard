@@ -1,5 +1,8 @@
 <script lang="ts">
-	// import dictionary from '$lib/data/verbs.json';
+  import SearchLinks from './SearchLinks.svelte';
+	import { Flashcard } from '$lib';
+	import { getRandomPair } from '$lib/utils.svelte.js';
+	import { twMerge } from 'tailwind-merge';
 	interface Props {
 		dictionary: any;
 		isVerb?: boolean;
@@ -7,24 +10,20 @@
 		pFront?: string;
 		pBack?: string;
 	}
-
-	import { Flashcard } from '$lib';
-	import { getRandomPair } from '$lib/utils.svelte.js';
-	import { twMerge } from 'tailwind-merge';
-	let { dictionary, isVerb, title = 'Flashcard', pFront, pBack } = $props<Props>();
-	let langlang = 'japeng';
-	let front = $state();
-	let back = $state();
-	let showCardBack = $state(false);
-	let showFront = $state();
-	let showBack = $state();
-	let lang1lang2 = $state(
+	let { dictionary, isVerb, title = 'Flashcard', pFront, pBack }: Props = $props();
+	
+	let front:string = $state('');
+	let back: string = $state('');
+	let showCardBack: boolean = $state(false);
+	let showFront: string= $state('');
+	let showBack: string = $state('');
+	let lang1lang2: string = $state(
 		'text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800 opacity-100'
 	);
-	let lang2lang1 = $state(
+	let lang2lang1: string = $state(
 		'focus:outline-none text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900 opacity-50'
 	);
-	let lang1lang1 = $state(
+	let lang1lang1: string = $state(
 		'focus:outline-none text-white bg-orange-700 hover:bg-orange-800 focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-orange-600 dark:hover:bg-orange-700 dark:focus:ring-orange-900 opacity-50'
 	);
 
@@ -63,9 +62,14 @@
 		back = newBack;
 	};
 
-	updateLang(langlang);
+	let langlang = $state('japeng');
+	updateLang('japeng');
 
-	function handleKeyDown(event) {
+	$effect(() => {
+		updateLang(langlang)
+	});
+
+	function handleKeyDown(event: KeyboardEvent) {
 		if (event.key === 'ArrowLeft') {
 			toggleShowBack();
 			// console.log('arrowleft pressed')
@@ -75,8 +79,8 @@
 		}
 	}
 
-	function preventDefault(fn) {
-		return function (event) {
+	function preventDefault(fn: (event: KeyboardEvent) => void) {
+		return function (this: HTMLElement, event: KeyboardEvent) {
 			event.preventDefault();
 			fn.call(this, event);
 		};
@@ -95,7 +99,7 @@
 		{/if}
 	</div>
 	<!-- FLASHCARD -->
-	<div class="flip-box h-96 w-full bg-transparent md:w-2/3">
+	<div class="flip-box h-96 w-full bg-transparent md:w-1/2">
 		<div class="flip-box-inner" class:flip-it={showCardBack}>
 			<Flashcard {front} {back} {showCardBack} {pFront} {pBack} />
 		</div>
@@ -116,6 +120,8 @@
 		Use ← to flip and → to next
 	</span>
 </div>
+
+<SearchLinks {langlang} {front} {back} />
 
 <svelte:window onkeydown={preventDefault(handleKeyDown)} />
 
