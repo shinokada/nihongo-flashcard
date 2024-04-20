@@ -1,4 +1,4 @@
-export function removeHyphensAndCapitalize(str: string) {
+export function removeHyphensAndCapitalize(str) {
   // Handle empty string or strings without '-'
   if (!str || !str.includes('-')) {
     return str;
@@ -13,6 +13,7 @@ export function removeHyphensAndCapitalize(str: string) {
   return capitalized.replace(/-|\s{2,}/g, ' ');
 }
 
+
 export function splitAndCapitalize(text: string) {
   // Split the string using '/' as the delimiter
   const parts = text.split('/');
@@ -23,4 +24,16 @@ export function splitAndCapitalize(text: string) {
   // Get the last element of the array and capitalize it
   // return parts[parts.length - 1].charAt(0).toUpperCase() + parts[parts.length - 1].slice(1);
   return removeHyphensAndCapitalize(parts[parts.length - 1]);
+}
+
+export function metaTitle(pathname: string, name: string) {
+  return splitAndCapitalize(pathname) ? `${splitAndCapitalize(pathname)} - ${removeHyphensAndCapitalize(name)}` : `${removeHyphensAndCapitalize(name)}`;
+}
+
+export function metaDescription(pathname: string, baseDescription: string) {
+  return splitAndCapitalize(pathname) ? `${splitAndCapitalize(pathname)} - ${baseDescription}` : `${baseDescription}`
+}
+
+export function metaImg(pathname: string, siteUrl: string) {
+  return splitAndCapitalize(pathname) ? `https://open-graph-vercel.vercel.app/api/${siteUrl}?title=${splitAndCapitalize(pathname)}` : `https://open-graph-vercel.vercel.app/api/${siteUrl}`;
 }
