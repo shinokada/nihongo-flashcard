@@ -5,8 +5,8 @@ test('index page has expected h1', async ({ page }) => {
 	expect(await page.textContent('h1')).toBe('3000 Japanese basic words');
 });
 
-test('one-thousand page has expected h1', async ({ page }) => {
-	await page.goto('/one-thousand');
+test('one-thousand-words page has expected h1', async ({ page }) => {
+	await page.goto('/one-thousand-words');
 	expect(await page.textContent('h1')).toBe('1000 Japanese basic words');
 });
 

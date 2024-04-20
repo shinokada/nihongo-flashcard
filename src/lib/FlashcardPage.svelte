@@ -90,12 +90,12 @@
 <div class="mt-15 flex flex-col items-center">
 	<h1 class="m-4 text-3xl">{title}</h1>
 	<div class="flex justify-between">
-		<button type="button" class={lang1lang2} on:click={() => updateLang('japeng')}
+		<button type="button" class={lang1lang2} onclick={() => updateLang('japeng')}
 			>Japanese-English</button
 		>
-		<button class={lang2lang1} on:click={() => updateLang('engjap')}>English-Japanese</button>
+		<button class={lang2lang1} onclick={() => updateLang('engjap')}>English-Japanese</button>
 		{#if isVerb}
-			<button class={lang1lang1} on:click={() => updateLang('kanjap')}>Kanji-Hiragana</button>
+			<button class={lang1lang1} onclick={() => updateLang('kanjap')}>Kanji-Hiragana</button>
 		{/if}
 	</div>
 	<!-- FLASHCARD -->

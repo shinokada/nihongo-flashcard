@@ -32,7 +32,7 @@
 
 	<NavUl ulclass='xl:space-x-8 lg:space-x-5'>
 		<NavLi href="/" >Home</NavLi>
-		<NavLi href="/one-thousand" >1K words</NavLi>
+		<NavLi href="/one-thousand-words" >1K words</NavLi>
 		<NavLi href="/verbs" >Verbs</NavLi>
 		<NavLi href="/adjectives" >Adjectives</NavLi>
 		<NavLi href="/gairaigo" >Gairaigo</NavLi>

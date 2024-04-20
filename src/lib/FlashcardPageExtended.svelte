@@ -69,11 +69,11 @@
 <div class="mt-15 flex flex-col items-center">
 	<h1 class="m-4 text-3xl">{title}</h1>
 	<div class="flex justify-between">
-		<button type="button" class={norengCls} on:click={() => updateLang('noreng')}
+		<button type="button" class={norengCls} onclick={() => updateLang('noreng')}
 			>Norsk-English</button
 		>
-		<button class={engnorCls} on:click={() => updateLang('engnor')}>English-Norsk</button>
-		<button class={nornorCls} on:click={() => updateLang('nornor')}>Norsk-Norsk</button>
+		<button class={engnorCls} onclick={() => updateLang('engnor')}>English-Norsk</button>
+		<button class={nornorCls} onclick={() => updateLang('nornor')}>Norsk-Norsk</button>
 	</div>
 	<!-- FLASHCARD -->
 	<div class="flip-box h-96 w-full bg-transparent md:w-2/3">
