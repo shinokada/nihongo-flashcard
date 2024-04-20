@@ -1,15 +1,14 @@
 import { ANALYTICS_ID } from '$env/static/private';
 import type { MetaProps } from 'runes-meta-tags';
-import { metaTitle, metaDescription, metaImg } from './utils/helpers';
+import { metaTitle, metaDescription, metaImg } from 'runes-meta-tags';
 
 export const load = ({ url }) => {
 
-  const title = metaTitle(url.pathname, __NAME__)
-
+  const title = metaTitle(url.pathname, __NAME__);
   const basicDesc = 'Learn Japanese words with flashcards.'
-  const description = metaDescription(url.pathname, basicDesc)
-  const image = metaImg(url.pathname, 'nihongo-flashcard')
-  
+  const description = metaDescription(url.pathname, basicDesc);
+  const image = metaImg(url.pathname, __NAME__);
+
   const layoutMetaTags: MetaProps = {
     title,
     description,
