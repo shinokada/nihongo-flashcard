@@ -17,7 +17,7 @@
     metaTags = $page.data.pageMetaTags ? deepMerge($page.data.layoutMetaTags, $page.data.pageMetaTags ) : data.layoutMetaTags
   });
 
-  const analyticsId = data.ANALYTICS_ID
+  const analyticsId = data.ANALYTICS_ID_LANGUAGE_APP
 </script>
 
 <Runatics {analyticsId} />
