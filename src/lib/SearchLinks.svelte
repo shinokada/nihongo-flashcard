@@ -1,30 +1,29 @@
 <script lang="ts">
-  import { Button } from 'svelte-5-ui-lib';
-  interface Props {
-    langlang: string;
-    front: string;
-    back: string;
-  }
+	import { Button } from 'svelte-5-ui-lib';
+	interface Props {
+		langlang: string;
+		front: string;
+		back: string;
+	}
 
-  let { langlang, front, back }: Props = $props();
+	let { langlang, front, back }: Props = $props();
 
-  const dict1 = 'https://takoboto.jp/?q='
-	const dict2= 'https://www.japandict.com/'
+	const dict1 = 'https://takoboto.jp/?q=';
+	const dict2 = 'https://www.japandict.com/';
 
-  let searchWord = $derived(langlang === 'japeng' ? dictionaryWord(front) : dictionaryWord(back))
+	let searchWord = $derived(langlang === 'japeng' ? dictionaryWord(front) : dictionaryWord(back));
 
-	let showDictionaryLink: boolean = $derived(langlang==='japeng'?true:false);
+	let showDictionaryLink: boolean = $derived(langlang === 'japeng' ? true : false);
 
-  function dictionaryWord(word: string){
+	function dictionaryWord(word: string) {
 		// Use regular expression to match everything outside brackets
-    return word.replace(/[\(]([^)]*)[\)]/g, "");
+		return word.replace(/[\(]([^)]*)[\)]/g, '');
 	}
 </script>
 
-
-<div class='flex flex-col w-1/3 mx-auto gap-2 mt-4 justify-center'>
+<div class="mx-auto mt-4 flex w-1/3 flex-col justify-center gap-2">
 	{#if showDictionaryLink}
-	<Button target="_blank" href={dict1}{searchWord}>Takoboto: {searchWord}</Button>
-	<Button target="_blank" href={dict2}{searchWord}>Japandict: {searchWord}</Button>
+		<Button target="_blank" href={dict1} {searchWord}>Takoboto: {searchWord}</Button>
+		<Button target="_blank" href={dict2} {searchWord}>Japandict: {searchWord}</Button>
 	{/if}
 </div>

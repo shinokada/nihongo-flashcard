@@ -1,5 +1,5 @@
 <script lang="ts">
-  import SearchLinks from './SearchLinks.svelte';
+	import SearchLinks from './SearchLinks.svelte';
 	import { Flashcard } from '$lib';
 	import { getRandomPair } from '$lib/utils.svelte.js';
 	import { twMerge } from 'tailwind-merge';
@@ -11,11 +11,11 @@
 		pBack?: string;
 	}
 	let { dictionary, isVerb, title = 'Flashcard', pFront, pBack }: Props = $props();
-	
-	let front:string = $state('');
+
+	let front: string = $state('');
 	let back: string = $state('');
 	let showCardBack: boolean = $state(false);
-	let showFront: string= $state('');
+	let showFront: string = $state('');
 	let showBack: string = $state('');
 	let lang1lang2: string = $state(
 		'text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800 opacity-100'
@@ -66,7 +66,7 @@
 	updateLang('japeng');
 
 	$effect(() => {
-		updateLang(langlang)
+		updateLang(langlang);
 	});
 
 	function handleKeyDown(event: KeyboardEvent) {
@@ -108,11 +108,17 @@
 	<!-- BUTTONS -->
 
 	<div class="flex space-x-4 pt-4">
-		<button onclick={toggleShowBack} class="inline-flex items-center bg-gray-300 dark:bg-gray-700 p-4">
+		<button
+			onclick={toggleShowBack}
+			class="inline-flex items-center bg-gray-300 p-4 dark:bg-gray-700"
+		>
 			{showCardBack ? showFront : showBack}
 		</button>
 
-		<button class="inline-flex items-center bg-gray-300 dark:bg-gray-700 p-4" onclick={() => updateLang(langlang)}>
+		<button
+			class="inline-flex items-center bg-gray-300 p-4 dark:bg-gray-700"
+			onclick={() => updateLang(langlang)}
+		>
 			NEXT
 		</button>
 	</div>
