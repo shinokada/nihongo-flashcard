@@ -1,7 +1,8 @@
 <script lang="ts">
 	import { getContext } from 'svelte';
+	import type { SVGAttributes } from 'svelte/elements';
 
-	interface CtxType {
+	interface CtxType extends SVGAttributes<SVGSVGElement>{
 		size?: string;
 		role?: string;
 		color?: string;
@@ -21,7 +22,7 @@
 		strokeWidth = '0 0 24 24',
 		ariaLabel = 'arrow left',
 		...attributes
-	} = $props<CtxType>();
+	}: CtxType = $props();
 
 	if (variation === 'mini') {
 		size = size || '20';

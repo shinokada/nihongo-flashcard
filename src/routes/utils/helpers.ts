@@ -1,4 +1,4 @@
-export function removeHyphensAndCapitalize(str) {
+export function removeHyphensAndCapitalize(str: string) {
 	// Handle empty string or strings without '-'
 	if (!str || !str.includes('-')) {
 		return str;

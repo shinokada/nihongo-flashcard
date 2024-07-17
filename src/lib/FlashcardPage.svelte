@@ -1,7 +1,7 @@
 <script lang="ts">
 	import SearchLinks from './SearchLinks.svelte';
 	import { Flashcard } from '$lib';
-	import { getRandomPair } from '$lib/utils.svelte.js';
+	import { getRandomPair } from '$lib/utils';
 	import { twMerge } from 'tailwind-merge';
 	interface Props {
 		dictionary: any;
@@ -58,8 +58,15 @@
 		}
 		showCardBack = false;
 		const { front: newFront, back: newBack } = getRandomPair(dictionary, lang, isVerb);
-		front = newFront;
-		back = newBack;
+		if (newFront !== undefined) {
+			front = newFront;
+		}
+
+		if (newBack !== undefined) {
+			back = newBack;
+		}
+		// front = newFront;
+		// back = newBack;
 	};
 
 	let langlang = $state('japeng');
