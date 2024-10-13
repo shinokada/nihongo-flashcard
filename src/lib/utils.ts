@@ -15,7 +15,9 @@ export function randomword(wordList: string[]) {
 	return wordList[Math.floor(Math.random() * wordList.length)];
 }
 
-export function getRandomItemFromDictionary<T>(dictionary: { [key: string]: T }): { [key: string]: T } {
+export function getRandomItemFromDictionary<T>(dictionary: { [key: string]: T }): {
+	[key: string]: T;
+} {
 	const keys = Object.keys(dictionary);
 	const randomKey = keys[Math.floor(Math.random() * keys.length)];
 
@@ -24,35 +26,44 @@ export function getRandomItemFromDictionary<T>(dictionary: { [key: string]: T })
 	};
 }
 
-export const randomNumberGenerator = (min: number, max: number, maxConsecutiveRepeats: number): () => number => {
-  let previousNumbers: number[] = [];
+export const randomNumberGenerator = (
+	min: number,
+	max: number,
+	maxConsecutiveRepeats: number
+): (() => number) => {
+	const previousNumbers: number[] = [];
 
-  return (): number => {
-      let randomNumber: number;
+	return (): number => {
+		let randomNumber: number;
 
-      do {
-          randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
-      } while (previousNumbers.includes(randomNumber));
+		do {
+			randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
+		} while (previousNumbers.includes(randomNumber));
 
-      if (previousNumbers.length >= maxConsecutiveRepeats) {
-          previousNumbers.shift();
-      }
+		if (previousNumbers.length >= maxConsecutiveRepeats) {
+			previousNumbers.shift();
+		}
 
-      previousNumbers.push(randomNumber);
+		previousNumbers.push(randomNumber);
 
-      return randomNumber;
-  };
+		return randomNumber;
+	};
 };
 
 interface Word {
-  hiragana: string;
-  romaji: string;
-  english: string;
-  kanji?: string; // Optional property for verbs
-  japanese?: string; // Optional property, not for verbs
+	hiragana: string;
+	romaji: string;
+	english: string;
+	kanji?: string; // Optional property for verbs
+	japanese?: string; // Optional property, not for verbs
 }
 
-export function getRandomPair(jsonData: Word[], langlang: string, isVerb = false, maxConsecutiveRepeats = 50) {
+export function getRandomPair(
+	jsonData: Word[],
+	langlang: string,
+	isVerb = false,
+	maxConsecutiveRepeats = 50
+) {
 	const randomIndexFn = randomNumberGenerator(0, jsonData.length - 1, maxConsecutiveRepeats);
 
 	const randomIndex = randomIndexFn();
@@ -102,13 +113,13 @@ export function openTab(word: string, website: string) {
 
 export function cleanWord(word: string) {
 	// Remove characters after '/'
-	let withoutSlash = word.replace(/\/.*$/, '');
+	const withoutSlash = word.replace(/\/.*$/, '');
 
 	// Remove characters after ','
-	let withoutComma = withoutSlash.replace(/,.*/, '');
+	const withoutComma = withoutSlash.replace(/,.*/, '');
 
 	// Remove characters after ' -'
-	let withoutHyphen = withoutComma.replace(/ -.*/, '');
+	const withoutHyphen = withoutComma.replace(/ -.*/, '');
 
 	return withoutHyphen.trim(); // Trim to remove leading/trailing spaces
 }

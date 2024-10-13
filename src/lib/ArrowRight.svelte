@@ -2,7 +2,7 @@
 	import { getContext } from 'svelte';
 	import type { SVGAttributes } from 'svelte/elements';
 
-	interface CtxType extends SVGAttributes<SVGSVGElement>{
+	interface CtxType extends SVGAttributes<SVGSVGElement> {
 		size?: string;
 		role?: string;
 		color?: string;

@@ -1,5 +1,6 @@
 <script>
 	import { removeHyphensAndCapitalize } from '$lib/utils';
+	/*eslint no-undef: "off"*/
 	const name = __NAME__;
 	const version = __VERSION__;
 	const githuburl = __GITHUBURL__;

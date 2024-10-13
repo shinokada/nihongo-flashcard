@@ -25,11 +25,11 @@
 				<Jp size="40" class="inline" />
 			</NavBrand>
 			<div class="ml-auto flex items-center lg:order-1">
-				<Darkmode class="inline-block dark:hover:text-white hover:text-gray-900" />
+				<Darkmode class="inline-block hover:text-gray-900 dark:hover:text-white" />
 			</div>
 		{/snippet}
 
-		<NavUl class="xl:space-x-8 lg:space-x-5">
+		<NavUl class="lg:space-x-5 xl:space-x-8">
 			<NavLi href="/">Home</NavLi>
 			<NavLi href="/one-thousand-words">1K words</NavLi>
 			<NavLi href="/verbs">Verbs</NavLi>

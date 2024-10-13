@@ -9,7 +9,8 @@
 	let { langlang, front, back }: Props = $props();
 
 	const dict1 = 'https://takoboto.jp/?q=';
-	const dict2 = 'https://www.japandict.com/';
+	const dict2 = 'https://www.japandict.com/?s=';
+	// https://www.japandict.com/?s=%E4%B8%B8&lang=eng
 
 	let searchWord = $derived(langlang === 'japeng' ? dictionaryWord(front) : dictionaryWord(back));
 
@@ -17,13 +18,13 @@
 
 	function dictionaryWord(word: string) {
 		// Use regular expression to match everything outside brackets
-		return word.replace(/[\(]([^)]*)[\)]/g, '');
+		return word.replace(/[(]([^)]*)[)]/g, '');
 	}
 </script>
 
 <div class="mx-auto mt-4 flex w-1/3 flex-col justify-center gap-2">
 	{#if showDictionaryLink}
-		<Button target="_blank" href={dict1} >Takoboto: {searchWord}</Button>
-		<Button target="_blank" href={dict2} >Japandict: {searchWord}</Button>
+		<Button target="_blank" href={`${dict1}${searchWord}`}>Takoboto: {searchWord}</Button>
+		<Button target="_blank" href={`${dict2}${searchWord}`}>Japandict: {searchWord}</Button>
 	{/if}
 </div>
