@@ -13,7 +13,6 @@
 		// without using effect
 		navStatus = nav.isOpen;
 	});
-	let divClass = 'ml-auto w-full';
 </script>
 
 <header

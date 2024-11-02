@@ -25,6 +25,7 @@
 			? 'opacity-100 [transform:rotateY(180deg)]'
 			: ''}"
 	>
+		<!-- eslint-disable svelte/no-at-html-tags -->
 		<p class={backPCls}>{@html back}</p>
 	</div>
 </div>

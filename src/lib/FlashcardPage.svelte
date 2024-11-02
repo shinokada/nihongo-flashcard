@@ -3,7 +3,7 @@
 	import { Flashcard } from '$lib';
 	import { getRandomPair } from '$lib/utils';
 	import { twMerge } from 'tailwind-merge';
-	
+
 	/* eslint-disable  @typescript-eslint/no-explicit-any */
 	interface Props {
 		dictionary: any;

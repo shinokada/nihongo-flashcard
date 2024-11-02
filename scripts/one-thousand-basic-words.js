@@ -1,4 +1,3 @@
-import { text } from '@sveltejs/kit';
 import { promises as fs } from 'fs';
 import puppeteer from 'puppeteer';
 

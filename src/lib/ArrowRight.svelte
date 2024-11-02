@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { getContext } from 'svelte';
 	import type { SVGAttributes } from 'svelte/elements';
 
 	interface CtxType extends SVGAttributes<SVGSVGElement> {
@@ -12,7 +11,6 @@
 		ariaLabel?: string;
 	}
 
-	const ctx: CtxType = getContext('iconCtx') ?? {};
 	let {
 		size = '24',
 		role = 'img',
