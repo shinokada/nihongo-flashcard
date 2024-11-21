@@ -2,6 +2,13 @@
 	import Jp from '$lib/Jp.svelte';
 
 	import { Navbar, NavLi, NavBrand, NavUl, uiHelpers, Darkmode } from 'svelte-5-ui-lib';
+	import { page } from '$app/stores';
+
+	let activeUrl = $state($page.url.pathname);
+  $effect(() => {
+    activeUrl = $page.url.pathname;
+  });
+
 	let nav = uiHelpers();
 
 	let navStatus = $state(false);
@@ -28,7 +35,7 @@
 			</div>
 		{/snippet}
 
-		<NavUl class="lg:space-x-5 xl:space-x-8">
+		<NavUl {activeUrl} class="lg:space-x-5 xl:space-x-8">
 			<NavLi href="/">Home</NavLi>
 			<NavLi href="/one-thousand-words">1K words</NavLi>
 			<NavLi href="/verbs">Verbs</NavLi>
