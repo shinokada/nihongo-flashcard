@@ -1,5 +1,5 @@
 <script>
-	import { Footer, FooterBrand, FooterLi, FooterUl } from 'svelte-5-ui-lib';
+	import { Footer, FooterBrand, FooterLi, FooterUl } from 'flowbite-svelte';
 </script>
 
 <Footer class="bg-gray-100 shadow-none dark:bg-gray-900" footerType="logo">
