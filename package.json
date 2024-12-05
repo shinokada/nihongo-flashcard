@@ -51,7 +51,6 @@
 		"runes-meta-tags": "^0.4.2",
 		"runes-webkit": "^0.9.47",
 		"svelte": "5.6.2",
-		"svelte-5-ui-lib": "^0.12.2",
 		"svelte-check": "^4.1.0",
 		"tailwind-merge": "^2.5.5",
 		"tailwindcss": "^3.4.15",
