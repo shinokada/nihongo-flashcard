@@ -157,10 +157,10 @@
 	</div>
 
 	<!-- BUTTONS -->
-	<div class="flex space-x-4 pt-4">
+	<div class="flex flex-col sm:flex-row gap-2 pt-4">
 		<button
 			onclick={toggleShowBack}
-			class="inline-flex min-w-44 items-center bg-gray-300 p-4 dark:bg-gray-700"
+			class="inline-flex items-center bg-gray-300 p-4 dark:bg-gray-700"
 		>
 			<ArrowLeft class="mr-4" />
 			{showCardBack ? showFront : showBack}
