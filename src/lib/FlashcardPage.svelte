@@ -4,6 +4,11 @@
 	import { getRandomPair } from '$lib/utils';
 	import { twMerge } from 'tailwind-merge';
 
+	interface WordPair {
+		front: string;
+		back: string;
+	}
+
 	/* eslint-disable  @typescript-eslint/no-explicit-any */
 	interface Props {
 		dictionary: any;
@@ -30,7 +35,7 @@
 	);
 
 	// Add word history
-	let wordHistory = $state<Array<{ front: string; back: string }>>([]);
+	let wordHistory = $state<Array<WordPair>>([]);
 	let currentIndex = $state(-1);
 
 	const toggleShowBack = () => (showCardBack = !showCardBack);
