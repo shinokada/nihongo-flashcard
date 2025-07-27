@@ -190,8 +190,7 @@
 	}
 </script>
 
-{isTouch}
-<div class="mt-15 flex flex-col items-center">
+<div class="flex flex-col items-center">
 	<h1 class="m-4 text-3xl">{title}</h1>
 	<div class="flex justify-between">
 		<button type="button" class={lang1lang2} onclick={() => updateLang('japeng')}
