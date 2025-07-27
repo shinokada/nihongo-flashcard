@@ -61,11 +61,15 @@
 		if (Math.abs(deltaX) > Math.abs(deltaY)) {
 			// Horizontal swipe
 			if (deltaX < -30) {
-				// Swipe left
-				updateLang(langlang);
+				// Swipe left - navigate forward or generate new card
+				if (currentIndex < wordHistory.length - 1) {
+					showNextWord();
+				} else {
+					updateLang(langlang);
+				}
 			} else if (deltaX > 30) {
-				// Swipe right (optional: show previous word)
-				showPreviousWord?.();
+				// Swipe right - show previous word
+				showPreviousWord();
 			}
 		} else {
 			// Vertical swipe
@@ -121,10 +125,7 @@
 		const newWord = getNewWord(lang);
 
 		if (addToHistory) {
-			// Remove any forward history if we're not at the end
-			if (currentIndex < wordHistory.length - 1) {
-				wordHistory = wordHistory.slice(0, currentIndex + 1);
-			}
+			// Always append new cards to the end (no truncation)
 			wordHistory = [...wordHistory, newWord];
 			currentIndex = wordHistory.length - 1;
 		}
@@ -165,16 +166,19 @@
 	});
 
 	function handleKeyDown(event: KeyboardEvent) {
-		if (event.key === 'ArrowLeft') {
-			toggleShowBack();
-		} else if (event.key === 'ArrowRight') {
-			updateLang(langlang);
-		} else if (event.key === 'ArrowUp') {
+		if (event.key === 'ArrowLeft' || event.key === 'ArrowUp') {
 			showPreviousWord();
-		} else if (event.key === 'ArrowDown') {
-			showNextWord();
+		} else if (event.key === 'ArrowRight' || event.key === 'ArrowDown') {
+			// Navigate forward or generate new card if at the end
+			if (currentIndex < wordHistory.length - 1) {
+				showNextWord();
+			} else {
+				updateLang(langlang);
+			}
 		} else if (event.key === 'Enter' || event.key === ' ') {
 			toggleShowBack();
+		} else if (event.key === 'n' || event.key === 'N') {
+			updateLang(langlang);
 		}
 	}
 
@@ -223,10 +227,10 @@
 
 	<p class="right-full mt-4 rounded bg-gray-900 px-2 py-1 text-white">
 		{#if isTouch}
-			Swipe left or right to switch cards. Tap to flip. Or use  buttons below.
+			Swipe left or right to switch cards. Tap to flip. Or use buttons below.
 		{:else}
-			Click the card / press ← / space / enter to flip.<br />
-			Use → / ↓ for next word, ↑ for previous. Or use buttons below.
+			Click the card / press space / enter to flip.<br />
+			Use ← → ↑ ↓ to navigate cards. Press N for new card. Or use buttons below.
 		{/if}
 	</p>
 
@@ -234,7 +238,7 @@
 	<div class="grid grid-cols-3 gap-2 pt-4 sm:flex-row sm:justify-between">
 		<button
 			onclick={showPreviousWord}
-			class="w-full inline-flex items-center bg-gray-300 p-2 sm:p-4 dark:bg-gray-700"
+			class="w-full inline-flex items-center bg-gray-300 p-2 sm:p-4 dark:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed"
 			disabled={currentIndex <= 0}
 		>
 			<ArrowUp class="mr-4" />
@@ -243,7 +247,7 @@
 
 		<button
 			onclick={showNextWord}
-			class="w-full inline-flex items-center bg-gray-300 p-2 sm:p-4 dark:bg-gray-700"
+			class="w-full inline-flex items-center bg-gray-300 p-2 sm:p-4 dark:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed"
 			disabled={currentIndex >= wordHistory.length - 1}
 		>
 			<ArrowDown class="mr-4" />
@@ -254,7 +258,7 @@
 			class="w-full inline-flex bg-gray-300 p-2 text-right sm:p-4 dark:bg-gray-700"
 			onclick={() => updateLang(langlang)}
 		>
-			NEXT
+			NEW CARD
 			<ArrowRight class="ml-4" />
 		</button>
 	</div>
