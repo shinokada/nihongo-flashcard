@@ -34,6 +34,41 @@
 		'focus:outline-none text-white bg-orange-700 hover:bg-orange-800 focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-lg px-3 sm:px-5 py-1 sm:py-2.5 me-1 sm:me-2 mb-1 sm:mb-2 dark:bg-orange-600 dark:hover:bg-orange-700 dark:focus:ring-orange-900 opacity-50'
 	);
 
+	// swipe
+	let touchStartX = 0;
+	let touchStartY = 0;
+	let touchEndX = 0;
+	let touchEndY = 0;
+
+	function handleTouchStart(event: TouchEvent) {
+		touchStartX = event.changedTouches[0].screenX;
+		touchStartY = event.changedTouches[0].screenY;
+	}
+
+	function handleTouchEnd(event: TouchEvent) {
+		touchEndX = event.changedTouches[0].screenX;
+		touchEndY = event.changedTouches[0].screenY;
+
+		const deltaX = touchEndX - touchStartX;
+		const deltaY = touchEndY - touchStartY;
+
+		if (Math.abs(deltaX) > Math.abs(deltaY)) {
+			// Horizontal swipe
+			if (deltaX < -30) {
+				// Swipe left
+				updateLang(langlang);
+			} else if (deltaX > 30) {
+				// Swipe right (optional: show previous word)
+				showPreviousWord?.();
+			}
+		} else {
+			// Vertical swipe
+			if (deltaY < -30 || deltaY > 30) {
+				toggleShowBack();
+			}
+		}
+	}
+
 	// Add word history
 	let wordHistory = $state<Array<WordPair>>([]);
 	let currentIndex = $state(-1);
@@ -164,6 +199,8 @@
 			class:flip-it={showCardBack}
 			onclick={toggleShowBack}
 			onkeydown={(e) => (e.key === 'Enter' || e.key === ' ') && toggleShowBack()}
+			ontouchstart={handleTouchStart}
+			ontouchend={handleTouchEnd}
 			tabindex="0"
 			role="button"
 			aria-pressed={showCardBack}
