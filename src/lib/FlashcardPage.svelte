@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { onMount } from 'svelte';
 	import SearchLinks from './SearchLinks.svelte';
 	import { Flashcard, ArrowLeft, ArrowRight, ArrowUp, ArrowDown } from '$lib';
 	import { getRandomPair } from '$lib/utils';
@@ -35,6 +36,11 @@
 	);
 
 	// swipe
+	let isTouch = $state(false);
+	onMount(() => {
+		isTouch = window.matchMedia('(pointer: coarse)').matches;
+	});
+	// touch screen
 	let touchStartX = 0;
 	let touchStartY = 0;
 	let touchEndX = 0;
@@ -172,7 +178,6 @@
 		}
 	}
 
-
 	function preventDefault(fn: (event: KeyboardEvent) => void) {
 		return function (this: HTMLElement, event: KeyboardEvent) {
 			event.preventDefault();
@@ -181,6 +186,7 @@
 	}
 </script>
 
+{isTouch}
 <div class="mt-15 flex flex-col items-center">
 	<h1 class="m-4 text-3xl">{title}</h1>
 	<div class="flex justify-between">
@@ -192,6 +198,12 @@
 			<button class={lang1lang1} onclick={() => updateLang('kanjap')}>Kanji-Hiragana</button>
 		{/if}
 	</div>
+	
+	<!-- CARD COUNTER -->
+	<div class="mt-4 mb-2 text-lg font-medium text-gray-700 dark:text-gray-300">
+		{currentIndex + 1}/{wordHistory.length}
+	</div>
+
 	<!-- FLASHCARD -->
 	<div class="flip-box h-96 w-full bg-transparent md:w-1/2">
 		<div
@@ -207,14 +219,22 @@
 		>
 			<Flashcard {front} {back} {showCardBack} {pFront} {pBack} />
 		</div>
-
 	</div>
 
+	<p class="right-full mt-4 rounded bg-gray-900 px-2 py-1 text-white">
+		{#if isTouch}
+			Swipe left or right to switch cards. Tap to flip. Or use  buttons below.
+		{:else}
+			Click the card / press ← / space / enter to flip.<br />
+			Use → / ↓ for next word, ↑ for previous. Or use buttons below.
+		{/if}
+	</p>
+
 	<!-- BUTTONS -->
-	<div class="grid grid-cols-3 sm:flex-row gap-2 pt-4">
+	<div class="grid grid-cols-3 gap-2 pt-4 sm:flex-row sm:justify-between">
 		<button
 			onclick={showPreviousWord}
-			class="inline-flex items-center bg-gray-300 p-2 sm:p-4 dark:bg-gray-700"
+			class="w-full inline-flex items-center bg-gray-300 p-2 sm:p-4 dark:bg-gray-700"
 			disabled={currentIndex <= 0}
 		>
 			<ArrowUp class="mr-4" />
@@ -223,7 +243,7 @@
 
 		<button
 			onclick={showNextWord}
-			class="inline-flex items-center bg-gray-300 p-2 sm:p-4 dark:bg-gray-700"
+			class="w-full inline-flex items-center bg-gray-300 p-2 sm:p-4 dark:bg-gray-700"
 			disabled={currentIndex >= wordHistory.length - 1}
 		>
 			<ArrowDown class="mr-4" />
@@ -231,16 +251,13 @@
 		</button>
 
 		<button
-			class="inline-flex bg-gray-300 p-2 sm:p-4 text-right dark:bg-gray-700"
+			class="w-full inline-flex bg-gray-300 p-2 text-right sm:p-4 dark:bg-gray-700"
 			onclick={() => updateLang(langlang)}
 		>
 			NEXT
 			<ArrowRight class="ml-4" />
 		</button>
 	</div>
-	<span class="right-full mt-4 rounded bg-gray-900 px-2 py-1 text-white">
-		Click the card or press ← / Space / Enter to flip. → for next, ↑ for previous, ↓ to go forward.
-	</span>
 </div>
 
 <SearchLinks {langlang} {front} {back} />
