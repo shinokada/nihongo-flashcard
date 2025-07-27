@@ -27,16 +27,19 @@
 		"verbs": "node ./scripts/verbs.js",
 		"adjectives": "node ./scripts/adjectives.js",
 		"onek": "node ./scripts/one-thousand-basic-words.js",
-		"gairaigo": "node ./scripts/gairaigo.js"
+		"gairaigo": "node ./scripts/gairaigo.js",
+		"ch": "npx changeset",
+		"cv": "npx changeset version",
+		"cp": "npx changeset publish"
 	},
 	"devDependencies": {
 		"@changesets/cli": "^2.29.5",
 		"@eslint/compat": "^1.3.1",
 		"@eslint/js": "^9.31.0",
 		"@playwright/test": "^1.54.1",
-		"@sveltejs/adapter-auto": "^4.0.0",
+		"@sveltejs/adapter-auto": "^6.0.1",
 		"@sveltejs/kit": "^2.25.0",
-		"@sveltejs/vite-plugin-svelte": "^5.1.1",
+		"@sveltejs/vite-plugin-svelte": "^6.1.0",
 		"@svitejs/changesets-changelog-github-compact": "^1.2.0",
 		"@tailwindcss/vite": "^4.1.11",
 		"@testing-library/jest-dom": "^6.6.3",
