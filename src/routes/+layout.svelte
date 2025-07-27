@@ -4,18 +4,18 @@
 	import Nav from './components/Nav.svelte';
 	import Footer from './components/Footer.svelte';
 	import { RunesMetaTags, deepMerge } from 'runes-meta-tags';
-	import { page } from '$app/stores';
+	import { page } from '$app/state';
 
 	let { children, data } = $props();
 	let metaTags = $state(
-		$page.data.pageMetaTags
-			? deepMerge($page.data.layoutMetaTags, $page.data.pageMetaTags)
+		page.data.pageMetaTags
+			? deepMerge(page.data.layoutMetaTags, page.data.pageMetaTags)
 			: data.layoutMetaTags
 	);
 
 	$effect(() => {
-		metaTags = $page.data.pageMetaTags
-			? deepMerge($page.data.layoutMetaTags, $page.data.pageMetaTags)
+		metaTags = page.data.pageMetaTags
+			? deepMerge(page.data.layoutMetaTags, page.data.pageMetaTags)
 			: data.layoutMetaTags;
 	});
 

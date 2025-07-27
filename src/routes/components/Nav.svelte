@@ -2,11 +2,11 @@
 	import Jp from '$lib/Jp.svelte';
 
 	import { Navbar, NavLi, NavBrand, NavUl, uiHelpers, Darkmode } from 'svelte-5-ui-lib';
-	import { page } from '$app/stores';
+	import { page } from '$app/state';
 
-	let activeUrl = $state($page.url.pathname);
+	let activeUrl = $state(page.url.pathname);
 	$effect(() => {
-		activeUrl = $page.url.pathname;
+		activeUrl = page.url.pathname;
 	});
 
 	let nav = uiHelpers();
@@ -27,8 +27,8 @@
 >
 	<Navbar {toggleNav} {closeNav} {navStatus} breakPoint="lg" fluid div2Class="px-8">
 		{#snippet brand()}
-			<NavBrand siteName="Nihongo Flashcard">
-				<Jp size="40" class="inline" />
+			<NavBrand spanClass="text-xl sm:text-3xl" siteName="Nihongo Flashcard">
+				<Jp size="40" class="inline border border-gray-300" />
 			</NavBrand>
 			<div class="ml-auto flex items-center lg:order-1">
 				<Darkmode class="inline-block hover:text-gray-900 dark:hover:text-white" />
