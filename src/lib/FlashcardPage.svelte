@@ -238,7 +238,7 @@
 			<Flashcard {front} {back} {showCardBack} {pFront} {pBack} />
 		</div>
 	{/snippet}
-	<Modal bind:open={flashcardModal} fullscreen size="none" classes={{body:"p-0 m-0", close:"text-white text-2xl"}} >
+	<Modal bind:open={flashcardModal} fullscreen size="none" classes={{body:"p-0 m-0", close:"top-12 end-12 text-white"}} >
 		<div class="flex h-screen items-center justify-center"
 		role="button"
 		tabindex="0"
