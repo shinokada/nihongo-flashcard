@@ -2,6 +2,7 @@
 	import { onMount } from 'svelte';
 	import SearchLinks from './SearchLinks.svelte';
 	import { Flashcard, ArrowLeft, ArrowRight, ArrowUp, ArrowDown } from '$lib';
+	import { Modal, Button } from 'flowbite-svelte';
 	import { getRandomPair } from '$lib/utils';
 	import { twMerge } from 'tailwind-merge';
 
@@ -9,6 +10,9 @@
 		front: string;
 		back: string;
 	}
+
+	// modal
+	let flashcardModal = $state(false);
 
 	/* eslint-disable  @typescript-eslint/no-explicit-any */
 	interface Props {
@@ -188,6 +192,15 @@
 			fn.call(this, event);
 		};
 	}
+
+	let modalContent: HTMLDivElement | undefined;
+
+	$effect(() => {
+		if (flashcardModal) {
+			setTimeout(() => modalContent?.focus(), 0);
+		}
+	});
+
 </script>
 
 <div class="flex flex-col items-center">
@@ -201,14 +214,16 @@
 			<button class={lang1lang1} onclick={() => updateLang('kanjap')}>Kanji-Hiragana</button>
 		{/if}
 	</div>
-	
+
 	<!-- CARD COUNTER -->
-	<div class="mt-4 mb-2 text-lg font-medium text-gray-700 dark:text-gray-300">
-		{currentIndex + 1}/{wordHistory.length}
+	<div
+		class="mt-4 mb-2 flex justify-center gap-4 text-lg font-medium text-gray-700 dark:text-gray-300"
+	>
+		<Button color="gray">{currentIndex + 1}/{wordHistory.length}</Button>
+		<Button onclick={() => (flashcardModal = true)}>Full-screen</Button>
 	</div>
 
-	<!-- FLASHCARD -->
-	<div class="flip-box h-96 w-full bg-transparent md:w-1/2">
+	{#snippet flashcard()}
 		<div
 			class="flip-box-inner"
 			class:flip-it={showCardBack}
@@ -222,6 +237,20 @@
 		>
 			<Flashcard {front} {back} {showCardBack} {pFront} {pBack} />
 		</div>
+	{/snippet}
+	<Modal bind:open={flashcardModal} fullscreen size="none" classes={{body:"p-0 m-0", close:"text-white text-2xl"}} >
+		<div class="flex h-screen items-center justify-center"
+		role="button"
+		tabindex="0"
+    onkeydown={preventDefault(handleKeyDown)}
+		bind:this={modalContent}
+		>
+			{@render flashcard()}
+		</div>
+	</Modal>
+	<!-- FLASHCARD -->
+	<div class="flip-box h-96 w-full bg-transparent md:w-1/2">
+		{@render flashcard()}
 	</div>
 
 	<p class="right-full mt-4 rounded bg-gray-900 px-2 py-1 text-white">
@@ -237,7 +266,7 @@
 	<div class="grid grid-cols-3 gap-2 pt-4 sm:flex-row sm:justify-between">
 		<button
 			onclick={showPreviousWord}
-			class="w-full inline-flex items-center bg-gray-300 p-2 sm:p-4 dark:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed"
+			class="inline-flex w-full items-center bg-gray-300 p-2 disabled:cursor-not-allowed disabled:opacity-50 sm:p-4 dark:bg-gray-700"
 			disabled={currentIndex <= 0}
 		>
 			<ArrowUp class="mr-4" />
@@ -246,7 +275,7 @@
 
 		<button
 			onclick={showNextWord}
-			class="w-full inline-flex items-center bg-gray-300 p-2 sm:p-4 dark:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed"
+			class="inline-flex w-full items-center bg-gray-300 p-2 disabled:cursor-not-allowed disabled:opacity-50 sm:p-4 dark:bg-gray-700"
 			disabled={currentIndex >= wordHistory.length - 1}
 		>
 			<ArrowDown class="mr-4" />
@@ -254,7 +283,7 @@
 		</button>
 
 		<button
-			class="w-full inline-flex bg-gray-300 p-2 text-right sm:p-4 dark:bg-gray-700"
+			class="inline-flex w-full bg-gray-300 p-2 text-right sm:p-4 dark:bg-gray-700"
 			onclick={() => updateLang(langlang)}
 		>
 			NEW CARD
