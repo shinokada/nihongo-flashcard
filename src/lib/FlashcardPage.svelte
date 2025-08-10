@@ -162,7 +162,6 @@
 	// Initialize with first word
 	$effect(() => {
 		const initialWord = getNewWord(langlang);
-		$inspect('word: ', initialWord);
 		front = initialWord.front;
 		back = initialWord.back;
 		wordHistory = [initialWord];
