@@ -20,10 +20,12 @@
 		// Use regular expression to match everything outside brackets
 		return word.replace(/[(]([^)]*)[)]/g, '');
 	}
+	let translate = $derived(`https://translate.google.com/?sl=ja&tl=en&text=${searchWord}&op=translate`);
 </script>
 
 <div class="mx-auto mt-4 flex w-1/3 justify-center gap-2">
 	{#if showDictionaryLink}
+		<Button class="p-2 sm:p-4" target="_blank" href={translate}>Tranlate: {searchWord}</Button>
 		<Button class="p-2 sm:p-4" target="_blank" href={`${dict1}${searchWord}`}>Takoboto: {searchWord}</Button>
 		<Button class="p-2 sm:p-4" target="_blank" href={`${dict2}${searchWord}`}>Japandict: {searchWord}</Button>
 	{/if}
