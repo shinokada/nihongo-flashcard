@@ -3,7 +3,7 @@ import * as sitemap from 'super-sitemap';
 import type { RequestHandler } from '@sveltejs/kit';
 
 export const GET: RequestHandler = async () => {
-  return await sitemap.response({
-    origin: 'ttps://nihongo-flashcard.codewithshin.com',
-  });
+	return await sitemap.response({
+		origin: 'ttps://nihongo-flashcard.codewithshin.com'
+	});
 };

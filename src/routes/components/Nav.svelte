@@ -3,10 +3,7 @@
 	import { Navbar, NavLi, NavBrand, NavUl, DarkMode, NavHamburger } from 'flowbite-svelte';
 	import { page } from '$app/state';
 
-	let activeUrl = $state(page.url.pathname);
-	$effect(() => {
-		activeUrl = page.url.pathname;
-	});
+	let activeUrl = $derived(page.url.pathname);
 	let activeClass = 'p-2 text-base hover:text-gray-600';
 	let nonActiveClass = 'p-2 text-base hover:text-gray-600';
 </script>
@@ -19,14 +16,16 @@
 >
 	<NavBrand href="/">
 		<Jp size="40" class="inline" />
-		<span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white ml-2">Nihongo-Flashcard</span>
+		<span class="ml-2 self-center text-xl font-semibold whitespace-nowrap dark:text-white"
+			>Nihongo-Flashcard</span
+		>
 	</NavBrand>
-	
+
 	<div class="flex justify-end lg:order-2">
 		<NavHamburger class="order-3" />
 		<DarkMode class="inline-block hover:text-gray-900 dark:hover:text-white" />
 	</div>
-	
+
 	<NavUl
 		{activeUrl}
 		class="order-2 lg:order-1"

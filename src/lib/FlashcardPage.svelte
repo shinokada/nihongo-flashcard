@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import SearchLinks from './SearchLinks.svelte';
-	import { Flashcard, ArrowLeft, ArrowRight, ArrowUp, ArrowDown } from '$lib';
+	import { Flashcard, ArrowRight, ArrowUp, ArrowDown } from '$lib';
 	import { Modal, Button } from 'flowbite-svelte';
 	import { getRandomPair } from '$lib/utils';
 	import { twMerge } from 'tailwind-merge';
@@ -27,7 +27,9 @@
 	let front: string = $state('');
 	let back: string = $state('');
 	let showCardBack: boolean = $state(false);
+	/* eslint-disable-next-line @typescript-eslint/no-unused-vars */
 	let showFront: string = $state('日本語');
+	/* eslint-disable-next-line @typescript-eslint/no-unused-vars */
 	let showBack: string = $state('English');
 	let lang1lang2: string = $state(
 		'text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-lg px-3 sm:px-5 py-1 sm:py-2.5 me-1 sm:me-2 mb-1 sm:mb-2 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800 opacity-100'
@@ -199,7 +201,6 @@
 			setTimeout(() => modalContent?.focus(), 0);
 		}
 	});
-
 </script>
 
 <div class="flex flex-col items-center">
@@ -237,12 +238,18 @@
 			<Flashcard {front} {back} {showCardBack} {pFront} {pBack} />
 		</div>
 	{/snippet}
-	<Modal bind:open={flashcardModal} fullscreen size="none" classes={{body:"p-0 m-0", close:"top-12 end-12 text-white"}} >
-		<div class="flex h-screen items-center justify-center"
-		role="button"
-		tabindex="0"
-    onkeydown={preventDefault(handleKeyDown)}
-		bind:this={modalContent}
+	<Modal
+		bind:open={flashcardModal}
+		fullscreen
+		size="none"
+		classes={{ body: 'p-0 m-0', close: 'top-12 end-12 text-white' }}
+	>
+		<div
+			class="flex h-screen items-center justify-center"
+			role="button"
+			tabindex="0"
+			onkeydown={preventDefault(handleKeyDown)}
+			bind:this={modalContent}
 		>
 			{@render flashcard()}
 		</div>
