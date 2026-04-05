@@ -16,7 +16,7 @@ So the JLPT uses **5 levels (N5 → N1)**, where N5 is the easiest and N1 is the
 
 Your existing `vocab-n4.json` already follows this convention. To mirror the Norwegian app's structure, you'd want to add:
 
-```
+```text
 vocab-n5.json
 vocab-n4.json  ← already exists
 vocab-n3.json

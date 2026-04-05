@@ -23,8 +23,15 @@
 		...restProps
 	}: OutlineProps = $props();
 
-	const ariaDescribedby = $derived(`${title?.id || ''} ${desc?.id || ''}`.trim());
-	const hasDescription = $derived(!!(title?.id || desc?.id));
+	const ariaDescribedby = $derived(
+		[
+			title?.id && title.title ? title.id : '',
+			desc?.id && desc.desc ? desc.id : ''
+		]
+			.filter(Boolean)
+			.join(' ')
+	);
+	const hasDescription = $derived(!!ariaDescribedby);
 	const isLabeled = $derived(!!ariaLabel || hasDescription);
 </script>
 

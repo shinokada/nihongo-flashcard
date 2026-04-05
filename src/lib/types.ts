@@ -69,7 +69,7 @@ export interface VocabEntry {
 	english: string;
 	example: string;
 	example_english?: string;
-	level: string;
-	category: string;
+	level: JLPTLevel;
+	category: Category;
 	part: string;
 }

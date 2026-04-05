@@ -296,7 +296,7 @@
 	<!-- Hint -->
 	<p class="mt-4 rounded bg-gray-900 px-2 py-1 text-white">
 		{#if isTouch}
-			Tap to flip · ← → to navigate · ↑↓ to toggle translation
+			Tap to flip · swipe ←/→ to navigate · swipe ↑/↓ to toggle translation
 		{:else}
 			Space/Enter/↑↓ to flip · ← → to navigate · R to restart · E to toggle translation
 		{/if}
