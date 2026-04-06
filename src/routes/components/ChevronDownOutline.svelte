@@ -24,10 +24,7 @@
 	}: OutlineProps = $props();
 
 	const ariaDescribedby = $derived(
-		[
-			title?.id && title.title ? title.id : '',
-			desc?.id && desc.desc ? desc.id : ''
-		]
+		[title?.id && title.title ? title.id : '', desc?.id && desc.desc ? desc.id : '']
 			.filter(Boolean)
 			.join(' ')
 	);

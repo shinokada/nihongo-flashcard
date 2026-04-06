@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { onMount, untrack } from 'svelte';
-	import { Flashcard, ArrowLeft, ArrowRight, ArrowUp, ArrowDown } from '$lib';
+	import { Flashcard, ArrowLeft, ArrowRight } from '$lib';
 	import SpeakButton from '$lib/SpeakButton.svelte';
 	import { Button } from 'flowbite-svelte';
 	import type { VocabEntry } from '$lib/types';
@@ -21,7 +21,6 @@
 	let deck = $state<DeckItem[]>([]);
 	let currentIndex = $state(0);
 	let completed = $state(false);
-
 
 	// touch
 	let isTouch = $state(false);
@@ -269,11 +268,11 @@
 	{#if !completed && current}
 		<div class="mt-3 w-full max-w-lg rounded-lg bg-gray-50 px-5 py-4 dark:bg-gray-800">
 			<div class="flex items-center gap-2">
-			<p class="text-base text-gray-700 italic dark:text-gray-300">
-				{current.entry.example}
-			</p>
-			<SpeakButton word={current.entry.example} />
-		</div>
+				<p class="text-base text-gray-700 italic dark:text-gray-300">
+					{current.entry.example}
+				</p>
+				<SpeakButton word={current.entry.example} />
+			</div>
 			{#if current.entry.example_english}
 				<div class="mt-2">
 					{#if showExampleEnglish}
