@@ -8,11 +8,31 @@
 	export function speak() {
 		const text = word.trim();
 		if (!text) return;
-		if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
-			window.speechSynthesis.cancel();
-			const utterance = new SpeechSynthesisUtterance(text);
-			utterance.lang = 'ja-JP';
+		if (typeof window === 'undefined' || !('speechSynthesis' in window)) return;
+
+		window.speechSynthesis.cancel();
+
+		const utterance = new SpeechSynthesisUtterance(text);
+		utterance.lang = 'ja-JP';
+
+		const doSpeak = () => {
+			const voices = window.speechSynthesis.getVoices();
+			const japaneseVoice = voices.find((v) => v.lang.startsWith('ja'));
+			if (japaneseVoice) utterance.voice = japaneseVoice;
+
+			// Android Chrome workaround: resume if paused before speaking
+			if (window.speechSynthesis.paused) {
+				window.speechSynthesis.resume();
+			}
 			window.speechSynthesis.speak(utterance);
+		};
+
+		const voices = window.speechSynthesis.getVoices();
+		if (voices.length > 0) {
+			doSpeak();
+		} else {
+			// Voices not yet loaded (common on Android) — wait for them
+			window.speechSynthesis.addEventListener('voiceschanged', doSpeak, { once: true });
 		}
 	}
 </script>
