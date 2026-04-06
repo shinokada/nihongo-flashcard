@@ -40,7 +40,7 @@
 	fill="none"
 	{color}
 	{...restProps}
-	class={cn('shrink-0', sizes[size], className as string | undefined)}
+	class={cn('shrink-0', sizes[size] ?? sizes.md, className as string | undefined)}
 	viewBox="0 0 24 24"
 	aria-label={ariaLabel}
 	aria-describedby={hasDescription ? ariaDescribedby : undefined}

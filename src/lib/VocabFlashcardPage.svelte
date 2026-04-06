@@ -1,6 +1,6 @@
 <script lang="ts">
-	import { onMount } from 'svelte';
-	import { Flashcard, ArrowRight, ArrowUp, ArrowDown } from '$lib';
+	import { onMount, untrack } from 'svelte';
+	import { Flashcard, ArrowLeft, ArrowRight, ArrowUp, ArrowDown } from '$lib';
 	import SpeakButton from '$lib/SpeakButton.svelte';
 	import { Button } from 'flowbite-svelte';
 	import type { VocabEntry } from '$lib/types';
@@ -118,7 +118,7 @@
 			resetCardState();
 			return;
 		}
-		buildDeck(e, mode);
+		untrack(() => buildDeck(e, mode));
 	});
 
 	function handleTouchStart(e: TouchEvent) {
@@ -162,7 +162,7 @@
 		} else if (e.key === 'r' || e.key === 'R') {
 			e.preventDefault();
 			restart();
-		} else if (!completed && current && (e.key === 'e' || e.key === 'E')) {
+		} else if (!completed && current?.entry.example_english && (e.key === 'e' || e.key === 'E')) {
 			e.preventDefault();
 			showExampleEnglish = !showExampleEnglish;
 		}
@@ -310,7 +310,7 @@
 			class="inline-flex w-full items-center bg-gray-300 p-2 disabled:cursor-not-allowed disabled:opacity-50 sm:p-4 dark:bg-gray-700"
 			disabled={currentIndex <= 0 && !completed}
 		>
-			<ArrowUp class="mr-4" />
+			<ArrowLeft class="mr-4" />
 			Previous
 		</button>
 
@@ -320,7 +320,7 @@
 			class="inline-flex w-full items-center bg-gray-300 p-2 disabled:cursor-not-allowed disabled:opacity-50 sm:p-4 dark:bg-gray-700"
 			disabled={completed || deck.length === 0}
 		>
-			<ArrowDown class="mr-4" />
+			<ArrowRight class="mr-4" />
 			Forward
 		</button>
 
