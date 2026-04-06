@@ -105,7 +105,14 @@
 
 	const toggleBack = () => (showCardBack = !showCardBack);
 
+	function focusOnMount(node: HTMLElement) {
+		node.focus();
+	}
+
 	let current = $derived(deck[currentIndex]);
+
+	let wordSpeakButton = $state<{ speak: () => void } | null>(null);
+	let exampleSpeakButton = $state<{ speak: () => void } | null>(null);
 
 	// Rebuild deck whenever entries changes (new category/level)
 	$effect(() => {
@@ -164,6 +171,12 @@
 		} else if (!completed && current?.entry.example_english && (e.key === 'e' || e.key === 'E')) {
 			e.preventDefault();
 			showExampleEnglish = !showExampleEnglish;
+		} else if (!completed && current && e.key === '/') {
+			e.preventDefault();
+			wordSpeakButton?.speak();
+		} else if (!completed && current && e.key === '.') {
+			e.preventDefault();
+			exampleSpeakButton?.speak();
 		}
 	}
 
@@ -215,6 +228,7 @@
 				<button
 					type="button"
 					onclick={restart}
+					use:focusOnMount
 					class="rounded-lg bg-blue-600 px-6 py-3 text-lg font-medium text-white hover:bg-blue-700 focus:ring-4 focus:ring-blue-300 focus:outline-none"
 				>
 					Shuffle &amp; Restart
@@ -260,7 +274,7 @@
 			>
 				{current.entry.part}
 			</span>
-			<SpeakButton word={current.speakWord} />
+			<SpeakButton bind:this={wordSpeakButton} word={current.speakWord} />
 		</div>
 	{/if}
 
@@ -271,7 +285,7 @@
 				<p class="text-base text-gray-700 italic dark:text-gray-300">
 					{current.entry.example}
 				</p>
-				<SpeakButton word={current.entry.example} />
+				<SpeakButton bind:this={exampleSpeakButton} word={current.entry.example} />
 			</div>
 			{#if current.entry.example_english}
 				<div class="mt-2">
@@ -297,7 +311,7 @@
 		{#if isTouch}
 			Tap to flip · swipe ←/→ to navigate · swipe ↑/↓ to toggle translation
 		{:else}
-			Space/Enter/↑↓ to flip · ← → to navigate · R to restart · E to toggle translation
+			Space/Enter/↑↓ to flip · ← → to navigate · R to restart · E to toggle translation · / to pronounce word · . to pronounce example
 		{/if}
 	</p>
 
