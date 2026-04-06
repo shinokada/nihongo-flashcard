@@ -13,10 +13,10 @@
 	};
 
 	let {
-		size = ctx.size || 'md',
-		color = ctx.color || 'currentColor',
+		size = ctx.size ?? 'md',
+		color = ctx.color ?? 'currentColor',
 		title,
-		strokeWidth = ctx.strokeWidth || 2,
+		strokeWidth = ctx.strokeWidth ?? 2,
 		desc,
 		class: className,
 		ariaLabel,
