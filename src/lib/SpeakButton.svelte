@@ -32,6 +32,7 @@
 	let japaneseVoices = $state<SpeechSynthesisVoice[]>([]);
 	let selectedVoiceName = $state('');
 	let mounted = false;
+	let pendingVoicesChangedHandler: EventListener | null = null;
 
 	function loadVoices() {
 		if (typeof window === 'undefined' || !('speechSynthesis' in window)) return;
@@ -53,6 +54,13 @@
 		return () => {
 			mounted = false;
 			window.speechSynthesis.removeEventListener('voiceschanged', loadVoices);
+			if (pendingVoicesChangedHandler) {
+				window.speechSynthesis.removeEventListener(
+					'voiceschanged',
+					pendingVoicesChangedHandler
+				);
+				pendingVoicesChangedHandler = null;
+			}
 		};
 	});
 
@@ -90,7 +98,21 @@
 			doSpeak();
 		} else {
 			// Voices not yet loaded (common on Android) — wait for them
-			window.speechSynthesis.addEventListener('voiceschanged', doSpeak, { once: true });
+			if (pendingVoicesChangedHandler) {
+				window.speechSynthesis.removeEventListener(
+					'voiceschanged',
+					pendingVoicesChangedHandler
+				);
+			}
+			pendingVoicesChangedHandler = () => {
+				pendingVoicesChangedHandler = null;
+				doSpeak();
+			};
+			window.speechSynthesis.addEventListener(
+				'voiceschanged',
+				pendingVoicesChangedHandler,
+				{ once: true }
+			);
 		}
 	}
 </script>
@@ -148,6 +170,7 @@
 			<div>
 				<p class="mb-3 text-sm font-medium text-gray-700 dark:text-gray-300">Voice</p>
 				<select
+					aria-label="Voice"
 					bind:value={selectedVoiceName}
 					class="w-full rounded-lg border border-gray-300 bg-gray-50 p-2 text-sm text-gray-900 focus:border-red-500 focus:ring-red-500 dark:border-gray-600 dark:bg-gray-700 dark:text-white dark:focus:border-red-500 dark:focus:ring-red-500"
 				>
