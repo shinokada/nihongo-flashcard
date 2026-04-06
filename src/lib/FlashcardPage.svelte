@@ -181,10 +181,10 @@
 		}
 
 		// Only handle keys we care about, and prevent default for them
-		if (event.key === 'ArrowLeft' || event.key === 'ArrowUp') {
+		if (event.key === 'ArrowLeft') {
 			event.preventDefault();
 			showPreviousWord();
-		} else if (event.key === 'ArrowRight' || event.key === 'ArrowDown') {
+		} else if (event.key === 'ArrowRight') {
 			event.preventDefault();
 			// Navigate forward or generate new card if at the end
 			if (currentIndex < wordHistory.length - 1) {
@@ -192,7 +192,12 @@
 			} else {
 				updateLang(langlang);
 			}
-		} else if (event.key === 'Enter' || event.key === ' ') {
+		} else if (
+			event.key === 'ArrowUp' ||
+			event.key === 'ArrowDown' ||
+			event.key === 'Enter' ||
+			event.key === ' '
+		) {
 			event.preventDefault();
 			toggleShowBack();
 		} else if (event.key === 'n' || event.key === 'N') {
@@ -206,16 +211,21 @@
 
 		if (event.key === 'Escape') {
 			flashcardModal = false;
-		} else if (event.key === 'ArrowLeft' || event.key === 'ArrowUp') {
+		} else if (event.key === 'ArrowLeft') {
 			showPreviousWord();
-		} else if (event.key === 'ArrowRight' || event.key === 'ArrowDown') {
+		} else if (event.key === 'ArrowRight') {
 			// Navigate forward or generate new card if at the end
 			if (currentIndex < wordHistory.length - 1) {
 				showNextWord();
 			} else {
 				updateLang(langlang);
 			}
-		} else if (event.key === 'Enter' || event.key === ' ') {
+		} else if (
+			event.key === 'ArrowUp' ||
+			event.key === 'ArrowDown' ||
+			event.key === 'Enter' ||
+			event.key === ' '
+		) {
 			toggleShowBack();
 		} else if (event.key === 'n' || event.key === 'N') {
 			updateLang(langlang);
@@ -301,8 +311,8 @@
 		{#if isTouch}
 			Swipe left or right to switch cards. Tap to flip. Or use buttons below.
 		{:else}
-			Click the card / press space / enter to flip.<br />
-			Use ← → ↑ ↓ to navigate cards. Press N for new card. Or use buttons below.
+			Click the card / press space / enter / ↑ ↓ to flip.<br />
+			Use ← → to navigate cards. Press N for new card. Or use buttons below.
 		{/if}
 	</p>
 

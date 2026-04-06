@@ -22,7 +22,7 @@
 <Nav />
 
 <section class="border-b border-gray-200 pb-16 dark:border-gray-600">
-	<div class="mx-auto max-w-screen-xl px-4 pt-8 text-center">
+	<div class="mx-auto max-w-7xl px-4 pt-8 text-center">
 		{@render children()}
 	</div>
 </section>

@@ -1,2754 +1,2259 @@
 [
 	{
-		"japanese": "あ",
-		"english": "Ah"
-	},
-	{
-		"japanese": "ああ",
-		"english": "like that"
-	},
-	{
-		"japanese": "あいさつ・する",
-		"english": "to greet"
-	},
-	{
-		"japanese": "間",
-		"english": "a space"
-	},
-	{
-		"japanese": "あう",
-		"english": "to match"
-	},
-	{
-		"japanese": "あかちゃん",
-		"english": "infant"
-	},
-	{
-		"japanese": "上る",
-		"english": "to rise"
-	},
-	{
-		"japanese": "あかんぼう",
-		"english": "baby"
-	},
-	{
-		"japanese": "空く",
-		"english": "to open, to become empty"
-	},
-	{
-		"japanese": "accessory",
-		"english": "あげる"
-	},
-	{
-		"japanese": "to give",
-		"english": "浅い"
-	},
-	{
-		"japanese": "あさい",
-		"english": "shallow,superficial"
-	},
-	{
-		"japanese": "味",
-		"english": "flavour"
-	},
-	{
-		"japanese": "Asia",
-		"english": "明日"
-	},
-	{
-		"japanese": "あす",
-		"english": "tomorrow"
-	},
-	{
-		"japanese": "遊び",
-		"english": "play"
-	},
-	{
-		"japanese": "あつまる",
-		"english": "to gather"
-	},
-	{
-		"japanese": "JLPT Resource",
-		"english": "s – http://www.tanos.co.uk/jlpt/"
-	},
-	{
-		"japanese": "2",
-		"english": "集める"
-	},
-	{
-		"japanese": "あつめる",
-		"english": "to collect something"
-	},
-	{
-		"japanese": "アナウンサー",
-		"english": "announcer"
-	},
-	{
-		"japanese": "アフリカ",
-		"english": "Africa"
-	},
-	{
-		"japanese": "アメリカ",
-		"english": "America"
-	},
-	{
-		"japanese": "謝る",
-		"english": "to apologize"
-	},
-	{
-		"japanese": "alcohol",
-		"english": "アルバイト"
-	},
-	{
-		"japanese": "part-time job",
-		"english": "安心"
-	},
-	{
-		"japanese": "あんしん",
-		"english": "relief"
-	},
-	{
-		"japanese": "安全",
-		"english": "safety"
-	},
-	{
-		"japanese": "such",
-		"english": "案内"
-	},
-	{
-		"japanese": "あんない・する",
-		"english": "to guide"
-	},
-	{
-		"japanese": "以下",
-		"english": "less than"
-	},
-	{
-		"japanese": "いがい",
-		"english": "with the exception of"
-	},
-	{
-		"japanese": "医学",
-		"english": "medical science"
-	},
-	{
-		"japanese": "いきる",
-		"english": "to live"
-	},
-	{
-		"japanese": "意見",
-		"english": "opinion"
-	},
-	{
-		"japanese": "いし",
-		"english": "stone"
-	},
-	{
-		"japanese": "いじめる",
-		"english": "to tease"
-	},
-	{
-		"japanese": "以上",
-		"english": "more than,this is all"
-	},
-	{
-		"japanese": "いそぐ",
-		"english": "to hurry"
-	},
-	{
-		"japanese": "JLPT Resource",
-		"english": "s – http://www.tanos.co.uk/jlpt/"
-	},
-	{
-		"japanese": "3",
-		"english": "致す"
-	},
-	{
-		"japanese": "いたす",
-		"english": "(humble) to do"
-	},
-	{
-		"japanese": "いただく",
-		"english": "(humble) to receive"
-	},
-	{
-		"japanese": "一度",
-		"english": "once"
-	},
-	{
-		"japanese": "いっしょうけんめい",
-		"english": "with utmost effort"
-	},
-	{
-		"japanese": "いっぱい",
-		"english": "full"
-	},
-	{
-		"japanese": "糸",
-		"english": "thread"
-	},
-	{
-		"japanese": "いない",
-		"english": "within"
-	},
-	{
-		"japanese": "田舎",
-		"english": "countryside"
-	},
-	{
-		"japanese": "いのる",
-		"english": "to pray"
-	},
-	{
-		"japanese": "いらっしゃる",
-		"english": "(respectful) to be,to come or to go"
-	},
-	{
-		"japanese": "植える",
-		"english": "to plant,to grow"
-	},
-	{
-		"japanese": "to visit",
-		"english": "受付"
-	},
-	{
-		"japanese": "うけつけ",
-		"english": "receipt"
-	},
-	{
-		"japanese": "受ける",
-		"english": "to take a lesson or test"
-	},
-	{
-		"japanese": "うごく",
-		"english": "to move"
-	},
-	{
-		"japanese": "うそ",
-		"english": "a lie"
-	},
-	{
-		"japanese": "うち",
-		"english": "within"
-	},
-	{
-		"japanese": "打つ",
-		"english": "to hit"
-	},
-	{
-		"japanese": "うつくしい",
-		"english": "beautiful"
-	},
-	{
-		"japanese": "写す",
-		"english": "to copy or photograph"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "4"
-	},
-	{
-		"japanese": "移る",
-		"english": "to move house or transfer"
-	},
-	{
-		"japanese": "うで",
-		"english": "arm"
-	},
-	{
-		"japanese": "うまい",
-		"english": "delicious"
-	},
-	{
-		"japanese": "裏",
-		"english": "reverse side"
-	},
-	{
-		"japanese": "うりば",
-		"english": "place where things are sold"
-	},
-	{
-		"japanese": "うれしい",
-		"english": "glad"
-	},
-	{
-		"japanese": "うん",
-		"english": "(informal) yes"
-	},
-	{
-		"japanese": "運転",
-		"english": "to drive"
-	},
-	{
-		"japanese": "うんてんしゅ",
-		"english": "driver"
-	},
-	{
-		"japanese": "運動",
-		"english": "to exercise"
-	},
-	{
-		"japanese": "escalator",
-		"english": "枝"
-	},
-	{
-		"japanese": "えだ",
-		"english": "branch, twig"
-	},
-	{
-		"japanese": "選ぶ",
-		"english": "to choose"
-	},
-	{
-		"japanese": "えんりょ・する",
-		"english": "to be reserved, to be restrained"
-	},
-	{
-		"japanese": "おいでになる",
-		"english": "(respectful) to be"
-	},
-	{
-		"japanese": "お祝い",
-		"english": "congratulation"
-	},
-	{
-		"japanese": "motorcycle",
-		"english": "おかげ"
-	},
-	{
-		"japanese": "owing to",
-		"english": "おかしい"
-	},
-	{
-		"japanese": "strange or funny",
-		"english": "億"
-	},
-	{
-		"japanese": "おく",
-		"english": "one hundred million"
-	},
-	{
-		"japanese": "JLPT Resource",
-		"english": "s – http://www.tanos.co.uk/jlpt/"
-	},
-	{
-		"japanese": "5",
-		"english": "屋上"
-	},
-	{
-		"japanese": "おくじょう",
-		"english": "rooftop"
-	},
-	{
-		"japanese": "贈り物",
-		"english": "gift"
-	},
-	{
-		"japanese": "おくる",
-		"english": "to send"
-	},
-	{
-		"japanese": "遅れる",
-		"english": "to be late"
-	},
-	{
-		"japanese": "おこす",
-		"english": "to wake"
-	},
-	{
-		"japanese": "行う",
-		"english": "to do"
-	},
-	{
-		"japanese": "おこる",
-		"english": "to get angry,to be angry"
-	},
-	{
-		"japanese": "押し入れ",
-		"english": "closet"
-	},
-	{
-		"japanese": "おじょうさん",
-		"english": "young lady"
-	},
-	{
-		"japanese": "お宅",
-		"english": "(polite) your house"
-	},
-	{
-		"japanese": "おちる",
-		"english": "to fall or drop"
-	},
-	{
-		"japanese": "おっしゃる",
-		"english": "(respectful) to say"
-	},
-	{
-		"japanese": "夫",
-		"english": "husband"
-	},
-	{
-		"japanese": "change from purchase, balance",
-		"english": "音"
-	},
-	{
-		"japanese": "おと",
-		"english": "sound,note"
-	},
-	{
-		"japanese": "落す",
-		"english": "to drop"
-	},
-	{
-		"japanese": "おどり",
-		"english": "a dance"
-	},
-	{
-		"japanese": "踊る",
-		"english": "to dance"
-	},
-	{
-		"japanese": "おどろく",
-		"english": "to be surprised"
-	},
-	{
-		"japanese": "お祭り",
-		"english": "festival"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "6"
-	},
-	{
-		"japanese": "お見舞い",
-		"english": "calling on someone who is ill,enquiry"
-	},
-	{
-		"japanese": "おみやげ",
-		"english": "souvenir"
-	},
-	{
-		"japanese": "思い出す",
-		"english": "to remember"
-	},
-	{
-		"japanese": "おもう",
-		"english": "to think,to feel"
-	},
-	{
-		"japanese": "おもちゃ",
-		"english": "toy"
-	},
-	{
-		"japanese": "表",
-		"english": "the front"
-	},
-	{
-		"japanese": "おや",
-		"english": "parents"
-	},
-	{
-		"japanese": "下りる",
-		"english": "to get off"
-	},
-	{
-		"japanese": "おる",
-		"english": "to break or to fold"
-	},
-	{
-		"japanese": "お礼",
-		"english": "expression of gratitude"
-	},
-	{
-		"japanese": "おれる",
-		"english": "to break or be folded"
-	},
-	{
-		"japanese": "終わり",
-		"english": "the end"
-	},
-	{
-		"japanese": "curtain",
-		"english": "海岸"
-	},
-	{
-		"japanese": "かいがん",
-		"english": "coast"
-	},
-	{
-		"japanese": "会議",
-		"english": "meeting"
-	},
-	{
-		"japanese": "かいぎしつ",
-		"english": "meeting room"
-	},
-	{
-		"japanese": "会場",
-		"english": "assembly hall or meeting place"
-	},
-	{
-		"japanese": "かいわ",
-		"english": "conversation"
-	},
-	{
-		"japanese": "帰り",
-		"english": "return"
-	},
-	{
-		"japanese": "かえる",
-		"english": "to change"
-	},
-	{
-		"japanese": "JLPT Resource",
-		"english": "s – http://www.tanos.co.uk/jlpt/"
-	},
-	{
-		"japanese": "7",
-		"english": "科学"
-	},
-	{
-		"japanese": "かがく",
-		"english": "science"
-	},
-	{
-		"japanese": "鏡",
-		"english": "mirror"
-	},
-	{
-		"japanese": "かける",
-		"english": "to hang something"
-	},
-	{
-		"japanese": "飾る",
-		"english": "to decorate"
-	},
-	{
-		"japanese": "かじ",
-		"english": "fire"
-	},
-	{
-		"japanese": "ガス",
-		"english": "petrol"
-	},
-	{
-		"japanese": "ガソリン",
-		"english": "petrol"
-	},
-	{
-		"japanese": "ガソリンスタンド",
-		"english": "petrol station"
-	},
-	{
-		"japanese": "堅, 硬, 固い",
-		"english": "hard"
-	},
-	{
-		"japanese": "かたち",
-		"english": "shape"
-	},
-	{
-		"japanese": "片付ける",
-		"english": "to tidy up"
-	},
-	{
-		"japanese": "かちょう",
-		"english": "section manager"
-	},
-	{
-		"japanese": "勝つ",
-		"english": "to win"
-	},
-	{
-		"japanese": "appearance",
-		"english": "家内"
-	},
-	{
-		"japanese": "かない",
-		"english": "housewife"
-	},
-	{
-		"japanese": "悲しい",
-		"english": "sad"
-	},
-	{
-		"japanese": "かならず",
-		"english": "certainly,necessarily"
-	},
-	{
-		"japanese": "お・金持ち",
-		"english": "/"
-	},
-	{
-		"japanese": "rich man",
-		"english": "彼女"
-	},
-	{
-		"japanese": "かのじょ",
-		"english": "she,girlfriend"
-	},
-	{
-		"japanese": "壁",
-		"english": "wall"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "8"
-	},
-	{
-		"japanese": "かまう",
-		"english": "to mind"
-	},
-	{
-		"japanese": "髪",
-		"english": "hair"
-	},
-	{
-		"japanese": "かむ",
-		"english": "to bite,to chew"
-	},
-	{
-		"japanese": "通う",
-		"english": "to commute"
-	},
-	{
-		"japanese": "a glass pane",
-		"english": "彼"
-	},
-	{
-		"japanese": "かれ",
-		"english": "he,boyfriend"
-	},
-	{
-		"japanese": "彼ら",
-		"english": "they"
-	},
-	{
-		"japanese": "かわく",
-		"english": "to get dry"
-	},
-	{
-		"japanese": "代わり",
-		"english": "substitute,alternate"
-	},
-	{
-		"japanese": "かわる",
-		"english": "to change"
-	},
-	{
-		"japanese": "考える",
-		"english": "to consider"
-	},
-	{
-		"japanese": "かんけい",
-		"english": "relationship"
-	},
-	{
-		"japanese": "看護婦",
-		"english": "female nurse"
-	},
-	{
-		"japanese": "かんたん",
-		"english": "simple"
-	},
-	{
-		"japanese": "気",
-		"english": "spirit,mood"
-	},
-	{
-		"japanese": "きかい",
-		"english": "opportunity"
-	},
-	{
-		"japanese": "危険",
-		"english": "danger"
-	},
-	{
-		"japanese": "きこえる",
-		"english": "to be heard"
-	},
-	{
-		"japanese": "汽車",
-		"english": "steam train"
-	},
-	{
-		"japanese": "ぎじゅつ",
-		"english": "art,technology,skill"
-	},
-	{
-		"japanese": "JLPT Resource",
-		"english": "s – http://www.tanos.co.uk/jlpt/"
-	},
-	{
-		"japanese": "9",
-		"english": "季節"
-	},
-	{
-		"japanese": "きせつ",
-		"english": "season"
-	},
-	{
-		"japanese": "規則",
-		"english": "regulations"
-	},
-	{
-		"japanese": "surely",
-		"english": "絹"
-	},
-	{
-		"japanese": "きぬ",
-		"english": "silk"
-	},
-	{
-		"japanese": "厳しい",
-		"english": "strict"
-	},
-	{
-		"japanese": "きぶん",
-		"english": "mood"
-	},
-	{
-		"japanese": "決る",
-		"english": "to be decided"
-	},
-	{
-		"japanese": "きみ",
-		"english": "(informal) You (used by men towards"
-	},
-	{
-		"japanese": "women)",
-		"english": "決める"
-	},
-	{
-		"japanese": "きめる",
-		"english": "to decide"
-	},
-	{
-		"japanese": "気持ち",
-		"english": "feeling,mood"
-	},
-	{
-		"japanese": "きもの",
-		"english": "kimono"
-	},
-	{
-		"japanese": "客",
-		"english": "guest,customer"
-	},
-	{
-		"japanese": "きゅう",
-		"english": "urgent, steep"
-	},
-	{
-		"japanese": "急行",
-		"english": "speedy, express"
-	},
-	{
-		"japanese": "きょういく",
-		"english": "education"
-	},
-	{
-		"japanese": "教会",
-		"english": "church"
-	},
-	{
-		"japanese": "きょうそう",
-		"english": "competition"
-	},
-	{
-		"japanese": "興味",
-		"english": "an interest"
-	},
-	{
-		"japanese": "きんじょ",
-		"english": "neighbourhood"
-	},
-	{
-		"japanese": "具合",
-		"english": "condition,health"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "10"
-	},
-	{
-		"japanese": "空気",
-		"english": "air,atmosphere"
-	},
-	{
-		"japanese": "くうこう",
-		"english": "airport"
-	},
-	{
-		"japanese": "草",
-		"english": "grass"
-	},
-	{
-		"japanese": "(respectful) to give",
-		"english": "首"
-	},
-	{
-		"japanese": "くび",
-		"english": "neck"
-	},
-	{
-		"japanese": "雲",
-		"english": "cloud"
-	},
-	{
-		"japanese": "くらべる",
-		"english": "to compare"
-	},
-	{
-		"japanese": "くれる",
-		"english": "to give"
-	},
-	{
-		"japanese": "暮れる",
-		"english": "to get dark,to come to an end"
-	},
-	{
-		"japanese": "くん",
-		"english": "suffix for familiar young male"
-	},
-	{
-		"japanese": "毛",
-		"english": "hair or fur"
-	},
-	{
-		"japanese": "けいかく・する",
-		"english": "to plan"
-	},
-	{
-		"japanese": "経験",
-		"english": "to experience"
-	},
-	{
-		"japanese": "けいざい",
-		"english": "finance,economy"
-	},
-	{
-		"japanese": "警察",
-		"english": "police"
-	},
-	{
-		"japanese": "cake",
-		"english": "けが・する"
-	},
-	{
-		"japanese": "to injure",
-		"english": "景色"
-	},
-	{
-		"japanese": "けしき",
-		"english": "scene,landscape"
-	},
-	{
-		"japanese": "消しゴム",
-		"english": "eraser"
-	},
-	{
-		"japanese": "げしゅく",
-		"english": "lodging"
-	},
-	{
-		"japanese": "JLPT Resource",
-		"english": "s – http://www.tanos.co.uk/jlpt/"
-	},
-	{
-		"japanese": "11",
-		"english": "決して"
-	},
-	{
-		"japanese": "けっして",
-		"english": "never"
-	},
-	{
-		"japanese": "けれど",
-		"english": "/"
-	},
-	{
-		"japanese": "けれども",
-		"english": "however"
-	},
-	{
-		"japanese": "原因",
-		"english": "cause,source"
-	},
-	{
-		"japanese": "to quarrel",
-		"english": "研究"
-	},
-	{
-		"japanese": "けんきゅう",
-		"english": "research"
-	},
-	{
-		"japanese": "研究室",
-		"english": "study room,laboratory"
-	},
-	{
-		"japanese": "けんぶつ",
-		"english": "sightseeing"
-	},
-	{
-		"japanese": "子",
-		"english": "child"
-	},
-	{
-		"japanese": "this way",
-		"english": "郊外"
-	},
-	{
-		"japanese": "こうがい",
-		"english": "outskirts"
-	},
-	{
-		"japanese": "講義",
-		"english": "lecture"
-	},
-	{
-		"japanese": "こうぎょう",
-		"english": "the manufacturing industry"
-	},
-	{
-		"japanese": "高校",
-		"english": "high school"
-	},
-	{
-		"japanese": "こうこうせい",
-		"english": "high school student"
-	},
-	{
-		"japanese": "工場",
-		"english": "factory"
-	},
-	{
-		"japanese": "こうちょう",
-		"english": "headmaster"
-	},
-	{
-		"japanese": "交通",
-		"english": "traffic,transportation"
-	},
-	{
-		"japanese": "こうどう",
-		"english": "auditorium"
-	},
-	{
-		"japanese": "高等学校",
-		"english": "high school"
-	},
-	{
-		"japanese": "こうむいん",
-		"english": "government worker"
-	},
-	{
-		"japanese": "JLPT Resource",
-		"english": "s – http://www.tanos.co.uk/jlpt/"
-	},
-	{
-		"japanese": "12",
-		"english": "国際"
-	},
-	{
-		"japanese": "こくさい",
-		"english": "international"
-	},
-	{
-		"japanese": "心",
-		"english": "core,heart"
-	},
-	{
-		"japanese": "ごしゅじん",
-		"english": "(honorable) your husband"
-	},
-	{
-		"japanese": "故障",
-		"english": "to break-down"
-	},
-	{
-		"japanese": "ごぞんじ",
-		"english": "knowing,acquaintance"
-	},
-	{
-		"japanese": "答",
-		"english": "response"
-	},
-	{
-		"japanese": "a feast",
-		"english": "こと"
-	},
-	{
-		"japanese": "thing,matter",
-		"english": "小鳥"
-	},
-	{
-		"japanese": "ことり",
-		"english": "small bird"
-	},
-	{
-		"japanese": "このあいだ",
-		"english": "the other day,recently"
-	},
-	{
-		"japanese": "このごろ",
-		"english": "these days,nowadays"
-	},
-	{
-		"japanese": "細かい",
-		"english": "small, fine"
-	},
-	{
-		"japanese": "rubbish",
-		"english": "込む"
-	},
-	{
-		"japanese": "こむ",
-		"english": "to be crowded"
-	},
-	{
-		"japanese": "米",
-		"english": "uncooked rice"
-	},
-	{
-		"japanese": "(respectful) to see",
-		"english": "これから"
-	},
-	{
-		"japanese": "after this",
-		"english": "怖い"
-	},
-	{
-		"japanese": "こわい",
-		"english": "frightening"
-	},
-	{
-		"japanese": "壊す",
-		"english": "to break"
-	},
-	{
-		"japanese": "こわれる",
-		"english": "to be broken"
-	},
-	{
-		"japanese": "JLPT Resource",
-		"english": "s – http://www.tanos.co.uk/jlpt/"
-	},
-	{
-		"japanese": "13",
-		"english": "コンサート"
-	},
-	{
-		"japanese": "concert",
-		"english": "今度"
-	},
-	{
-		"japanese": "こんど",
-		"english": "now,next time"
-	},
-	{
-		"japanese": "コンピュータ",
-		"english": "/"
-	},
-	{
-		"japanese": "コンピューター",
-		"english": "computer"
-	},
-	{
-		"japanese": "今夜",
-		"english": "tonight"
-	},
-	{
-		"japanese": "さいきん",
-		"english": "latest,nowadays"
-	},
-	{
-		"japanese": "最後",
-		"english": "last,end"
-	},
-	{
-		"japanese": "さいしょ",
-		"english": "beginning,first"
-	},
-	{
-		"japanese": "坂",
-		"english": "slope,hill"
-	},
-	{
-		"japanese": "さがす",
-		"english": "to look for"
-	},
-	{
-		"japanese": "下る",
-		"english": "to get down,to descend"
-	},
-	{
-		"japanese": "さかん",
-		"english": "popularity,prosperous"
-	},
-	{
-		"japanese": "下げる",
-		"english": "to hang,to lower,to move back"
-	},
-	{
-		"japanese": "さしあげる",
-		"english": "(polite) to give"
-	},
-	{
-		"japanese": "さっき",
-		"english": "some time ago"
-	},
-	{
-		"japanese": "寂しい",
-		"english": "lonely"
-	},
-	{
-		"japanese": "さらいげつ",
-		"english": "the month after next"
-	},
-	{
-		"japanese": "さ来週",
-		"english": "the week after next"
-	},
-	{
-		"japanese": "salad",
-		"english": "騒ぐ"
-	},
-	{
-		"japanese": "さわぐ",
-		"english": "to make noise,to be excited"
-	},
-	{
-		"japanese": "触る",
-		"english": "to touch"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "14"
-	},
-	{
-		"japanese": "産業",
-		"english": "industry"
-	},
-	{
-		"japanese": "sandal",
-		"english": "サンドイッチ"
-	},
-	{
-		"japanese": "sandwich",
-		"english": "残念"
-	},
-	{
-		"japanese": "ざんねん",
-		"english": "disappointment"
-	},
-	{
-		"japanese": "市",
-		"english": "city"
-	},
-	{
-		"japanese": "じ",
-		"english": "character"
-	},
-	{
-		"japanese": "試合",
-		"english": "match,game"
-	},
-	{
-		"japanese": "しかた",
-		"english": "method"
-	},
-	{
-		"japanese": "しかる",
-		"english": "a particular"
-	},
-	{
-		"japanese": "試験",
-		"english": "examination"
-	},
-	{
-		"japanese": "じこ",
-		"english": "accident"
-	},
-	{
-		"japanese": "地震",
-		"english": "earthquake"
-	},
-	{
-		"japanese": "じだい",
-		"english": "era"
-	},
-	{
-		"japanese": "下着",
-		"english": "underwear"
-	},
-	{
-		"japanese": "したく・する",
-		"english": "to prepare"
-	},
-	{
-		"japanese": "しっかり",
-		"english": "firmly,steadily"
-	},
-	{
-		"japanese": "失敗",
-		"english": "failure,mistake"
-	},
-	{
-		"japanese": "じてん",
-		"english": "dictionary"
-	},
-	{
-		"japanese": "品物",
-		"english": "goods"
-	},
-	{
-		"japanese": "little while",
-		"english": "JLPT Resource"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "15"
-	},
-	{
-		"japanese": "島",
-		"english": "island"
-	},
-	{
-		"japanese": "しみん",
-		"english": "citizen"
-	},
-	{
-		"japanese": "事務所",
-		"english": "office"
-	},
-	{
-		"japanese": "しゃかい",
-		"english": "society,public"
-	},
-	{
-		"japanese": "社長",
-		"english": "company president"
-	},
-	{
-		"japanese": "hindrance,intrusion",
-		"english": "ジャム"
-	},
-	{
-		"japanese": "jam",
-		"english": "自由"
-	},
-	{
-		"japanese": "じゆう",
-		"english": "freedom"
-	},
-	{
-		"japanese": "習慣",
-		"english": "custom,manners"
-	},
-	{
-		"japanese": "じゅうしょ",
-		"english": "an address,a residence"
-	},
-	{
-		"japanese": "柔道",
-		"english": "judo"
-	},
-	{
-		"japanese": "じゅうぶん",
-		"english": "enough"
-	},
-	{
-		"japanese": "出席",
-		"english": "to attend"
-	},
-	{
-		"japanese": "しゅっぱつ・する",
-		"english": "to depart"
-	},
-	{
-		"japanese": "趣味",
-		"english": "hobby"
-	},
-	{
-		"japanese": "じゅんび・する",
-		"english": "to prepare"
-	},
-	{
-		"japanese": "紹介",
-		"english": "introduction"
-	},
-	{
-		"japanese": "しょうがっこう",
-		"english": "elementary school"
-	},
-	{
-		"japanese": "小説",
-		"english": "novel"
-	},
-	{
-		"japanese": "しょうたい・する",
-		"english": "to invite"
-	},
-	{
-		"japanese": "JLPT Resource",
-		"english": "s – http://www.tanos.co.uk/jlpt/"
-	},
-	{
-		"japanese": "16",
-		"english": "承知"
-	},
-	{
-		"japanese": "しょうち・する",
-		"english": "to consent"
-	},
-	{
-		"japanese": "将来",
-		"english": "future,prospects"
-	},
-	{
-		"japanese": "しょくじ・する",
-		"english": "to have a meal"
-	},
-	{
-		"japanese": "食料品",
-		"english": "groceries"
-	},
-	{
-		"japanese": "じょせい",
-		"english": "woman"
-	},
-	{
-		"japanese": "知らせる",
-		"english": "to notify"
-	},
-	{
-		"japanese": "しらべる",
-		"english": "to investigate"
-	},
-	{
-		"japanese": "人口",
-		"english": "population"
-	},
-	{
-		"japanese": "じんじゃ",
-		"english": "Shinto shrine"
-	},
-	{
-		"japanese": "親切",
-		"english": "kindness"
-	},
-	{
-		"japanese": "しんぱい・する",
-		"english": "to worry"
-	},
-	{
-		"japanese": "新聞社",
-		"english": "newspaper company"
-	},
-	{
-		"japanese": "すいえい",
-		"english": "swimming"
-	},
-	{
-		"japanese": "水道",
-		"english": "water supply"
-	},
-	{
-		"japanese": "extremely",
-		"english": "数学"
-	},
-	{
-		"japanese": "すうがく",
-		"english": "mathematics,arithmetic"
-	},
-	{
-		"japanese": "スーツ",
-		"english": "suit"
-	},
-	{
-		"japanese": "スーツケース",
-		"english": "suitcase"
-	},
-	{
-		"japanese": "過ぎる",
-		"english": "to exceed"
-	},
-	{
-		"japanese": "to become empty",
-		"english": "JLPT Resource"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "17"
-	},
-	{
-		"japanese": "スクリーン",
-		"english": "screen"
-	},
-	{
-		"japanese": "凄い",
-		"english": "terrific"
-	},
-	{
-		"japanese": "すすむ",
-		"english": "to make progress"
-	},
-	{
-		"japanese": "すっかり",
-		"english": "completely"
-	},
-	{
-		"japanese": "すっと",
-		"english": "straight,all of a sudden"
-	},
-	{
-		"japanese": "ステーキ",
-		"english": "steak"
-	},
-	{
-		"japanese": "捨てる",
-		"english": "to throw away"
-	},
-	{
-		"japanese": "stereo",
-		"english": "砂"
-	},
-	{
-		"japanese": "すな",
-		"english": "sand"
-	},
-	{
-		"japanese": "すばらしい",
-		"english": "wonderful"
-	},
-	{
-		"japanese": "滑る",
-		"english": "to slide,to slip"
-	},
-	{
-		"japanese": "すみ",
-		"english": "corner,nook"
-	},
-	{
-		"japanese": "済む",
-		"english": "to finish"
-	},
-	{
-		"japanese": "pickpocket",
-		"english": "すると"
-	},
-	{
-		"japanese": "then",
-		"english": "生活"
-	},
-	{
-		"japanese": "せいかつ・する",
-		"english": "to live"
-	},
-	{
-		"japanese": "生産",
-		"english": "to produce"
-	},
-	{
-		"japanese": "せいじ",
-		"english": "politics,government"
-	},
-	{
-		"japanese": "西洋",
-		"english": "western countries"
-	},
-	{
-		"japanese": "せかい",
-		"english": "the world"
-	},
-	{
-		"japanese": "JLPT Resource",
-		"english": "s – http://www.tanos.co.uk/jlpt/"
-	},
-	{
-		"japanese": "18",
-		"english": "席"
-	},
-	{
-		"japanese": "せき",
-		"english": "seat"
-	},
-	{
-		"japanese": "説明",
-		"english": "explanation"
-	},
-	{
-		"japanese": "せなか",
-		"english": "back of the body"
-	},
-	{
-		"japanese": "ぜひ",
-		"english": "without fail"
-	},
-	{
-		"japanese": "世話",
-		"english": "to look after"
-	},
-	{
-		"japanese": "せん",
-		"english": "line"
-	},
-	{
-		"japanese": "ぜんぜん",
-		"english": "not entirely (used in a negative sentence)"
-	},
-	{
-		"japanese": "戦争",
-		"english": "war"
-	},
-	{
-		"japanese": "せんぱい",
-		"english": "senior"
-	},
-	{
-		"japanese": "そう",
-		"english": "really"
-	},
-	{
-		"japanese": "相談",
-		"english": "to discuss"
-	},
-	{
-		"japanese": "そだてる",
-		"english": "to rear,to bring up"
-	},
-	{
-		"japanese": "卒業",
-		"english": "graduation"
-	},
-	{
-		"japanese": "そふ",
-		"english": "grandfather"
-	},
-	{
-		"japanese": "ソフト",
-		"english": "soft"
-	},
-	{
-		"japanese": "祖母",
-		"english": "grandmother"
-	},
-	{
-		"japanese": "because of that",
-		"english": "それに"
-	},
-	{
-		"japanese": "moreover",
-		"english": "それほど"
-	},
-	{
-		"japanese": "to that extent",
-		"english": "そろそろ"
-	},
-	{
-		"japanese": "gradually,soon",
-		"english": "JLPT Resource"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "19"
-	},
-	{
-		"japanese": "そんな",
-		"english": "that sort of"
-	},
-	{
-		"japanese": "そんなに",
-		"english": "so much,like that"
-	},
-	{
-		"japanese": "退院",
-		"english": "to leave hospital"
-	},
-	{
-		"japanese": "だいがくせい",
-		"english": "university student"
-	},
-	{
-		"japanese": "大事",
-		"english": "important,valuable,serious matter"
-	},
-	{
-		"japanese": "だいたい",
-		"english": "generally"
-	},
-	{
-		"japanese": "たいてい",
-		"english": "usually"
-	},
-	{
-		"japanese": "タイプ",
-		"english": "type,style"
-	},
-	{
-		"japanese": "大分",
-		"english": "greatly"
-	},
-	{
-		"japanese": "たいふう",
-		"english": "typhoon"
-	},
-	{
-		"japanese": "倒れる",
-		"english": "to break down"
-	},
-	{
-		"japanese": "so,therefore",
-		"english": "確か"
-	},
-	{
-		"japanese": "たしか",
-		"english": "definite"
-	},
-	{
-		"japanese": "足す",
-		"english": "to add a number"
-	},
-	{
-		"japanese": "たずねる",
-		"english": "to visit"
-	},
-	{
-		"japanese": "尋ねる",
-		"english": "to ask"
-	},
-	{
-		"japanese": "ただしい",
-		"english": "correct"
-	},
-	{
-		"japanese": "畳",
-		"english": "Japanese straw mat"
-	},
-	{
-		"japanese": "たてる",
-		"english": "to stand something up"
-	},
-	{
-		"japanese": "建てる",
-		"english": "to build"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "20"
-	},
-	{
-		"japanese": "例えば",
-		"english": "for example"
-	},
-	{
-		"japanese": "たな",
-		"english": "shelves"
-	},
-	{
-		"japanese": "楽しみ",
-		"english": "joy"
-	},
-	{
-		"japanese": "たのしむ",
-		"english": "to enjoy oneself"
-	},
-	{
-		"japanese": "たまに",
-		"english": "occasionally"
-	},
-	{
-		"japanese": "為",
-		"english": "in order to"
-	},
-	{
-		"japanese": "no good",
-		"english": "足りる"
-	},
-	{
-		"japanese": "たりる",
-		"english": "to be enough"
-	},
-	{
-		"japanese": "男性",
-		"english": "male"
-	},
-	{
-		"japanese": "だんぼう",
-		"english": "heating"
-	},
-	{
-		"japanese": "血",
-		"english": "blood"
-	},
-	{
-		"japanese": "to check",
-		"english": "力"
-	},
-	{
-		"japanese": "ちから",
-		"english": "strength,power"
-	},
-	{
-		"japanese": "ちっとも",
-		"english": "not at all (used with a negative verb)"
-	},
-	{
-		"japanese": "ちゃん",
-		"english": "suffix for familiar female person"
-	},
-	{
-		"japanese": "注意",
-		"english": "caution"
-	},
-	{
-		"japanese": "ちゅうがっこう",
-		"english": "junior high school,middle school"
-	},
-	{
-		"japanese": "注射",
-		"english": "injection"
-	},
-	{
-		"japanese": "ちゅうしゃじょう",
-		"english": "parking lot"
-	},
-	{
-		"japanese": "地理",
-		"english": "geography"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "21"
-	},
-	{
-		"japanese": "捕まえる",
-		"english": "to seize"
-	},
-	{
-		"japanese": "moon",
-		"english": "付く"
-	},
-	{
-		"japanese": "つく",
-		"english": "to be attached"
-	},
-	{
-		"japanese": "漬ける",
-		"english": "to soak,to pickle"
-	},
-	{
-		"japanese": "つごう",
-		"english": "circumstances,convenience"
-	},
-	{
-		"japanese": "伝える",
-		"english": "to report"
-	},
-	{
-		"japanese": "つづく",
-		"english": "to be continued"
-	},
-	{
-		"japanese": "続ける",
-		"english": "to continue"
-	},
-	{
-		"japanese": "つつむ",
-		"english": "to wrap"
-	},
-	{
-		"japanese": "妻",
-		"english": "(humble) wife"
-	},
-	{
-		"japanese": "intention",
-		"english": "釣る"
-	},
-	{
-		"japanese": "つる",
-		"english": "to fish"
-	},
-	{
-		"japanese": "連れる",
-		"english": "to lead"
-	},
-	{
-		"japanese": "ていねい",
-		"english": "polite"
-	},
-	{
-		"japanese": "テキスト",
-		"english": "text,text book"
-	},
-	{
-		"japanese": "適当",
-		"english": "suitability"
-	},
-	{
-		"japanese": "as much as possible",
-		"english": "手伝う"
-	},
-	{
-		"japanese": "てつだう",
-		"english": "to assist"
-	},
-	{
-		"japanese": "テニス",
-		"english": "tennis"
-	},
-	{
-		"japanese": "手袋",
-		"english": "glove"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "22"
-	},
-	{
-		"japanese": "寺",
-		"english": "temple"
-	},
-	{
-		"japanese": "てん",
-		"english": "point,dot"
-	},
-	{
-		"japanese": "店員",
-		"english": "shop assistant"
-	},
-	{
-		"japanese": "てんきよほう",
-		"english": "weather forecast"
-	},
-	{
-		"japanese": "電灯",
-		"english": "electric light"
-	},
-	{
-		"japanese": "でんぽう",
-		"english": "telegram"
-	},
-	{
-		"japanese": "展覧会",
-		"english": "exhibition"
-	},
-	{
-		"japanese": "と",
-		"english": "metropolitan"
-	},
-	{
-		"japanese": "道具",
-		"english": "tool,means"
-	},
-	{
-		"japanese": "finally, after all",
-		"english": "動物園"
-	},
-	{
-		"japanese": "どうぶつえん",
-		"english": "zoo"
-	},
-	{
-		"japanese": "遠く",
-		"english": "distant"
-	},
-	{
-		"japanese": "とおる",
-		"english": "to go through"
-	},
-	{
-		"japanese": "特に",
-		"english": "particularly,especially"
-	},
-	{
-		"japanese": "とくべつ",
-		"english": "special"
-	},
-	{
-		"japanese": "とこや",
-		"english": "barber"
-	},
-	{
-		"japanese": "途中",
-		"english": "on the way"
-	},
-	{
-		"japanese": "とっきゅう",
-		"english": "limited express train (faster than an"
-	},
-	{
-		"japanese": "express train)",
-		"english": "届ける"
-	},
-	{
-		"japanese": "とどける",
-		"english": "to reach"
-	},
-	{
-		"japanese": "泊まる",
-		"english": "to lodge at"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "23"
-	},
-	{
-		"japanese": "止める",
-		"english": "to stop something"
-	},
-	{
-		"japanese": "とりかえる",
-		"english": "to exchange"
-	},
-	{
-		"japanese": "泥棒",
-		"english": "thief"
-	},
-	{
-		"japanese": "more and more",
-		"english": "直す"
-	},
-	{
-		"japanese": "なおす",
-		"english": "to fix,to repair"
-	},
-	{
-		"japanese": "直る",
-		"english": "to be fixed,to be repaired"
-	},
-	{
-		"japanese": "なおる",
-		"english": "to be cured,to heal"
-	},
-	{
-		"japanese": "中々",
-		"english": "considerably"
-	},
-	{
-		"japanese": "なく",
-		"english": "to weep"
-	},
-	{
-		"japanese": "無くなる",
-		"english": "to disappear,to get lost"
-	},
-	{
-		"japanese": "なくなる",
-		"english": "to die"
-	},
-	{
-		"japanese": "投げる",
-		"english": "to throw or cast away"
-	},
-	{
-		"japanese": "(respectful) to do",
-		"english": "鳴る"
-	},
-	{
-		"japanese": "なる",
-		"english": "to sound"
-	},
-	{
-		"japanese": "なるべく",
-		"english": "as much as possible"
-	},
-	{
-		"japanese": "なるほど",
-		"english": "now I understand"
-	},
-	{
-		"japanese": "慣れる",
-		"english": "to grow accustomed to"
-	},
-	{
-		"japanese": "a smell",
-		"english": "苦い"
-	},
-	{
-		"japanese": "にがい",
-		"english": "bitter"
-	},
-	{
-		"japanese": "二階建て",
-		"english": "two storied"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "24"
-	},
-	{
-		"japanese": "逃げる",
-		"english": "to escape"
-	},
-	{
-		"japanese": "にっ",
-		"english": "き"
-	},
-	{
-		"japanese": "journal",
-		"english": "入院"
-	},
-	{
-		"japanese": "にゅういん・する",
-		"english": "to hospitalise"
-	},
-	{
-		"japanese": "入学",
-		"english": "to enter school or university"
-	},
-	{
-		"japanese": "にる",
-		"english": "to be similar"
-	},
-	{
-		"japanese": "人形",
-		"english": "doll, figure"
-	},
-	{
-		"japanese": "ぬすむ",
-		"english": "to steal"
-	},
-	{
-		"japanese": "塗る",
-		"english": "to paint,to plaster"
-	},
-	{
-		"japanese": "to get wet",
-		"english": "ねだん"
-	},
-	{
-		"japanese": "price",
-		"english": "熱"
-	},
-	{
-		"japanese": "ねつ",
-		"english": "fever"
-	},
-	{
-		"japanese": "ねっしん",
-		"english": "enthusiasm"
-	},
-	{
-		"japanese": "寝坊",
-		"english": "sleeping in late"
-	},
-	{
-		"japanese": "ねむい",
-		"english": "sleepy"
-	},
-	{
-		"japanese": "眠る",
-		"english": "to sleep"
-	},
-	{
-		"japanese": "のこる",
-		"english": "to remain"
-	},
-	{
-		"japanese": "のど",
-		"english": "throat"
-	},
-	{
-		"japanese": "乗り換える",
-		"english": "to change between buses or trains"
-	},
-	{
-		"japanese": "のりもの",
-		"english": "vehicle"
-	},
-	{
-		"japanese": "葉",
-		"english": "leaf"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "25"
-	},
-	{
-		"japanese": "場合",
-		"english": "situation"
-	},
-	{
-		"japanese": "part time",
-		"english": "倍"
-	},
-	{
-		"japanese": "ばい",
-		"english": "double"
-	},
-	{
-		"japanese": "拝見",
-		"english": "(humble) to look at"
-	},
-	{
-		"japanese": "はいしゃ",
-		"english": "dentist"
-	},
-	{
-		"japanese": "運ぶ",
-		"english": "to transport"
-	},
-	{
-		"japanese": "はじめる",
-		"english": "to begin"
-	},
-	{
-		"japanese": "場所",
-		"english": "location"
-	},
-	{
-		"japanese": "it should be so",
-		"english": "恥ずかしい"
-	},
-	{
-		"japanese": "はずかしい",
-		"english": "embarrassed"
-	},
-	{
-		"japanese": "パソコン",
-		"english": "personal computer"
-	},
-	{
-		"japanese": "発音",
-		"english": "pronunciation"
-	},
-	{
-		"japanese": "clearly",
-		"english": "花見"
-	},
-	{
-		"japanese": "はなみ",
-		"english": "cherry-blossom viewing"
-	},
-	{
-		"japanese": "林",
-		"english": "woods,forester"
-	},
-	{
-		"japanese": "はらう",
-		"english": "to pay"
-	},
-	{
-		"japanese": "番組",
-		"english": "television or radio program"
-	},
-	{
-		"japanese": "はんたい",
-		"english": "opposition"
-	},
-	{
-		"japanese": "ハンドバッグ",
-		"english": "handbag"
-	},
-	{
-		"japanese": "日",
-		"english": "day, sun"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "26"
-	},
-	{
-		"japanese": "火",
-		"english": "fire"
-	},
-	{
-		"japanese": "piano",
-		"english": "冷える"
-	},
-	{
-		"japanese": "ひえる",
-		"english": "to grow cold"
-	},
-	{
-		"japanese": "光",
-		"english": "light"
-	},
-	{
-		"japanese": "ひかる",
-		"english": "to shine,to glitter"
-	},
-	{
-		"japanese": "引き出し",
-		"english": "drawer,drawing out"
-	},
-	{
-		"japanese": "ひきだす",
-		"english": "to withdraw"
-	},
-	{
-		"japanese": "ひげ",
-		"english": "beard"
-	},
-	{
-		"japanese": "飛行場",
-		"english": "airport"
-	},
-	{
-		"japanese": "ひさしぶり",
-		"english": "after a long time"
-	},
-	{
-		"japanese": "美術館",
-		"english": "art gallery"
-	},
-	{
-		"japanese": "ひじょうに",
-		"english": "extremely"
-	},
-	{
-		"japanese": "びっくり・する",
-		"english": "to be surprised"
-	},
-	{
-		"japanese": "引っ越す",
-		"english": "to move house"
-	},
-	{
-		"japanese": "ひつよう",
-		"english": "necessary"
-	},
-	{
-		"japanese": "ひどい",
-		"english": "awful"
-	},
-	{
-		"japanese": "開く",
-		"english": "to open an event"
-	},
-	{
-		"japanese": "building or bill",
-		"english": "昼間"
-	},
-	{
-		"japanese": "ひるま",
-		"english": "daytime,during the day"
-	},
-	{
-		"japanese": "昼休み",
-		"english": "noon break"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "27"
-	},
-	{
-		"japanese": "拾う",
-		"english": "to pick up,to gather"
-	},
-	{
-		"japanese": "fax",
-		"english": "増え"
-	},
-	{
-		"japanese": "る",
-		"english": "ふえる"
-	},
-	{
-		"japanese": "to increase",
-		"english": "深い"
-	},
-	{
-		"japanese": "ふかい",
-		"english": "deep"
-	},
-	{
-		"japanese": "複雑",
-		"english": "complexity,complication"
-	},
-	{
-		"japanese": "ふくしゅう",
-		"english": "revision"
-	},
-	{
-		"japanese": "部長",
-		"english": "head of a section"
-	},
-	{
-		"japanese": "ふつう",
-		"english": "usually, or a train that stops at every"
-	},
-	{
-		"japanese": "station",
-		"english": "ぶどう"
-	},
-	{
-		"japanese": "grapes",
-		"english": "太る"
-	},
-	{
-		"japanese": "ふとる",
-		"english": "to become fat"
-	},
-	{
-		"japanese": "布団",
-		"english": "Japanese bedding, futon"
-	},
-	{
-		"japanese": "ふね",
-		"english": "ship"
-	},
-	{
-		"japanese": "不便",
-		"english": "inconvenience"
-	},
-	{
-		"japanese": "ふむ",
-		"english": "to step on"
-	},
-	{
-		"japanese": "降り出す",
-		"english": "to start to rain"
-	},
-	{
-		"japanese": "present",
-		"english": "文化"
-	},
-	{
-		"japanese": "ぶんか",
-		"english": "culture"
-	},
-	{
-		"japanese": "文学",
-		"english": "literature"
-	},
-	{
-		"japanese": "ぶんぽう",
-		"english": "grammar"
-	},
-	{
-		"japanese": "別",
-		"english": "different"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "28"
-	},
-	{
-		"japanese": "ベル",
-		"english": "bell"
-	},
-	{
-		"japanese": "変",
-		"english": "strange"
-	},
-	{
-		"japanese": "へんじ",
-		"english": "reply"
-	},
-	{
-		"japanese": "貿易",
-		"english": "trade"
-	},
-	{
-		"japanese": "ほうそう・する",
-		"english": "to broadcast"
-	},
-	{
-		"japanese": "法律",
-		"english": "law"
-	},
-	{
-		"japanese": "ぼく",
-		"english": "I (used by males)"
-	},
-	{
-		"japanese": "星",
-		"english": "star"
-	},
-	{
-		"japanese": "extent",
-		"english": "ほとんど"
-	},
-	{
-		"japanese": "mostly",
-		"english": "ほめる"
-	},
-	{
-		"japanese": "to praise",
-		"english": "翻訳"
-	},
-	{
-		"japanese": "ほんやく",
-		"english": "translation"
-	},
-	{
-		"japanese": "参る",
-		"english": "(humble) to go,to come"
-	},
-	{
-		"japanese": "まける",
-		"english": "to lose"
-	},
-	{
-		"japanese": "まじめ",
-		"english": "serious"
-	},
-	{
-		"japanese": "まず",
-		"english": "first of all"
-	},
-	{
-		"japanese": "または",
-		"english": "or,otherwise"
-	},
-	{
-		"japanese": "間違える",
-		"english": "to make a mistake"
-	},
-	{
-		"japanese": "まにあう",
-		"english": "to be in time for"
-	},
-	{
-		"japanese": "周り",
-		"english": "surroundings"
-	},
-	{
-		"japanese": "s – http://www.tanos.co.uk/jlpt/",
-		"english": "29"
-	},
-	{
-		"japanese": "回る",
-		"english": "to go around"
-	},
-	{
-		"japanese": "まんが",
-		"english": "comic"
-	},
-	{
-		"japanese": "真中",
-		"english": "middle"
-	},
-	{
-		"japanese": "みえる",
-		"english": "to be in sight"
-	},
-	{
-		"japanese": "湖",
-		"english": "lake"
-	},
-	{
-		"japanese": "みそ",
-		"english": "bean paste"
-	},
-	{
-		"japanese": "見つかる",
-		"english": "to be discovered"
-	},
-	{
-		"japanese": "みつける",
-		"english": "to discover"
-	},
-	{
-		"japanese": "皆",
-		"english": "everybody"
-	},
-	{
-		"japanese": "みなと",
-		"english": "harbour"
-	},
-	{
-		"japanese": "向かう",
-		"english": "to face"
-	},
-	{
-		"japanese": "むかえる",
-		"english": "to go out to meet"
-	},
-	{
-		"japanese": "昔",
-		"english": "olden days, former"
-	},
-	{
-		"japanese": "むし",
-		"english": "insect"
-	},
-	{
-		"japanese": "息子",
-		"english": "(humble) son"
-	},
-	{
-		"japanese": "むすめ",
-		"english": "(humble) daughter"
-	},
-	{
-		"japanese": "無理",
-		"english": "impossible"
-	},
-	{
-		"japanese": "めしあがる",
-		"english": "(polite) to eat"
-	},
-	{
-		"japanese": "珍しい",
-		"english": "rare"
-	},
-	{
-		"japanese": "もうしあげる",
-		"english": "(humble) to say,to tell"
-	},
-	{
-		"japanese": "JLPT Resource",
-		"english": "s – http://www.tanos.co.uk/jlpt/"
-	},
-	{
-		"japanese": "30",
-		"english": "申す"
-	},
-	{
-		"japanese": "もうす",
-		"english": "(humble) to be called,to say"
-	},
-	{
-		"japanese": "もうすぐ",
-		"english": "soon"
-	},
-	{
-		"japanese": "もし",
-		"english": "if"
-	},
-	{
-		"japanese": "もちろん",
-		"english": "of course"
-	},
-	{
-		"japanese": "もっとも",
-		"english": "extremely"
-	},
-	{
-		"japanese": "戻る",
-		"english": "to turn back"
-	},
-	{
-		"japanese": "もめん",
-		"english": "cotton"
-	},
-	{
-		"japanese": "もらう",
-		"english": "to receive"
-	},
-	{
-		"japanese": "森",
-		"english": "forest"
-	},
-	{
-		"japanese": "やく",
-		"english": "to bake,to grill"
-	},
-	{
-		"japanese": "約束",
-		"english": "promise"
-	},
-	{
-		"japanese": "やくにたつ",
-		"english": "to be helpful"
-	},
-	{
-		"japanese": "焼ける",
-		"english": "to burn,to be roasted"
-	},
-	{
-		"japanese": "やさしい",
-		"english": "kind"
-	},
-	{
-		"japanese": "痩せる",
-		"english": "to become thin"
-	},
-	{
-		"japanese": "at last",
-		"english": "やはり"
-	},
-	{
-		"japanese": "/",
-		"english": "やっぱり"
-	},
-	{
-		"japanese": "as I thought,absolutely",
-		"english": "止む"
-	},
-	{
-		"japanese": "やむ",
-		"english": "to stop"
-	},
-	{
-		"japanese": "止める",
-		"english": "to stop"
-	},
-	{
-		"japanese": "やわらかい",
-		"english": "soft"
-	},
-	{
-		"japanese": "JLPT Resource",
-		"english": "s – http://www.tanos.co.uk/jlpt/"
-	},
-	{
-		"japanese": "31",
-		"english": "湯"
-	},
-	{
-		"japanese": "ゆ",
-		"english": "hot water"
-	},
-	{
-		"japanese": "輸出",
-		"english": "to export"
-	},
-	{
-		"japanese": "ゆにゅう・する",
-		"english": "to import"
-	},
-	{
-		"japanese": "指",
-		"english": "finger"
-	},
-	{
-		"japanese": "ゆびわ",
-		"english": "finger ring"
-	},
-	{
-		"japanese": "夢",
-		"english": "dream"
-	},
-	{
-		"japanese": "ゆれる",
-		"english": "to shake,to sway"
-	},
-	{
-		"japanese": "用",
-		"english": "use"
-	},
-	{
-		"japanese": "ようい",
-		"english": "preparation"
-	},
-	{
-		"japanese": "用事",
-		"english": "things to do"
-	},
-	{
-		"japanese": "よごれる",
-		"english": "to get dirty"
-	},
-	{
-		"japanese": "予習",
-		"english": "preparation for a lesson"
-	},
-	{
-		"japanese": "よてい",
-		"english": "arrangement"
-	},
-	{
-		"japanese": "予約",
-		"english": "reservation"
-	},
-	{
-		"japanese": "よる",
-		"english": "to visit"
-	},
-	{
-		"japanese": "喜ぶ",
-		"english": "to be delighted"
-	},
-	{
-		"japanese": "(respectful) OK,all right",
-		"english": "理由"
-	},
-	{
-		"japanese": "りゆう",
-		"english": "reason"
-	},
-	{
-		"japanese": "利用",
-		"english": "utilization"
-	},
-	{
-		"japanese": "りょうほう",
-		"english": "both sides"
-	},
-	{
-		"japanese": "JLPT Resource",
-		"english": "s – http://www.tanos.co.uk/jlpt/"
-	},
-	{
-		"japanese": "32",
-		"english": "旅館"
-	},
-	{
-		"japanese": "りょかん",
-		"english": "Japanese hotel"
-	},
-	{
-		"japanese": "留守",
-		"english": "absence"
-	},
-	{
-		"japanese": "れいぼう",
-		"english": "air conditioning"
-	},
-	{
-		"japanese": "歴史",
-		"english": "history"
-	},
-	{
-		"japanese": "register",
-		"english": "レポート"
-	},
-	{
-		"japanese": "/",
-		"english": "リポート"
-	},
-	{
-		"japanese": "report",
-		"english": "連絡"
-	},
-	{
-		"japanese": "れんらく",
-		"english": "contact"
-	},
-	{
-		"japanese": "ワープロ",
-		"english": "word processor"
-	},
-	{
-		"japanese": "沸かす",
-		"english": "to boil,to heat"
-	},
-	{
-		"japanese": "わかれる",
-		"english": "to separate"
-	},
-	{
-		"japanese": "沸く",
-		"english": "to boil, to grow hot,to get excited"
-	},
-	{
-		"japanese": "わけ",
-		"english": "meaning,reason"
-	},
-	{
-		"japanese": "忘れ物",
-		"english": "lost article"
-	},
-	{
-		"japanese": "わらう",
-		"english": "to laugh,to smile"
-	},
-	{
-		"japanese": "割合",
-		"english": "あい"
-	},
-	{
-		"japanese": "割れる",
-		"english": "to break"
-	},
-	{
-		"japanese": "およぎかた",
-		"english": "way of swimming"
+		"kanji": "安心",
+		"hiragana": "あんしん",
+		"romaji": "anshin",
+		"english": "relief, peace of mind",
+		"example": "試験が終わって安心しました。",
+		"example_english": "I felt relieved when the exam was over.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "noun"
+	},
+	{
+		"kanji": "悲しい",
+		"hiragana": "かなしい",
+		"romaji": "kanashii",
+		"english": "sad",
+		"example": "友達が引っ越して悲しいです。",
+		"example_english": "I'm sad that my friend moved away.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "嬉しい",
+		"hiragana": "うれしい",
+		"romaji": "ureshii",
+		"english": "happy, glad",
+		"example": "プレゼントをもらって嬉しかったです。",
+		"example_english": "I was happy to receive a present.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "怖い",
+		"hiragana": "こわい",
+		"romaji": "kowai",
+		"english": "scary, frightening",
+		"example": "暗い道は怖いです。",
+		"example_english": "Dark roads are scary.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "恥ずかしい",
+		"hiragana": "はずかしい",
+		"romaji": "hazukashii",
+		"english": "embarrassed, shy",
+		"example": "人前で話すのは恥ずかしいです。",
+		"example_english": "Speaking in front of people is embarrassing.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "寂しい",
+		"hiragana": "さびしい",
+		"romaji": "sabishii",
+		"english": "lonely",
+		"example": "一人でいると寂しいです。",
+		"example_english": "I feel lonely when I'm alone.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "心配",
+		"hiragana": "しんぱい",
+		"romaji": "shinpai",
+		"english": "worry, anxiety",
+		"example": "試験のことが心配です。",
+		"example_english": "I'm worried about the exam.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "驚く",
+		"hiragana": "おどろく",
+		"romaji": "odoroku",
+		"english": "to be surprised",
+		"example": "突然のニュースに驚きました。",
+		"example_english": "I was surprised by the sudden news.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "怒る",
+		"hiragana": "おこる",
+		"romaji": "okoru",
+		"english": "to get angry",
+		"example": "遅刻して先生に怒られました。",
+		"example_english": "I was scolded by the teacher for being late.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "喜ぶ",
+		"hiragana": "よろこぶ",
+		"romaji": "yorokobu",
+		"english": "to be delighted, to rejoice",
+		"example": "合格して両親がとても喜びました。",
+		"example_english": "My parents were very delighted when I passed.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "残念",
+		"hiragana": "ざんねん",
+		"romaji": "zannen",
+		"english": "regrettable, disappointing",
+		"example": "試合に負けて残念です。",
+		"example_english": "It's disappointing that we lost the match.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "退屈",
+		"hiragana": "たいくつ",
+		"romaji": "taikutsu",
+		"english": "boredom, boring",
+		"example": "雨の日は退屈です。",
+		"example_english": "Rainy days are boring.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "夢",
+		"hiragana": "ゆめ",
+		"romaji": "yume",
+		"english": "dream",
+		"example": "医者になることが夢です。",
+		"example_english": "My dream is to become a doctor.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "noun"
+	},
+	{
+		"kanji": "気持ち",
+		"hiragana": "きもち",
+		"romaji": "kimochi",
+		"english": "feeling, mood",
+		"example": "今日は気持ちがいいです。",
+		"example_english": "I feel good today.",
+		"level": "N4",
+		"category": "feelings",
+		"part": "noun"
+	},
+
+	{
+		"kanji": "経験",
+		"hiragana": "けいけん",
+		"romaji": "keiken",
+		"english": "experience",
+		"example": "海外に住んだ経験があります。",
+		"example_english": "I have experience living abroad.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "研究",
+		"hiragana": "けんきゅう",
+		"romaji": "kenkyuu",
+		"english": "research, study",
+		"example": "大学で環境の研究をしています。",
+		"example_english": "I am doing environmental research at university.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "会議",
+		"hiragana": "かいぎ",
+		"romaji": "kaigi",
+		"english": "meeting, conference",
+		"example": "午後三時に会議があります。",
+		"example_english": "There is a meeting at three in the afternoon.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "説明",
+		"hiragana": "せつめい",
+		"romaji": "setsumei",
+		"english": "explanation",
+		"example": "先生が文法を説明しました。",
+		"example_english": "The teacher explained the grammar.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "紹介",
+		"hiragana": "しょうかい",
+		"romaji": "shoukai",
+		"english": "introduction",
+		"example": "友達を紹介してください。",
+		"example_english": "Please introduce your friend.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "連絡",
+		"hiragana": "れんらく",
+		"romaji": "renraku",
+		"english": "contact, communication",
+		"example": "後で連絡します。",
+		"example_english": "I will contact you later.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "予約",
+		"hiragana": "よやく",
+		"romaji": "yoyaku",
+		"english": "reservation, booking",
+		"example": "レストランを予約しました。",
+		"example_english": "I made a reservation at the restaurant.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "出席",
+		"hiragana": "しゅっせき",
+		"romaji": "shusseki",
+		"english": "attendance, to attend",
+		"example": "授業に出席してください。",
+		"example_english": "Please attend the class.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "卒業",
+		"hiragana": "そつぎょう",
+		"romaji": "sotsugyou",
+		"english": "graduation",
+		"example": "来年大学を卒業します。",
+		"example_english": "I will graduate from university next year.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "合格",
+		"hiragana": "ごうかく",
+		"romaji": "goukaku",
+		"english": "passing (an exam)",
+		"example": "試験に合格しました。",
+		"example_english": "I passed the exam.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "失敗",
+		"hiragana": "しっぱい",
+		"romaji": "shippai",
+		"english": "failure, mistake",
+		"example": "失敗しても諦めないでください。",
+		"example_english": "Please don't give up even if you fail.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "成功",
+		"hiragana": "せいこう",
+		"romaji": "seikou",
+		"english": "success",
+		"example": "プロジェクトが成功しました。",
+		"example_english": "The project was a success.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "練習",
+		"hiragana": "れんしゅう",
+		"romaji": "renshuu",
+		"english": "practice",
+		"example": "毎日ピアノを練習しています。",
+		"example_english": "I practice piano every day.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "準備",
+		"hiragana": "じゅんび",
+		"romaji": "junbi",
+		"english": "preparation",
+		"example": "旅行の準備をしています。",
+		"example_english": "I am preparing for the trip.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "注意",
+		"hiragana": "ちゅうい",
+		"romaji": "chuui",
+		"english": "caution, attention",
+		"example": "車に注意してください。",
+		"example_english": "Please be careful of cars.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "発音",
+		"hiragana": "はつおん",
+		"romaji": "hatsuon",
+		"english": "pronunciation",
+		"example": "日本語の発音を練習しています。",
+		"example_english": "I am practising Japanese pronunciation.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "翻訳",
+		"hiragana": "ほんやく",
+		"romaji": "honyaku",
+		"english": "translation",
+		"example": "この文を英語に翻訳してください。",
+		"example_english": "Please translate this sentence into English.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+	{
+		"kanji": "文法",
+		"hiragana": "ぶんぽう",
+		"romaji": "bunpou",
+		"english": "grammar",
+		"example": "日本語の文法は難しいです。",
+		"example_english": "Japanese grammar is difficult.",
+		"level": "N4",
+		"category": "work-school",
+		"part": "noun"
+	},
+
+	{
+		"kanji": "社会",
+		"hiragana": "しゃかい",
+		"romaji": "shakai",
+		"english": "society",
+		"example": "社会のルールを守ることが大切です。",
+		"example_english": "It is important to follow the rules of society.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+	{
+		"kanji": "政治",
+		"hiragana": "せいじ",
+		"romaji": "seiji",
+		"english": "politics",
+		"example": "若者も政治に興味を持つべきです。",
+		"example_english": "Young people should also take an interest in politics.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+	{
+		"kanji": "経済",
+		"hiragana": "けいざい",
+		"romaji": "keizai",
+		"english": "economy",
+		"example": "日本の経済は大きいです。",
+		"example_english": "Japan's economy is large.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+	{
+		"kanji": "文化",
+		"hiragana": "ぶんか",
+		"romaji": "bunka",
+		"english": "culture",
+		"example": "日本の文化をもっと学びたいです。",
+		"example_english": "I want to learn more about Japanese culture.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+	{
+		"kanji": "習慣",
+		"hiragana": "しゅうかん",
+		"romaji": "shuukan",
+		"english": "custom, habit",
+		"example": "毎朝散歩する習慣があります。",
+		"example_english": "I have a habit of walking every morning.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+	{
+		"kanji": "人口",
+		"hiragana": "じんこう",
+		"romaji": "jinkou",
+		"english": "population",
+		"example": "東京の人口はとても多いです。",
+		"example_english": "Tokyo's population is very large.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+	{
+		"kanji": "国際",
+		"hiragana": "こくさい",
+		"romaji": "kokusai",
+		"english": "international",
+		"example": "国際交流のイベントに参加しました。",
+		"example_english": "I participated in an international exchange event.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+	{
+		"kanji": "戦争",
+		"hiragana": "せんそう",
+		"romaji": "sensou",
+		"english": "war",
+		"example": "戦争はあってはならないことです。",
+		"example_english": "War should never happen.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+	{
+		"kanji": "平和",
+		"hiragana": "へいわ",
+		"romaji": "heiwa",
+		"english": "peace",
+		"example": "世界の平和を願っています。",
+		"example_english": "I wish for world peace.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+	{
+		"kanji": "法律",
+		"hiragana": "ほうりつ",
+		"romaji": "houritsu",
+		"english": "law",
+		"example": "法律を守ることは大切です。",
+		"example_english": "It is important to obey the law.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+	{
+		"kanji": "警察",
+		"hiragana": "けいさつ",
+		"romaji": "keisatsu",
+		"english": "police",
+		"example": "困ったときは警察に電話してください。",
+		"example_english": "Please call the police when you are in trouble.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+	{
+		"kanji": "事故",
+		"hiragana": "じこ",
+		"romaji": "jiko",
+		"english": "accident",
+		"example": "昨日交通事故がありました。",
+		"example_english": "There was a traffic accident yesterday.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+	{
+		"kanji": "地震",
+		"hiragana": "じしん",
+		"romaji": "jishin",
+		"english": "earthquake",
+		"example": "日本では地震が多いです。",
+		"example_english": "There are many earthquakes in Japan.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+	{
+		"kanji": "環境",
+		"hiragana": "かんきょう",
+		"romaji": "kankyou",
+		"english": "environment",
+		"example": "環境を守るために努力しましょう。",
+		"example_english": "Let's make an effort to protect the environment.",
+		"level": "N4",
+		"category": "society",
+		"part": "noun"
+	},
+
+	{
+		"kanji": "体",
+		"hiragana": "からだ",
+		"romaji": "karada",
+		"english": "body, health",
+		"example": "体に気をつけてください。",
+		"example_english": "Please take care of your health.",
+		"level": "N4",
+		"category": "health",
+		"part": "noun"
+	},
+	{
+		"kanji": "病気",
+		"hiragana": "びょうき",
+		"romaji": "byouki",
+		"english": "illness, disease",
+		"example": "風邪をひいて病気になりました。",
+		"example_english": "I caught a cold and got sick.",
+		"level": "N4",
+		"category": "health",
+		"part": "noun"
+	},
+	{
+		"kanji": "病院",
+		"hiragana": "びょういん",
+		"romaji": "byouin",
+		"english": "hospital",
+		"example": "体の具合が悪いので病院に行きます。",
+		"example_english": "I feel unwell so I will go to the hospital.",
+		"level": "N4",
+		"category": "health",
+		"part": "noun"
+	},
+	{
+		"kanji": "薬",
+		"hiragana": "くすり",
+		"romaji": "kusuri",
+		"english": "medicine",
+		"example": "食後に薬を飲んでください。",
+		"example_english": "Please take the medicine after meals.",
+		"level": "N4",
+		"category": "health",
+		"part": "noun"
+	},
+	{
+		"kanji": "医者",
+		"hiragana": "いしゃ",
+		"romaji": "isha",
+		"english": "doctor",
+		"example": "医者に診てもらいました。",
+		"example_english": "I had the doctor examine me.",
+		"level": "N4",
+		"category": "health",
+		"part": "noun"
+	},
+	{
+		"kanji": "熱",
+		"hiragana": "ねつ",
+		"romaji": "netsu",
+		"english": "fever, temperature",
+		"example": "昨日から熱があります。",
+		"example_english": "I have had a fever since yesterday.",
+		"level": "N4",
+		"category": "health",
+		"part": "noun"
+	},
+	{
+		"kanji": "痛い",
+		"hiragana": "いたい",
+		"romaji": "itai",
+		"english": "painful, hurt",
+		"example": "お腹が痛いです。",
+		"example_english": "My stomach hurts.",
+		"level": "N4",
+		"category": "health",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "入院",
+		"hiragana": "にゅういん",
+		"romaji": "nyuuin",
+		"english": "hospitalisation",
+		"example": "一週間入院しました。",
+		"example_english": "I was hospitalised for one week.",
+		"level": "N4",
+		"category": "health",
+		"part": "noun"
+	},
+	{
+		"kanji": "退院",
+		"hiragana": "たいいん",
+		"romaji": "taiin",
+		"english": "leaving hospital",
+		"example": "来週退院できます。",
+		"example_english": "I can leave hospital next week.",
+		"level": "N4",
+		"category": "health",
+		"part": "noun"
+	},
+	{
+		"kanji": "運動",
+		"hiragana": "うんどう",
+		"romaji": "undou",
+		"english": "exercise, sport",
+		"example": "健康のために毎日運動しています。",
+		"example_english": "I exercise every day for my health.",
+		"level": "N4",
+		"category": "health",
+		"part": "noun"
+	},
+	{
+		"kanji": "休む",
+		"hiragana": "やすむ",
+		"romaji": "yasumu",
+		"english": "to rest, to take a day off",
+		"example": "疲れているので今日は休みます。",
+		"example_english": "I'm tired so I'll rest today.",
+		"level": "N4",
+		"category": "health",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "太る",
+		"hiragana": "ふとる",
+		"romaji": "futoru",
+		"english": "to gain weight",
+		"example": "最近少し太りました。",
+		"example_english": "I've gained a little weight recently.",
+		"level": "N4",
+		"category": "health",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "痩せる",
+		"hiragana": "やせる",
+		"romaji": "yaseru",
+		"english": "to lose weight, to become thin",
+		"example": "ダイエットで五キロ痩せました。",
+		"example_english": "I lost five kilograms through dieting.",
+		"level": "N4",
+		"category": "health",
+		"part": "verb-ru"
+	},
+
+	{
+		"kanji": "自然",
+		"hiragana": "しぜん",
+		"romaji": "shizen",
+		"english": "nature",
+		"example": "週末に自然の中を歩きました。",
+		"example_english": "I walked in nature over the weekend.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "山",
+		"hiragana": "やま",
+		"romaji": "yama",
+		"english": "mountain",
+		"example": "夏に山に登りました。",
+		"example_english": "I climbed a mountain in summer.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "川",
+		"hiragana": "かわ",
+		"romaji": "kawa",
+		"english": "river",
+		"example": "川のそばで釣りをします。",
+		"example_english": "I fish near the river.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "海",
+		"hiragana": "うみ",
+		"romaji": "umi",
+		"english": "sea, ocean",
+		"example": "夏休みに海へ行きます。",
+		"example_english": "I go to the sea during summer vacation.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "森",
+		"hiragana": "もり",
+		"romaji": "mori",
+		"english": "forest",
+		"example": "森の中を散歩しました。",
+		"example_english": "I took a walk in the forest.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "空",
+		"hiragana": "そら",
+		"romaji": "sora",
+		"english": "sky",
+		"example": "今日の空は青いです。",
+		"example_english": "Today's sky is blue.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "星",
+		"hiragana": "ほし",
+		"romaji": "hoshi",
+		"english": "star",
+		"example": "夜空に星がたくさん見えます。",
+		"example_english": "You can see many stars in the night sky.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "雲",
+		"hiragana": "くも",
+		"romaji": "kumo",
+		"english": "cloud",
+		"example": "空に大きな雲があります。",
+		"example_english": "There are big clouds in the sky.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "風",
+		"hiragana": "かぜ",
+		"romaji": "kaze",
+		"english": "wind",
+		"example": "今日は強い風が吹いています。",
+		"example_english": "A strong wind is blowing today.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "雪",
+		"hiragana": "ゆき",
+		"romaji": "yuki",
+		"english": "snow",
+		"example": "冬に雪が降ります。",
+		"example_english": "Snow falls in winter.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "雨",
+		"hiragana": "あめ",
+		"romaji": "ame",
+		"english": "rain",
+		"example": "昨日は雨が降りました。",
+		"example_english": "It rained yesterday.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "季節",
+		"hiragana": "きせつ",
+		"romaji": "kisetsu",
+		"english": "season",
+		"example": "一番好きな季節は秋です。",
+		"example_english": "My favourite season is autumn.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "春",
+		"hiragana": "はる",
+		"romaji": "haru",
+		"english": "spring",
+		"example": "春になると桜が咲きます。",
+		"example_english": "When spring comes, the cherry blossoms bloom.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "夏",
+		"hiragana": "なつ",
+		"romaji": "natsu",
+		"english": "summer",
+		"example": "夏は暑くて海に行きたいです。",
+		"example_english": "Summer is hot and I want to go to the sea.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "秋",
+		"hiragana": "あき",
+		"romaji": "aki",
+		"english": "autumn",
+		"example": "秋は紅葉がきれいです。",
+		"example_english": "The autumn leaves are beautiful in autumn.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "冬",
+		"hiragana": "ふゆ",
+		"romaji": "fuyu",
+		"english": "winter",
+		"example": "冬は雪が降ることがあります。",
+		"example_english": "It sometimes snows in winter.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "気温",
+		"hiragana": "きおん",
+		"romaji": "kion",
+		"english": "air temperature",
+		"example": "今日の気温は二十度です。",
+		"example_english": "Today's temperature is twenty degrees.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+	{
+		"kanji": "台風",
+		"hiragana": "たいふう",
+		"romaji": "taifuu",
+		"english": "typhoon",
+		"example": "台風が来ているので外に出ないでください。",
+		"example_english": "Please don't go outside because a typhoon is coming.",
+		"level": "N4",
+		"category": "nature",
+		"part": "noun"
+	},
+
+	{
+		"kanji": "乗り物",
+		"hiragana": "のりもの",
+		"romaji": "norimono",
+		"english": "vehicle, means of transport",
+		"example": "日本には色々な乗り物があります。",
+		"example_english": "There are various vehicles in Japan.",
+		"level": "N4",
+		"category": "transportation",
+		"part": "noun"
+	},
+	{
+		"kanji": "新幹線",
+		"hiragana": "しんかんせん",
+		"romaji": "shinkansen",
+		"english": "bullet train",
+		"example": "新幹線で東京から大阪まで行きます。",
+		"example_english": "I go from Tokyo to Osaka by bullet train.",
+		"level": "N4",
+		"category": "transportation",
+		"part": "noun"
+	},
+	{
+		"kanji": "地下鉄",
+		"hiragana": "ちかてつ",
+		"romaji": "chikatetsu",
+		"english": "subway, underground",
+		"example": "地下鉄で会社に行きます。",
+		"example_english": "I go to work by subway.",
+		"level": "N4",
+		"category": "transportation",
+		"part": "noun"
+	},
+	{
+		"kanji": "乗り換え",
+		"hiragana": "のりかえ",
+		"romaji": "norikae",
+		"english": "transfer, changing trains",
+		"example": "次の駅で乗り換えてください。",
+		"example_english": "Please transfer at the next station.",
+		"level": "N4",
+		"category": "transportation",
+		"part": "noun"
+	},
+	{
+		"kanji": "出発",
+		"hiragana": "しゅっぱつ",
+		"romaji": "shuppatsu",
+		"english": "departure",
+		"example": "電車は九時に出発します。",
+		"example_english": "The train departs at nine o'clock.",
+		"level": "N4",
+		"category": "transportation",
+		"part": "noun"
+	},
+	{
+		"kanji": "到着",
+		"hiragana": "とうちゃく",
+		"romaji": "touchaku",
+		"english": "arrival",
+		"example": "飛行機は午後三時に到着します。",
+		"example_english": "The plane arrives at three in the afternoon.",
+		"level": "N4",
+		"category": "transportation",
+		"part": "noun"
+	},
+	{
+		"kanji": "運転",
+		"hiragana": "うんてん",
+		"romaji": "unten",
+		"english": "driving, operation",
+		"example": "父は毎日車を運転します。",
+		"example_english": "My father drives a car every day.",
+		"level": "N4",
+		"category": "transportation",
+		"part": "noun"
+	},
+	{
+		"kanji": "道",
+		"hiragana": "みち",
+		"romaji": "michi",
+		"english": "road, path, way",
+		"example": "この道をまっすぐ行ってください。",
+		"example_english": "Please go straight along this road.",
+		"level": "N4",
+		"category": "transportation",
+		"part": "noun"
+	},
+	{
+		"kanji": "橋",
+		"hiragana": "はし",
+		"romaji": "hashi",
+		"english": "bridge",
+		"example": "川に橋がかかっています。",
+		"example_english": "There is a bridge over the river.",
+		"level": "N4",
+		"category": "transportation",
+		"part": "noun"
+	},
+	{
+		"kanji": "交通",
+		"hiragana": "こうつう",
+		"romaji": "koutsuu",
+		"english": "traffic, transportation",
+		"example": "朝の交通渋滞がひどいです。",
+		"example_english": "The morning traffic jam is terrible.",
+		"level": "N4",
+		"category": "transportation",
+		"part": "noun"
+	},
+
+	{
+		"kanji": "旅行",
+		"hiragana": "りょこう",
+		"romaji": "ryokou",
+		"english": "travel, trip",
+		"example": "来月ヨーロッパに旅行に行きます。",
+		"example_english": "I am going on a trip to Europe next month.",
+		"level": "N4",
+		"category": "leisure",
+		"part": "noun"
+	},
+	{
+		"kanji": "趣味",
+		"hiragana": "しゅみ",
+		"romaji": "shumi",
+		"english": "hobby",
+		"example": "趣味は写真を撮ることです。",
+		"example_english": "My hobby is taking photographs.",
+		"level": "N4",
+		"category": "leisure",
+		"part": "noun"
+	},
+	{
+		"kanji": "映画",
+		"hiragana": "えいが",
+		"romaji": "eiga",
+		"english": "film, movie",
+		"example": "週末に映画を見に行きます。",
+		"example_english": "I go to see a film on weekends.",
+		"level": "N4",
+		"category": "leisure",
+		"part": "noun"
+	},
+	{
+		"kanji": "音楽",
+		"hiragana": "おんがく",
+		"romaji": "ongaku",
+		"english": "music",
+		"example": "通学中に音楽を聞きます。",
+		"example_english": "I listen to music on my way to school.",
+		"level": "N4",
+		"category": "leisure",
+		"part": "noun"
+	},
+	{
+		"kanji": "歌",
+		"hiragana": "うた",
+		"romaji": "uta",
+		"english": "song",
+		"example": "好きな歌をカラオケで歌いました。",
+		"example_english": "I sang my favourite song at karaoke.",
+		"level": "N4",
+		"category": "leisure",
+		"part": "noun"
+	},
+	{
+		"kanji": "絵",
+		"hiragana": "え",
+		"romaji": "e",
+		"english": "picture, painting, drawing",
+		"example": "子供の頃から絵を描くのが好きです。",
+		"example_english": "I have liked drawing pictures since childhood.",
+		"level": "N4",
+		"category": "leisure",
+		"part": "noun"
+	},
+	{
+		"kanji": "写真",
+		"hiragana": "しゃしん",
+		"romaji": "shashin",
+		"english": "photograph",
+		"example": "旅行先で写真をたくさん撮りました。",
+		"example_english": "I took many photographs at my travel destination.",
+		"level": "N4",
+		"category": "leisure",
+		"part": "noun"
+	},
+	{
+		"kanji": "スポーツ",
+		"hiragana": "すぽーつ",
+		"romaji": "supootsu",
+		"english": "sport",
+		"example": "週末にスポーツをして体を動かします。",
+		"example_english": "I play sport on weekends to move my body.",
+		"level": "N4",
+		"category": "leisure",
+		"part": "noun"
+	},
+	{
+		"kanji": "試合",
+		"hiragana": "しあい",
+		"romaji": "shiai",
+		"english": "match, game",
+		"example": "明日サッカーの試合があります。",
+		"example_english": "There is a football match tomorrow.",
+		"level": "N4",
+		"category": "leisure",
+		"part": "noun"
+	},
+	{
+		"kanji": "祭り",
+		"hiragana": "まつり",
+		"romaji": "matsuri",
+		"english": "festival",
+		"example": "夏祭りに行って花火を見ました。",
+		"example_english": "I went to the summer festival and watched fireworks.",
+		"level": "N4",
+		"category": "leisure",
+		"part": "noun"
+	},
+	{
+		"kanji": "花火",
+		"hiragana": "はなび",
+		"romaji": "hanabi",
+		"english": "fireworks",
+		"example": "夏の夜に花火を見るのが好きです。",
+		"example_english": "I like watching fireworks on summer nights.",
+		"level": "N4",
+		"category": "leisure",
+		"part": "noun"
+	},
+	{
+		"kanji": "温泉",
+		"hiragana": "おんせん",
+		"romaji": "onsen",
+		"english": "hot spring",
+		"example": "旅行で温泉に入りました。",
+		"example_english": "I bathed in a hot spring on my trip.",
+		"level": "N4",
+		"category": "leisure",
+		"part": "noun"
+	},
+
+	{
+		"kanji": "町",
+		"hiragana": "まち",
+		"romaji": "machi",
+		"english": "town, city",
+		"example": "この町は静かで住みやすいです。",
+		"example_english": "This town is quiet and easy to live in.",
+		"level": "N4",
+		"category": "places",
+		"part": "noun"
+	},
+	{
+		"kanji": "近所",
+		"hiragana": "きんじょ",
+		"romaji": "kinjo",
+		"english": "neighbourhood",
+		"example": "近所の人たちはみんな親切です。",
+		"example_english": "Everyone in the neighbourhood is kind.",
+		"level": "N4",
+		"category": "places",
+		"part": "noun"
+	},
+	{
+		"kanji": "郊外",
+		"hiragana": "こうがい",
+		"romaji": "kougai",
+		"english": "suburbs, outskirts",
+		"example": "郊外に引っ越しました。",
+		"example_english": "I moved to the suburbs.",
+		"level": "N4",
+		"category": "places",
+		"part": "noun"
+	},
+	{
+		"kanji": "神社",
+		"hiragana": "じんじゃ",
+		"romaji": "jinja",
+		"english": "Shinto shrine",
+		"example": "お正月に神社へ行きました。",
+		"example_english": "I went to a Shinto shrine at New Year.",
+		"level": "N4",
+		"category": "places",
+		"part": "noun"
+	},
+	{
+		"kanji": "寺",
+		"hiragana": "てら",
+		"romaji": "tera",
+		"english": "Buddhist temple",
+		"example": "京都には古いお寺がたくさんあります。",
+		"example_english": "There are many old temples in Kyoto.",
+		"level": "N4",
+		"category": "places",
+		"part": "noun"
+	},
+	{
+		"kanji": "美術館",
+		"hiragana": "びじゅつかん",
+		"romaji": "bijutsukan",
+		"english": "art museum, art gallery",
+		"example": "美術館で有名な絵を見ました。",
+		"example_english": "I saw a famous painting at the art museum.",
+		"level": "N4",
+		"category": "places",
+		"part": "noun"
+	},
+	{
+		"kanji": "図書館",
+		"hiragana": "としょかん",
+		"romaji": "toshokan",
+		"english": "library",
+		"example": "図書館で本を借りました。",
+		"example_english": "I borrowed a book from the library.",
+		"level": "N4",
+		"category": "places",
+		"part": "noun"
+	},
+	{
+		"kanji": "郵便局",
+		"hiragana": "ゆうびんきょく",
+		"romaji": "yuubinkyoku",
+		"english": "post office",
+		"example": "郵便局で荷物を送りました。",
+		"example_english": "I sent a parcel at the post office.",
+		"level": "N4",
+		"category": "places",
+		"part": "noun"
+	},
+	{
+		"kanji": "銀行",
+		"hiragana": "ぎんこう",
+		"romaji": "ginkou",
+		"english": "bank",
+		"example": "銀行でお金を引き出しました。",
+		"example_english": "I withdrew money at the bank.",
+		"level": "N4",
+		"category": "places",
+		"part": "noun"
+	},
+	{
+		"kanji": "市場",
+		"hiragana": "いちば",
+		"romaji": "ichiba",
+		"english": "market",
+		"example": "朝早く市場に行って野菜を買いました。",
+		"example_english": "I went to the market early in the morning and bought vegetables.",
+		"level": "N4",
+		"category": "places",
+		"part": "noun"
+	},
+	{
+		"kanji": "工場",
+		"hiragana": "こうじょう",
+		"romaji": "koujou",
+		"english": "factory",
+		"example": "父は工場で働いています。",
+		"example_english": "My father works at a factory.",
+		"level": "N4",
+		"category": "places",
+		"part": "noun"
+	},
+	{
+		"kanji": "港",
+		"hiragana": "みなと",
+		"romaji": "minato",
+		"english": "harbour, port",
+		"example": "港から船が出ています。",
+		"example_english": "Ships depart from the harbour.",
+		"level": "N4",
+		"category": "places",
+		"part": "noun"
+	},
+	{
+		"kanji": "島",
+		"hiragana": "しま",
+		"romaji": "shima",
+		"english": "island",
+		"example": "沖縄は美しい島です。",
+		"example_english": "Okinawa is a beautiful island.",
+		"level": "N4",
+		"category": "places",
+		"part": "noun"
+	},
+
+	{
+		"kanji": "集める",
+		"hiragana": "あつめる",
+		"romaji": "atsumeru",
+		"english": "to collect, to gather",
+		"example": "切手を集めるのが好きです。",
+		"example_english": "I like collecting stamps.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-ru"
+	},
+	{
+		"kanji": "集まる",
+		"hiragana": "あつまる",
+		"romaji": "atsumaru",
+		"english": "to gather, to assemble",
+		"example": "友達が公園に集まりました。",
+		"example_english": "Friends gathered in the park.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "謝る",
+		"hiragana": "あやまる",
+		"romaji": "ayamaru",
+		"english": "to apologise",
+		"example": "間違えたので謝りました。",
+		"example_english": "I apologised because I made a mistake.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "送る",
+		"hiragana": "おくる",
+		"romaji": "okuru",
+		"english": "to send, to see off",
+		"example": "友達にメールを送りました。",
+		"example_english": "I sent an email to a friend.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "落とす",
+		"hiragana": "おとす",
+		"romaji": "otosu",
+		"english": "to drop",
+		"example": "財布を落としてしまいました。",
+		"example_english": "I accidentally dropped my wallet.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "考える",
+		"hiragana": "かんがえる",
+		"romaji": "kangaeru",
+		"english": "to think, to consider",
+		"example": "将来のことを考えています。",
+		"example_english": "I am thinking about the future.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-ru"
+	},
+	{
+		"kanji": "決める",
+		"hiragana": "きめる",
+		"romaji": "kimeru",
+		"english": "to decide",
+		"example": "どのレストランに行くか決めましょう。",
+		"example_english": "Let's decide which restaurant to go to.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-ru"
+	},
+	{
+		"kanji": "比べる",
+		"hiragana": "くらべる",
+		"romaji": "kuraberu",
+		"english": "to compare",
+		"example": "二つの商品を比べました。",
+		"example_english": "I compared two products.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-ru"
+	},
+	{
+		"kanji": "続ける",
+		"hiragana": "つづける",
+		"romaji": "tsuzukeru",
+		"english": "to continue",
+		"example": "毎日の勉強を続けています。",
+		"example_english": "I am continuing to study every day.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-ru"
+	},
+	{
+		"kanji": "伝える",
+		"hiragana": "つたえる",
+		"romaji": "tsutaeru",
+		"english": "to convey, to tell, to pass on",
+		"example": "大切なことを家族に伝えました。",
+		"example_english": "I conveyed something important to my family.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-ru"
+	},
+	{
+		"kanji": "直す",
+		"hiragana": "なおす",
+		"romaji": "naosu",
+		"english": "to fix, to correct",
+		"example": "間違いを直してください。",
+		"example_english": "Please correct the mistakes.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "慣れる",
+		"hiragana": "なれる",
+		"romaji": "nareru",
+		"english": "to get used to",
+		"example": "新しい仕事にやっと慣れました。",
+		"example_english": "I finally got used to the new job.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-ru"
+	},
+	{
+		"kanji": "逃げる",
+		"hiragana": "にげる",
+		"romaji": "nigeru",
+		"english": "to run away, to escape",
+		"example": "危険な場所から逃げました。",
+		"example_english": "I escaped from a dangerous place.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-ru"
+	},
+	{
+		"kanji": "払う",
+		"hiragana": "はらう",
+		"romaji": "harau",
+		"english": "to pay",
+		"example": "レジでお金を払いました。",
+		"example_english": "I paid at the cash register.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "踊る",
+		"hiragana": "おどる",
+		"romaji": "odoru",
+		"english": "to dance",
+		"example": "パーティーで踊りました。",
+		"example_english": "I danced at the party.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "引っ越す",
+		"hiragana": "ひっこす",
+		"romaji": "hikkosu",
+		"english": "to move house",
+		"example": "来月新しいアパートに引っ越します。",
+		"example_english": "I will move to a new apartment next month.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "捨てる",
+		"hiragana": "すてる",
+		"romaji": "suteru",
+		"english": "to throw away, to discard",
+		"example": "古い服を捨てました。",
+		"example_english": "I threw away old clothes.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-ru"
+	},
+	{
+		"kanji": "選ぶ",
+		"hiragana": "えらぶ",
+		"romaji": "erabu",
+		"english": "to choose, to select",
+		"example": "メニューから好きな料理を選んでください。",
+		"example_english": "Please choose your favourite dish from the menu.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "招待する",
+		"hiragana": "しょうたいする",
+		"romaji": "shoutai suru",
+		"english": "to invite",
+		"example": "誕生日パーティーに友達を招待しました。",
+		"example_english": "I invited friends to my birthday party.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-irregular"
+	},
+	{
+		"kanji": "調べる",
+		"hiragana": "しらべる",
+		"romaji": "shiraberu",
+		"english": "to investigate, to look up",
+		"example": "インターネットで調べました。",
+		"example_english": "I looked it up on the internet.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-ru"
+	},
+	{
+		"kanji": "知らせる",
+		"hiragana": "しらせる",
+		"romaji": "shiraseru",
+		"english": "to notify, to let someone know",
+		"example": "結果が出たら知らせてください。",
+		"example_english": "Please let me know when the result is out.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-ru"
+	},
+	{
+		"kanji": "参加する",
+		"hiragana": "さんかする",
+		"romaji": "sanka suru",
+		"english": "to participate, to join",
+		"example": "マラソン大会に参加しました。",
+		"example_english": "I participated in a marathon event.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-irregular"
+	},
+	{
+		"kanji": "相談する",
+		"hiragana": "そうだんする",
+		"romaji": "soudan suru",
+		"english": "to consult, to discuss",
+		"example": "困ったことがあれば先生に相談してください。",
+		"example_english": "If you have any problems, please consult your teacher.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-irregular"
+	},
+	{
+		"kanji": "断る",
+		"hiragana": "ことわる",
+		"romaji": "kotowaru",
+		"english": "to refuse, to decline",
+		"example": "忙しかったので誘いを断りました。",
+		"example_english": "I declined the invitation because I was busy.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-u"
+	},
+	{
+		"kanji": "思い出す",
+		"hiragana": "おもいだす",
+		"romaji": "omoidasu",
+		"english": "to recall, to remember",
+		"example": "昔の友達のことを思い出しました。",
+		"example_english": "I recalled an old friend.",
+		"level": "N4",
+		"category": "verbs",
+		"part": "verb-u"
+	},
+
+	{
+		"kanji": "安全",
+		"hiragana": "あんぜん",
+		"romaji": "anzen",
+		"english": "safe, safety",
+		"example": "子供が安全に遊べる公園です。",
+		"example_english": "It is a park where children can play safely.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "危険",
+		"hiragana": "きけん",
+		"romaji": "kiken",
+		"english": "dangerous, danger",
+		"example": "夜一人で歩くのは危険です。",
+		"example_english": "It is dangerous to walk alone at night.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "複雑",
+		"hiragana": "ふくざつ",
+		"romaji": "fukuzatsu",
+		"english": "complicated, complex",
+		"example": "この問題は複雑です。",
+		"example_english": "This problem is complicated.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "丁寧",
+		"hiragana": "ていねい",
+		"romaji": "teinei",
+		"english": "polite, careful",
+		"example": "彼はいつも丁寧に話します。",
+		"example_english": "He always speaks politely.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "親切",
+		"hiragana": "しんせつ",
+		"romaji": "shinsetsu",
+		"english": "kind, kindness",
+		"example": "親切な人に道を教えてもらいました。",
+		"example_english": "A kind person showed me the way.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "真面目",
+		"hiragana": "まじめ",
+		"romaji": "majime",
+		"english": "serious, diligent",
+		"example": "彼女は真面目な学生です。",
+		"example_english": "She is a diligent student.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "不便",
+		"hiragana": "ふべん",
+		"romaji": "fuben",
+		"english": "inconvenient",
+		"example": "バスが少ないので不便です。",
+		"example_english": "It's inconvenient because there are few buses.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "正しい",
+		"hiragana": "ただしい",
+		"romaji": "tadashii",
+		"english": "correct, right",
+		"example": "正しい答えを教えてください。",
+		"example_english": "Please tell me the correct answer.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "珍しい",
+		"hiragana": "めずらしい",
+		"romaji": "mezurashii",
+		"english": "rare, unusual",
+		"example": "このお菓子は珍しいです。",
+		"example_english": "This snack is unusual.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "深い",
+		"hiragana": "ふかい",
+		"romaji": "fukai",
+		"english": "deep",
+		"example": "この池はとても深いです。",
+		"example_english": "This pond is very deep.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "浅い",
+		"hiragana": "あさい",
+		"romaji": "asai",
+		"english": "shallow",
+		"example": "この川は浅いです。",
+		"example_english": "This river is shallow.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "柔らかい",
+		"hiragana": "やわらかい",
+		"romaji": "yawarakai",
+		"english": "soft",
+		"example": "このパンはとても柔らかいです。",
+		"example_english": "This bread is very soft.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "硬い",
+		"hiragana": "かたい",
+		"romaji": "katai",
+		"english": "hard, tough",
+		"example": "この肉は少し硬いです。",
+		"example_english": "This meat is a little tough.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "苦い",
+		"hiragana": "にがい",
+		"romaji": "nigai",
+		"english": "bitter",
+		"example": "このコーヒーは苦いです。",
+		"example_english": "This coffee is bitter.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "厳しい",
+		"hiragana": "きびしい",
+		"romaji": "kibishii",
+		"english": "strict, severe",
+		"example": "私の先生はとても厳しいです。",
+		"example_english": "My teacher is very strict.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "i-adjective"
+	},
+	{
+		"kanji": "上手",
+		"hiragana": "じょうず",
+		"romaji": "jouzu",
+		"english": "skilful, good at",
+		"example": "彼女は日本語がとても上手です。",
+		"example_english": "She is very good at Japanese.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "下手",
+		"hiragana": "へた",
+		"romaji": "heta",
+		"english": "unskilled, bad at",
+		"example": "私は料理が下手です。",
+		"example_english": "I am bad at cooking.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "大切",
+		"hiragana": "たいせつ",
+		"romaji": "taisetsu",
+		"english": "important, precious",
+		"example": "家族はとても大切な存在です。",
+		"example_english": "Family is a very precious existence.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "必要",
+		"hiragana": "ひつよう",
+		"romaji": "hitsuyou",
+		"english": "necessary",
+		"example": "ビザが必要ですか？",
+		"example_english": "Is a visa necessary?",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "na-adjective"
+	},
+	{
+		"kanji": "十分",
+		"hiragana": "じゅうぶん",
+		"romaji": "juubun",
+		"english": "enough, sufficient",
+		"example": "時間は十分あります。",
+		"example_english": "There is enough time.",
+		"level": "N4",
+		"category": "adjectives",
+		"part": "na-adjective"
+	},
+
+	{
+		"kanji": "だいたい",
+		"hiragana": "だいたい",
+		"romaji": "daitai",
+		"english": "generally, roughly, about",
+		"example": "だいたい一時間かかります。",
+		"example_english": "It takes roughly one hour.",
+		"level": "N4",
+		"category": "adverbs",
+		"part": "adverb"
+	},
+	{
+		"kanji": "たいてい",
+		"hiragana": "たいてい",
+		"romaji": "taitei",
+		"english": "usually, generally",
+		"example": "たいてい八時に起きます。",
+		"example_english": "I usually wake up at eight.",
+		"level": "N4",
+		"category": "adverbs",
+		"part": "adverb"
+	},
+	{
+		"kanji": "なるべく",
+		"hiragana": "なるべく",
+		"romaji": "narubeku",
+		"english": "as much as possible",
+		"example": "なるべく早く来てください。",
+		"example_english": "Please come as early as possible.",
+		"level": "N4",
+		"category": "adverbs",
+		"part": "adverb"
+	},
+	{
+		"kanji": "ぜひ",
+		"hiragana": "ぜひ",
+		"romaji": "zehi",
+		"english": "by all means, certainly",
+		"example": "ぜひ一度来てください。",
+		"example_english": "Please come by all means.",
+		"level": "N4",
+		"category": "adverbs",
+		"part": "adverb"
+	},
+	{
+		"kanji": "もちろん",
+		"hiragana": "もちろん",
+		"romaji": "mochiron",
+		"english": "of course",
+		"example": "もちろん手伝います。",
+		"example_english": "Of course I will help.",
+		"level": "N4",
+		"category": "adverbs",
+		"part": "adverb"
+	},
+	{
+		"kanji": "特に",
+		"hiragana": "とくに",
+		"romaji": "toku ni",
+		"english": "especially, particularly",
+		"example": "特に寿司が好きです。",
+		"example_english": "I particularly like sushi.",
+		"level": "N4",
+		"category": "adverbs",
+		"part": "adverb"
+	},
+	{
+		"kanji": "まず",
+		"hiragana": "まず",
+		"romaji": "mazu",
+		"english": "first of all, to begin with",
+		"example": "まず手を洗ってください。",
+		"example_english": "First of all, please wash your hands.",
+		"level": "N4",
+		"category": "adverbs",
+		"part": "adverb"
+	},
+	{
+		"kanji": "やっと",
+		"hiragana": "やっと",
+		"romaji": "yatto",
+		"english": "finally, at last",
+		"example": "やっと宿題が終わりました。",
+		"example_english": "I finally finished my homework.",
+		"level": "N4",
+		"category": "adverbs",
+		"part": "adverb"
+	},
+	{
+		"kanji": "すっかり",
+		"hiragana": "すっかり",
+		"romaji": "sukkari",
+		"english": "completely, entirely",
+		"example": "すっかり忘れていました。",
+		"example_english": "I had completely forgotten.",
+		"level": "N4",
+		"category": "adverbs",
+		"part": "adverb"
+	},
+	{
+		"kanji": "だんだん",
+		"hiragana": "だんだん",
+		"romaji": "dandan",
+		"english": "gradually, little by little",
+		"example": "だんだん日本語が上手になっています。",
+		"example_english": "I am gradually getting better at Japanese.",
+		"level": "N4",
+		"category": "adverbs",
+		"part": "adverb"
+	},
+	{
+		"kanji": "なかなか",
+		"hiragana": "なかなか",
+		"romaji": "nakanaka",
+		"english": "quite, rather, not easily",
+		"example": "なかなか難しい問題です。",
+		"example_english": "It is quite a difficult problem.",
+		"level": "N4",
+		"category": "adverbs",
+		"part": "adverb"
+	},
+	{
+		"kanji": "さっき",
+		"hiragana": "さっき",
+		"romaji": "sakki",
+		"english": "a short while ago, just now",
+		"example": "さっき電話がありました。",
+		"example_english": "There was a phone call a short while ago.",
+		"level": "N4",
+		"category": "adverbs",
+		"part": "adverb"
+	},
+	{
+		"kanji": "そろそろ",
+		"hiragana": "そろそろ",
+		"romaji": "sorosoro",
+		"english": "soon, about time",
+		"example": "そろそろ出かける時間です。",
+		"example_english": "It's about time to leave.",
+		"level": "N4",
+		"category": "adverbs",
+		"part": "adverb"
+	},
+
+	{
+		"kanji": "意見",
+		"hiragana": "いけん",
+		"romaji": "iken",
+		"english": "opinion",
+		"example": "みんなの意見を聞いてください。",
+		"example_english": "Please listen to everyone's opinion.",
+		"level": "N4",
+		"category": "communication",
+		"part": "noun"
+	},
+	{
+		"kanji": "理由",
+		"hiragana": "りゆう",
+		"romaji": "riyuu",
+		"english": "reason",
+		"example": "欠席した理由を教えてください。",
+		"example_english": "Please tell me the reason you were absent.",
+		"level": "N4",
+		"category": "communication",
+		"part": "noun"
+	},
+	{
+		"kanji": "返事",
+		"hiragana": "へんじ",
+		"romaji": "henji",
+		"english": "reply, answer",
+		"example": "メールに返事を書きました。",
+		"example_english": "I wrote a reply to the email.",
+		"level": "N4",
+		"category": "communication",
+		"part": "noun"
+	},
+	{
+		"kanji": "約束",
+		"hiragana": "やくそく",
+		"romaji": "yakusoku",
+		"english": "promise, appointment",
+		"example": "友達との約束を守りました。",
+		"example_english": "I kept my promise with my friend.",
+		"level": "N4",
+		"category": "communication",
+		"part": "noun"
+	},
+	{
+		"kanji": "話し合い",
+		"hiragana": "はなしあい",
+		"romaji": "hanashiai",
+		"english": "discussion, talk",
+		"example": "グループで話し合いをしました。",
+		"example_english": "We had a group discussion.",
+		"level": "N4",
+		"category": "communication",
+		"part": "noun"
+	},
+	{
+		"kanji": "挨拶",
+		"hiragana": "あいさつ",
+		"romaji": "aisatsu",
+		"english": "greeting",
+		"example": "朝、近所の人に挨拶をします。",
+		"example_english": "In the morning I greet my neighbours.",
+		"level": "N4",
+		"category": "communication",
+		"part": "noun"
+	},
+	{
+		"kanji": "お礼",
+		"hiragana": "おれい",
+		"romaji": "orei",
+		"english": "gratitude, thanks",
+		"example": "助けてくれた人にお礼を言いました。",
+		"example_english": "I thanked the person who helped me.",
+		"level": "N4",
+		"category": "communication",
+		"part": "noun"
+	},
+	{
+		"kanji": "お祝い",
+		"hiragana": "おいわい",
+		"romaji": "oiwai",
+		"english": "celebration, congratulations",
+		"example": "誕生日のお祝いをしました。",
+		"example_english": "We had a birthday celebration.",
+		"level": "N4",
+		"category": "communication",
+		"part": "noun"
+	},
+	{
+		"kanji": "お見舞い",
+		"hiragana": "おみまい",
+		"romaji": "omimai",
+		"english": "visiting someone ill",
+		"example": "入院した友達のお見舞いに行きました。",
+		"example_english": "I visited my friend who was hospitalised.",
+		"level": "N4",
+		"category": "communication",
+		"part": "noun"
+	},
+
+	{
+		"kanji": "生活",
+		"hiragana": "せいかつ",
+		"romaji": "seikatsu",
+		"english": "life, living, lifestyle",
+		"example": "日本での生活に慣れてきました。",
+		"example_english": "I have got used to life in Japan.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "noun"
+	},
+	{
+		"kanji": "買い物",
+		"hiragana": "かいもの",
+		"romaji": "kaimono",
+		"english": "shopping",
+		"example": "週末にスーパーで買い物をします。",
+		"example_english": "I go shopping at the supermarket on weekends.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "noun"
+	},
+	{
+		"kanji": "料理",
+		"hiragana": "りょうり",
+		"romaji": "ryouri",
+		"english": "cooking, cuisine",
+		"example": "母の料理が一番好きです。",
+		"example_english": "I like my mother's cooking the most.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "noun"
+	},
+	{
+		"kanji": "洗濯",
+		"hiragana": "せんたく",
+		"romaji": "sentaku",
+		"english": "laundry, washing",
+		"example": "毎週末洗濯をします。",
+		"example_english": "I do laundry every weekend.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "noun"
+	},
+	{
+		"kanji": "掃除",
+		"hiragana": "そうじ",
+		"romaji": "souji",
+		"english": "cleaning, sweeping",
+		"example": "毎朝部屋の掃除をします。",
+		"example_english": "I clean my room every morning.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "noun"
+	},
+	{
+		"kanji": "着替え",
+		"hiragana": "きがえ",
+		"romaji": "kigae",
+		"english": "change of clothes",
+		"example": "帰ってすぐ着替えました。",
+		"example_english": "I changed clothes immediately after coming home.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "noun"
+	},
+	{
+		"kanji": "引き出し",
+		"hiragana": "ひきだし",
+		"romaji": "hikidashi",
+		"english": "drawer",
+		"example": "引き出しに大切なものを入れています。",
+		"example_english": "I keep important things in the drawer.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "noun"
+	},
+	{
+		"kanji": "押し入れ",
+		"hiragana": "おしいれ",
+		"romaji": "oshiire",
+		"english": "Japanese-style closet",
+		"example": "押し入れに布団をしまいます。",
+		"example_english": "I store the futon in the closet.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "noun"
+	},
+	{
+		"kanji": "布団",
+		"hiragana": "ふとん",
+		"romaji": "futon",
+		"english": "futon, Japanese bedding",
+		"example": "毎朝布団を干します。",
+		"example_english": "I air out the futon every morning.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "noun"
+	},
+	{
+		"kanji": "住所",
+		"hiragana": "じゅうしょ",
+		"romaji": "juusho",
+		"english": "address",
+		"example": "住所を教えてもらえますか？",
+		"example_english": "Could you tell me your address?",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "noun"
+	},
+	{
+		"kanji": "近く",
+		"hiragana": "ちかく",
+		"romaji": "chikaku",
+		"english": "nearby, near",
+		"example": "駅の近くに住んでいます。",
+		"example_english": "I live near the station.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "noun"
+	},
+	{
+		"kanji": "途中",
+		"hiragana": "とちゅう",
+		"romaji": "tochuu",
+		"english": "on the way, midway",
+		"example": "帰り途中にコンビニに寄りました。",
+		"example_english": "I stopped by a convenience store on the way home.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "noun"
+	},
+	{
+		"kanji": "場合",
+		"hiragana": "ばあい",
+		"romaji": "baai",
+		"english": "case, situation, occasion",
+		"example": "緊急の場合はすぐに連絡してください。",
+		"example_english": "In case of emergency, please contact us immediately.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "noun"
+	},
+	{
+		"kanji": "安心する",
+		"hiragana": "あんしんする",
+		"romaji": "anshin suru",
+		"english": "to feel relieved",
+		"example": "無事に帰って安心しました。",
+		"example_english": "I felt relieved when you returned safely.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "verb-irregular"
+	},
+	{
+		"kanji": "心配する",
+		"hiragana": "しんぱいする",
+		"romaji": "shinpai suru",
+		"english": "to worry",
+		"example": "遅くなってみんなが心配しました。",
+		"example_english": "Everyone worried because it got late.",
+		"level": "N4",
+		"category": "daily-life",
+		"part": "verb-irregular"
+	},
+
+	{
+		"kanji": "将来",
+		"hiragana": "しょうらい",
+		"romaji": "shōrai",
+		"english": "future, prospects",
+		"example": "将来は教師になりたいです。",
+		"example_english": "In the future I want to become a teacher.",
+		"level": "N4",
+		"category": "abstract",
+		"part": "noun"
+	},
+	{
+		"kanji": "目的",
+		"hiragana": "もくてき",
+		"romaji": "mokuteki",
+		"english": "purpose, goal, objective",
+		"example": "留学の目的は日本語を上手にすることです。",
+		"example_english": "The purpose of studying abroad is to improve my Japanese.",
+		"level": "N4",
+		"category": "abstract",
+		"part": "noun"
+	},
+	{
+		"kanji": "関係",
+		"hiragana": "かんけい",
+		"romaji": "kankei",
+		"english": "relationship, connection",
+		"example": "二つの事件に関係があります。",
+		"example_english": "There is a connection between the two incidents.",
+		"level": "N4",
+		"category": "abstract",
+		"part": "noun"
+	},
+	{
+		"kanji": "影響",
+		"hiragana": "えいきょう",
+		"romaji": "eikyou",
+		"english": "influence, effect",
+		"example": "天気は気分に影響します。",
+		"example_english": "The weather has an effect on your mood.",
+		"level": "N4",
+		"category": "abstract",
+		"part": "noun"
+	},
+	{
+		"kanji": "変化",
+		"hiragana": "へんか",
+		"romaji": "henka",
+		"english": "change, variation",
+		"example": "気温の変化に気をつけてください。",
+		"example_english": "Please be careful of changes in temperature.",
+		"level": "N4",
+		"category": "abstract",
+		"part": "noun"
+	},
+	{
+		"kanji": "問題",
+		"hiragana": "もんだい",
+		"romaji": "mondai",
+		"english": "problem, issue, question",
+		"example": "この問題を一緒に解決しましょう。",
+		"example_english": "Let's solve this problem together.",
+		"level": "N4",
+		"category": "abstract",
+		"part": "noun"
+	},
+	{
+		"kanji": "方法",
+		"hiragana": "ほうほう",
+		"romaji": "houhou",
+		"english": "method, way",
+		"example": "もっと良い方法があります。",
+		"example_english": "There is a better method.",
+		"level": "N4",
+		"category": "abstract",
+		"part": "noun"
+	},
+	{
+		"kanji": "場所",
+		"hiragana": "ばしょ",
+		"romaji": "basho",
+		"english": "place, location",
+		"example": "待ち合わせの場所はどこですか？",
+		"example_english": "Where is the meeting place?",
+		"level": "N4",
+		"category": "abstract",
+		"part": "noun"
+	},
+	{
+		"kanji": "理解",
+		"hiragana": "りかい",
+		"romaji": "rikai",
+		"english": "understanding",
+		"example": "先生の説明をよく理解しました。",
+		"example_english": "I understood the teacher's explanation well.",
+		"level": "N4",
+		"category": "abstract",
+		"part": "noun"
+	},
+	{
+		"kanji": "自由",
+		"hiragana": "じゆう",
+		"romaji": "jiyuu",
+		"english": "freedom, liberty",
+		"example": "自由に意見を言ってください。",
+		"example_english": "Please feel free to express your opinion.",
+		"level": "N4",
+		"category": "abstract",
+		"part": "na-adjective"
 	}
 ]
