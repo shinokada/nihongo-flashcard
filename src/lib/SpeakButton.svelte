@@ -31,6 +31,7 @@
 
 	let japaneseVoices = $state<SpeechSynthesisVoice[]>([]);
 	let selectedVoiceName = $state('');
+	let mounted = false;
 
 	function loadVoices() {
 		if (typeof window === 'undefined' || !('speechSynthesis' in window)) return;
@@ -45,9 +46,14 @@
 	}
 
 	onMount(() => {
+		mounted = true;
 		loadVoices();
+		if (!('speechSynthesis' in window)) return;
 		window.speechSynthesis.addEventListener('voiceschanged', loadVoices);
-		return () => window.speechSynthesis.removeEventListener('voiceschanged', loadVoices);
+		return () => {
+			mounted = false;
+			window.speechSynthesis.removeEventListener('voiceschanged', loadVoices);
+		};
 	});
 
 	export function speak() {
@@ -61,6 +67,7 @@
 		utterance.lang = 'ja-JP';
 
 		const doSpeak = () => {
+			if (!mounted) return;
 			const voices = window.speechSynthesis.getVoices();
 			const japaneseVoice = selectedVoiceName
 				? voices.find((v) => v.name === selectedVoiceName)
