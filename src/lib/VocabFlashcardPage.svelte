@@ -314,7 +314,7 @@
 	<!-- Hint -->
 	<p class="mt-4 rounded bg-gray-900 px-2 py-1 text-white">
 		{#if isTouch}
-			Tap to flip · swipe ←/→ to navigate · swipe ↑/↓ to toggle translation
+			Tap to flip · swipe ←/→ to navigate
 		{:else}
 			Space/Enter/↑↓ to flip · ← → to navigate · R to restart · E to toggle translation · / to pronounce word · . to pronounce example
 		{/if}
