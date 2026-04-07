@@ -23,11 +23,15 @@ async function main() {
 		for (let i = 0; i < data.length; i++) {
 			const entry = data[i];
 			if (entry.example && !entry.example_romaji) {
-				entry.example_romaji = await kuroshiro.convert(entry.example, {
-					mode: 'spaced',
-					to: 'romaji',
-					romajiSystem: 'hepburn'
-				});
+				try {
+					entry.example_romaji = await kuroshiro.convert(entry.example, {
+						mode: 'spaced',
+						to: 'romaji',
+						romajiSystem: 'hepburn'
+					});
+				} catch (err) {
+					console.warn(`  Warning: Failed to convert entry ${i} (${entry.kanji}): ${err.message}`);
+				}
 			}
 			if ((i + 1) % 50 === 0) {
 				console.log(`  ${i + 1}/${data.length} done`);

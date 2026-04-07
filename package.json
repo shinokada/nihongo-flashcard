@@ -28,6 +28,7 @@
 		"adjectives": "node ./scripts/adjectives.js",
 		"onek": "node ./scripts/one-thousand-basic-words.js",
 		"gairaigo": "node ./scripts/gairaigo.js",
+		"add-romaji": "node ./scripts/add-example-romaji.js",
 		"ch": "npx changeset",
 		"cv": "npx changeset version",
 		"cp": "npx changeset publish"
