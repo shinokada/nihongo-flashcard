@@ -335,12 +335,11 @@
 
 		<button
 			type="button"
-			class="inline-flex w-full items-center justify-end bg-gray-300 p-2 disabled:cursor-not-allowed disabled:opacity-50 sm:p-4 dark:bg-gray-700"
+			class="inline-flex w-full items-center justify-center bg-gray-300 p-2 disabled:cursor-not-allowed disabled:opacity-50 sm:p-4 dark:bg-gray-700"
 			onclick={restart}
 			disabled={entries.length === 0}
 		>
 			RESTART
-			<ArrowRight class="ml-4" />
 		</button>
 	</div>
 </div>
