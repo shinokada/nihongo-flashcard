@@ -287,6 +287,11 @@
 				</p>
 				<SpeakButton bind:this={exampleSpeakButton} word={current.entry.example} />
 			</div>
+			{#if current.entry.example_romaji}
+				<p class="mt-1 text-sm text-gray-600 italic dark:text-gray-300">
+					{current.entry.example_romaji}
+				</p>
+			{/if}
 			{#if current.entry.example_english}
 				<div class="mt-2">
 					{#if showExampleEnglish}

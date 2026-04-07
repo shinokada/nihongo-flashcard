@@ -69,6 +69,7 @@ export interface VocabEntry {
 	english: string;
 	example: string;
 	example_english?: string;
+	example_romaji?: string;
 	level: JLPTLevel;
 	category: Category;
 	part: string;

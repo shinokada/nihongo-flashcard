@@ -28,6 +28,7 @@
 		"adjectives": "node ./scripts/adjectives.js",
 		"onek": "node ./scripts/one-thousand-basic-words.js",
 		"gairaigo": "node ./scripts/gairaigo.js",
+		"add-romaji": "node ./scripts/add-example-romaji.js",
 		"ch": "npx changeset",
 		"cv": "npx changeset version",
 		"cp": "npx changeset publish"
@@ -51,6 +52,8 @@
 		"flowbite-svelte": "^1.33.0",
 		"globals": "^17.4.0",
 		"jsdom": "^28.1.0",
+		"kuroshiro": "^1.2.0",
+		"kuroshiro-analyzer-kuromoji": "^1.1.0",
 		"pdfreader": "^3.0.8",
 		"prettier": "^3.8.1",
 		"prettier-plugin-svelte": "^3.5.1",
