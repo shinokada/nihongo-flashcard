@@ -8,7 +8,8 @@
 		"example_english": "I felt relieved when the exam was over.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "shiken ga owatte anshin shi mashi ta ."
 	},
 	{
 		"kanji": "悲しい",
@@ -19,7 +20,8 @@
 		"example_english": "I'm sad that my friend moved away.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "tomodachi ga hikkoshi te kanashii desu ."
 	},
 	{
 		"kanji": "嬉しい",
@@ -30,7 +32,8 @@
 		"example_english": "I was happy to receive a present.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "purezento o moratte ureshikatta desu ."
 	},
 	{
 		"kanji": "怖い",
@@ -41,7 +44,8 @@
 		"example_english": "Dark roads are scary.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "kurai michi wa kowai desu ."
 	},
 	{
 		"kanji": "恥ずかしい",
@@ -52,7 +56,8 @@
 		"example_english": "Speaking in front of people is embarrassing.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "hitomae de hanasu no wa hazukashii desu ."
 	},
 	{
 		"kanji": "寂しい",
@@ -63,7 +68,8 @@
 		"example_english": "I feel lonely when I'm alone.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "ichi nin de iru to sabishii desu ."
 	},
 	{
 		"kanji": "心配",
@@ -74,7 +80,8 @@
 		"example_english": "I'm worried about the exam.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "shiken no koto ga shimpai desu ."
 	},
 	{
 		"kanji": "驚く",
@@ -85,7 +92,8 @@
 		"example_english": "I was surprised by the sudden news.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "totsuzen no nyūsu ni odoroki mashi ta ."
 	},
 	{
 		"kanji": "怒る",
@@ -96,7 +104,8 @@
 		"example_english": "I was scolded by the teacher for being late.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "chikoku shi te sensei ni okora re mashi ta ."
 	},
 	{
 		"kanji": "喜ぶ",
@@ -107,7 +116,8 @@
 		"example_english": "My parents were very delighted when I passed.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "gōkaku shi te ryōshin ga totemo yorokobi mashi ta ."
 	},
 	{
 		"kanji": "残念",
@@ -118,7 +128,8 @@
 		"example_english": "It's disappointing that we lost the match.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "shiai ni make te zannen desu ."
 	},
 	{
 		"kanji": "退屈",
@@ -129,7 +140,8 @@
 		"example_english": "Rainy days are boring.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "ame no hi wa taikutsu desu ."
 	},
 	{
 		"kanji": "夢",
@@ -140,7 +152,8 @@
 		"example_english": "My dream is to become a doctor.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "isha ni naru koto ga yume desu ."
 	},
 	{
 		"kanji": "気持ち",
@@ -151,9 +164,9 @@
 		"example_english": "I feel good today.",
 		"level": "N4",
 		"category": "feelings",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kyō wa kimochi ga ii desu ."
 	},
-
 	{
 		"kanji": "経験",
 		"hiragana": "けいけん",
@@ -163,7 +176,8 @@
 		"example_english": "I have experience living abroad.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kaigai ni sun da keiken ga ari masu ."
 	},
 	{
 		"kanji": "研究",
@@ -174,7 +188,8 @@
 		"example_english": "I am doing environmental research at university.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "daigaku de kankyō no kenkyū o shi te i masu ."
 	},
 	{
 		"kanji": "会議",
@@ -185,7 +200,8 @@
 		"example_english": "There is a meeting at three in the afternoon.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "gogo san ji ni kaigi ga ari masu ."
 	},
 	{
 		"kanji": "説明",
@@ -196,7 +212,8 @@
 		"example_english": "The teacher explained the grammar.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "sensei ga bumpō o setsumei shi mashi ta ."
 	},
 	{
 		"kanji": "紹介",
@@ -207,7 +224,8 @@
 		"example_english": "Please introduce your friend.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "tomodachi o shōkai shi te kudasai ."
 	},
 	{
 		"kanji": "連絡",
@@ -218,7 +236,8 @@
 		"example_english": "I will contact you later.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "atode renraku shi masu ."
 	},
 	{
 		"kanji": "予約",
@@ -229,7 +248,8 @@
 		"example_english": "I made a reservation at the restaurant.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "resutoran o yoyaku shi mashi ta ."
 	},
 	{
 		"kanji": "出席",
@@ -240,7 +260,8 @@
 		"example_english": "Please attend the class.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "jugyō ni shusseki shi te kudasai ."
 	},
 	{
 		"kanji": "卒業",
@@ -251,7 +272,8 @@
 		"example_english": "I will graduate from university next year.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "rainen daigaku o sotsugyō shi masu ."
 	},
 	{
 		"kanji": "合格",
@@ -262,7 +284,8 @@
 		"example_english": "I passed the exam.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "shiken ni gōkaku shi mashi ta ."
 	},
 	{
 		"kanji": "失敗",
@@ -273,7 +296,8 @@
 		"example_english": "Please don't give up even if you fail.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "shippai shi te mo akirame nai de kudasai ."
 	},
 	{
 		"kanji": "成功",
@@ -284,7 +308,8 @@
 		"example_english": "The project was a success.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "purojekuto ga seikō shi mashi ta ."
 	},
 	{
 		"kanji": "練習",
@@ -295,7 +320,8 @@
 		"example_english": "I practice piano every day.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "mainichi piano o renshū shi te i masu ."
 	},
 	{
 		"kanji": "準備",
@@ -306,7 +332,8 @@
 		"example_english": "I am preparing for the trip.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "ryokō no jumbi o shi te i masu ."
 	},
 	{
 		"kanji": "注意",
@@ -317,7 +344,8 @@
 		"example_english": "Please be careful of cars.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kuruma ni chūi shi te kudasai ."
 	},
 	{
 		"kanji": "発音",
@@ -328,7 +356,8 @@
 		"example_english": "I am practising Japanese pronunciation.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "nihongo no hatsuon o renshū shi te i masu ."
 	},
 	{
 		"kanji": "翻訳",
@@ -339,7 +368,8 @@
 		"example_english": "Please translate this sentence into English.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kono bun o eigo ni hon'yaku shi te kudasai ."
 	},
 	{
 		"kanji": "文法",
@@ -350,9 +380,9 @@
 		"example_english": "Japanese grammar is difficult.",
 		"level": "N4",
 		"category": "work-school",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "nihongo no bumpō wa muzukashii desu ."
 	},
-
 	{
 		"kanji": "社会",
 		"hiragana": "しゃかい",
@@ -362,7 +392,8 @@
 		"example_english": "It is important to follow the rules of society.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "shakai no rūru o mamoru koto ga taisetsu desu ."
 	},
 	{
 		"kanji": "政治",
@@ -373,7 +404,8 @@
 		"example_english": "Young people should also take an interest in politics.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "wakamono mo seiji ni kyōmi o motsu beki desu ."
 	},
 	{
 		"kanji": "経済",
@@ -384,7 +416,8 @@
 		"example_english": "Japan's economy is large.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "nippon no keizai wa ōkii desu ."
 	},
 	{
 		"kanji": "文化",
@@ -395,7 +428,8 @@
 		"example_english": "I want to learn more about Japanese culture.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "nippon no bunka o motto manabi tai desu ."
 	},
 	{
 		"kanji": "習慣",
@@ -406,7 +440,8 @@
 		"example_english": "I have a habit of walking every morning.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "maiasa sampo suru shūkan ga ari masu ."
 	},
 	{
 		"kanji": "人口",
@@ -417,7 +452,8 @@
 		"example_english": "Tokyo's population is very large.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "tōkyō no jinkō wa totemo ōi desu ."
 	},
 	{
 		"kanji": "国際",
@@ -428,7 +464,8 @@
 		"example_english": "I participated in an international exchange event.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kokusai kōryū no ibento ni sanka shi mashi ta ."
 	},
 	{
 		"kanji": "戦争",
@@ -439,7 +476,8 @@
 		"example_english": "War should never happen.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "sensō wa atte wa nara nai koto desu ."
 	},
 	{
 		"kanji": "平和",
@@ -450,7 +488,8 @@
 		"example_english": "I wish for world peace.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "sekai no heiwa o negatte i masu ."
 	},
 	{
 		"kanji": "法律",
@@ -461,7 +500,8 @@
 		"example_english": "It is important to obey the law.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "hōritsu o mamoru koto wa taisetsu desu ."
 	},
 	{
 		"kanji": "警察",
@@ -472,7 +512,8 @@
 		"example_english": "Please call the police when you are in trouble.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "komatta toki wa keisatsu ni denwa shi te kudasai ."
 	},
 	{
 		"kanji": "事故",
@@ -483,7 +524,8 @@
 		"example_english": "There was a traffic accident yesterday.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kinō kōtsū jiko ga ari mashi ta ."
 	},
 	{
 		"kanji": "地震",
@@ -494,7 +536,8 @@
 		"example_english": "There are many earthquakes in Japan.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "nippon de wa jishin ga ōi desu ."
 	},
 	{
 		"kanji": "環境",
@@ -505,9 +548,9 @@
 		"example_english": "Let's make an effort to protect the environment.",
 		"level": "N4",
 		"category": "society",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kankyō o mamoru tame ni doryoku shi masho u ."
 	},
-
 	{
 		"kanji": "体",
 		"hiragana": "からだ",
@@ -517,7 +560,8 @@
 		"example_english": "Please take care of your health.",
 		"level": "N4",
 		"category": "health",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "karada ni ki o tsuke te kudasai ."
 	},
 	{
 		"kanji": "病気",
@@ -528,7 +572,8 @@
 		"example_english": "I caught a cold and got sick.",
 		"level": "N4",
 		"category": "health",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kaze o hii te byōki ni nari mashi ta ."
 	},
 	{
 		"kanji": "病院",
@@ -539,7 +584,8 @@
 		"example_english": "I feel unwell so I will go to the hospital.",
 		"level": "N4",
 		"category": "health",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "karada no guai ga warui node byōin ni iki masu ."
 	},
 	{
 		"kanji": "薬",
@@ -550,7 +596,8 @@
 		"example_english": "Please take the medicine after meals.",
 		"level": "N4",
 		"category": "health",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "shokugo ni kusuri o non de kudasai ."
 	},
 	{
 		"kanji": "医者",
@@ -561,7 +608,8 @@
 		"example_english": "I had the doctor examine me.",
 		"level": "N4",
 		"category": "health",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "isha ni mi te morai mashi ta ."
 	},
 	{
 		"kanji": "熱",
@@ -572,7 +620,8 @@
 		"example_english": "I have had a fever since yesterday.",
 		"level": "N4",
 		"category": "health",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kinō kara netsu ga ari masu ."
 	},
 	{
 		"kanji": "痛い",
@@ -583,7 +632,8 @@
 		"example_english": "My stomach hurts.",
 		"level": "N4",
 		"category": "health",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "onaka ga itai desu ."
 	},
 	{
 		"kanji": "入院",
@@ -594,7 +644,8 @@
 		"example_english": "I was hospitalised for one week.",
 		"level": "N4",
 		"category": "health",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "ichi shūkan nyūin shi mashi ta ."
 	},
 	{
 		"kanji": "退院",
@@ -605,7 +656,8 @@
 		"example_english": "I can leave hospital next week.",
 		"level": "N4",
 		"category": "health",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "raishū taiin deki masu ."
 	},
 	{
 		"kanji": "運動",
@@ -616,7 +668,8 @@
 		"example_english": "I exercise every day for my health.",
 		"level": "N4",
 		"category": "health",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kenkō no tame ni mainichi undō shi te i masu ."
 	},
 	{
 		"kanji": "休む",
@@ -627,7 +680,8 @@
 		"example_english": "I'm tired so I'll rest today.",
 		"level": "N4",
 		"category": "health",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "tsukare te iru node kyō wa yasumi masu ."
 	},
 	{
 		"kanji": "太る",
@@ -638,7 +692,8 @@
 		"example_english": "I've gained a little weight recently.",
 		"level": "N4",
 		"category": "health",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "saikin sukoshi futori mashi ta ."
 	},
 	{
 		"kanji": "痩せる",
@@ -649,9 +704,9 @@
 		"example_english": "I lost five kilograms through dieting.",
 		"level": "N4",
 		"category": "health",
-		"part": "verb-ru"
+		"part": "verb-ru",
+		"example_romaji": "daietto de go kiro yase mashi ta ."
 	},
-
 	{
 		"kanji": "自然",
 		"hiragana": "しぜん",
@@ -661,7 +716,8 @@
 		"example_english": "I walked in nature over the weekend.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "shūmatsu ni shizen no naka o aruki mashi ta ."
 	},
 	{
 		"kanji": "山",
@@ -672,7 +728,8 @@
 		"example_english": "I climbed a mountain in summer.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "natsu ni yama ni nobori mashi ta ."
 	},
 	{
 		"kanji": "川",
@@ -683,7 +740,8 @@
 		"example_english": "I fish near the river.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kawa no soba de tsuri o shi masu ."
 	},
 	{
 		"kanji": "海",
@@ -694,7 +752,8 @@
 		"example_english": "I go to the sea during summer vacation.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "natsuyasumi ni umi e iki masu ."
 	},
 	{
 		"kanji": "森",
@@ -705,7 +764,8 @@
 		"example_english": "I took a walk in the forest.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "mori no naka o sampo shi mashi ta ."
 	},
 	{
 		"kanji": "空",
@@ -716,7 +776,8 @@
 		"example_english": "Today's sky is blue.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kyō no sora wa aoi desu ."
 	},
 	{
 		"kanji": "星",
@@ -727,7 +788,8 @@
 		"example_english": "You can see many stars in the night sky.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "yozora ni hoshi ga takusan mie masu ."
 	},
 	{
 		"kanji": "雲",
@@ -738,7 +800,8 @@
 		"example_english": "There are big clouds in the sky.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "sora ni ōkina kumo ga ari masu ."
 	},
 	{
 		"kanji": "風",
@@ -749,7 +812,8 @@
 		"example_english": "A strong wind is blowing today.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kyō wa tsuyoi kaze ga fui te i masu ."
 	},
 	{
 		"kanji": "雪",
@@ -760,7 +824,8 @@
 		"example_english": "Snow falls in winter.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "fuyu ni yuki ga ori masu ."
 	},
 	{
 		"kanji": "雨",
@@ -771,7 +836,8 @@
 		"example_english": "It rained yesterday.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kinō wa ame ga ori mashi ta ."
 	},
 	{
 		"kanji": "季節",
@@ -782,7 +848,8 @@
 		"example_english": "My favourite season is autumn.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "ichiban suki na kisetsu wa aki desu ."
 	},
 	{
 		"kanji": "春",
@@ -793,7 +860,8 @@
 		"example_english": "When spring comes, the cherry blossoms bloom.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "haru ni naru to sakura ga saki masu ."
 	},
 	{
 		"kanji": "夏",
@@ -804,7 +872,8 @@
 		"example_english": "Summer is hot and I want to go to the sea.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "natsu wa atsuku te umi ni iki tai desu ."
 	},
 	{
 		"kanji": "秋",
@@ -815,7 +884,8 @@
 		"example_english": "The autumn leaves are beautiful in autumn.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "aki wa kōyō ga kirei desu ."
 	},
 	{
 		"kanji": "冬",
@@ -826,7 +896,8 @@
 		"example_english": "It sometimes snows in winter.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "fuyu wa yuki ga furu koto ga ari masu ."
 	},
 	{
 		"kanji": "気温",
@@ -837,7 +908,8 @@
 		"example_english": "Today's temperature is twenty degrees.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kyō no kion wa ni jū do desu ."
 	},
 	{
 		"kanji": "台風",
@@ -848,9 +920,9 @@
 		"example_english": "Please don't go outside because a typhoon is coming.",
 		"level": "N4",
 		"category": "nature",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "taifū ga ki te iru node soto ni de nai de kudasai ."
 	},
-
 	{
 		"kanji": "乗り物",
 		"hiragana": "のりもの",
@@ -860,7 +932,8 @@
 		"example_english": "There are various vehicles in Japan.",
 		"level": "N4",
 		"category": "transportation",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "nippon ni wa iroiro na norimono ga ari masu ."
 	},
 	{
 		"kanji": "新幹線",
@@ -871,7 +944,8 @@
 		"example_english": "I go from Tokyo to Osaka by bullet train.",
 		"level": "N4",
 		"category": "transportation",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "shinkansen de tōkyō kara ōsaka made iki masu ."
 	},
 	{
 		"kanji": "地下鉄",
@@ -882,7 +956,8 @@
 		"example_english": "I go to work by subway.",
 		"level": "N4",
 		"category": "transportation",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "chikatetsu de kaisha ni iki masu ."
 	},
 	{
 		"kanji": "乗り換え",
@@ -893,7 +968,8 @@
 		"example_english": "Please transfer at the next station.",
 		"level": "N4",
 		"category": "transportation",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "tsugi no eki de norikae te kudasai ."
 	},
 	{
 		"kanji": "出発",
@@ -904,7 +980,8 @@
 		"example_english": "The train departs at nine o'clock.",
 		"level": "N4",
 		"category": "transportation",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "densha wa kyū ji ni shuppatsu shi masu ."
 	},
 	{
 		"kanji": "到着",
@@ -915,7 +992,8 @@
 		"example_english": "The plane arrives at three in the afternoon.",
 		"level": "N4",
 		"category": "transportation",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "hikōki wa gogo san ji ni tōchaku shi masu ."
 	},
 	{
 		"kanji": "運転",
@@ -926,7 +1004,8 @@
 		"example_english": "My father drives a car every day.",
 		"level": "N4",
 		"category": "transportation",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "chichi wa mainichi sha o unten shi masu ."
 	},
 	{
 		"kanji": "道",
@@ -937,7 +1016,8 @@
 		"example_english": "Please go straight along this road.",
 		"level": "N4",
 		"category": "transportation",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kono michi o massugu itte kudasai ."
 	},
 	{
 		"kanji": "橋",
@@ -948,7 +1028,8 @@
 		"example_english": "There is a bridge over the river.",
 		"level": "N4",
 		"category": "transportation",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kawa ni hashi ga kakatte i masu ."
 	},
 	{
 		"kanji": "交通",
@@ -959,9 +1040,9 @@
 		"example_english": "The morning traffic jam is terrible.",
 		"level": "N4",
 		"category": "transportation",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "asa no kōtsū jūtai ga hidoi desu ."
 	},
-
 	{
 		"kanji": "旅行",
 		"hiragana": "りょこう",
@@ -971,7 +1052,8 @@
 		"example_english": "I am going on a trip to Europe next month.",
 		"level": "N4",
 		"category": "leisure",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "raigetsu yōroppa ni ryokō ni iki masu ."
 	},
 	{
 		"kanji": "趣味",
@@ -982,7 +1064,8 @@
 		"example_english": "My hobby is taking photographs.",
 		"level": "N4",
 		"category": "leisure",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "shumi wa shashin o toru koto desu ."
 	},
 	{
 		"kanji": "映画",
@@ -993,7 +1076,8 @@
 		"example_english": "I go to see a film on weekends.",
 		"level": "N4",
 		"category": "leisure",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "shūmatsu ni eiga o mi ni iki masu ."
 	},
 	{
 		"kanji": "音楽",
@@ -1004,7 +1088,8 @@
 		"example_english": "I listen to music on my way to school.",
 		"level": "N4",
 		"category": "leisure",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "tsūgaku chū ni ongaku o kiki masu ."
 	},
 	{
 		"kanji": "歌",
@@ -1015,7 +1100,8 @@
 		"example_english": "I sang my favourite song at karaoke.",
 		"level": "N4",
 		"category": "leisure",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "suki na uta o karaoke de utai mashi ta ."
 	},
 	{
 		"kanji": "絵",
@@ -1026,7 +1112,8 @@
 		"example_english": "I have liked drawing pictures since childhood.",
 		"level": "N4",
 		"category": "leisure",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kodomo no koro kara e o egaku no ga suki desu ."
 	},
 	{
 		"kanji": "写真",
@@ -1037,7 +1124,8 @@
 		"example_english": "I took many photographs at my travel destination.",
 		"level": "N4",
 		"category": "leisure",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "ryokō saki de shashin o takusan tori mashi ta ."
 	},
 	{
 		"kanji": "スポーツ",
@@ -1048,7 +1136,8 @@
 		"example_english": "I play sport on weekends to move my body.",
 		"level": "N4",
 		"category": "leisure",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "shūmatsu ni supōtsu o shi te karada o ugokashi masu ."
 	},
 	{
 		"kanji": "試合",
@@ -1059,7 +1148,8 @@
 		"example_english": "There is a football match tomorrow.",
 		"level": "N4",
 		"category": "leisure",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "ashita sakkā no shiai ga ari masu ."
 	},
 	{
 		"kanji": "祭り",
@@ -1070,7 +1160,8 @@
 		"example_english": "I went to the summer festival and watched fireworks.",
 		"level": "N4",
 		"category": "leisure",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "natsu matsuri ni itte hanabi o mi mashi ta ."
 	},
 	{
 		"kanji": "花火",
@@ -1081,7 +1172,8 @@
 		"example_english": "I like watching fireworks on summer nights.",
 		"level": "N4",
 		"category": "leisure",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "natsu no yoru ni hanabi o miru no ga suki desu ."
 	},
 	{
 		"kanji": "温泉",
@@ -1092,9 +1184,9 @@
 		"example_english": "I bathed in a hot spring on my trip.",
 		"level": "N4",
 		"category": "leisure",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "ryokō de onsen ni hairi mashi ta ."
 	},
-
 	{
 		"kanji": "町",
 		"hiragana": "まち",
@@ -1104,7 +1196,8 @@
 		"example_english": "This town is quiet and easy to live in.",
 		"level": "N4",
 		"category": "places",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kono machi wa shizuka de sumi yasui desu ."
 	},
 	{
 		"kanji": "近所",
@@ -1115,7 +1208,8 @@
 		"example_english": "Everyone in the neighbourhood is kind.",
 		"level": "N4",
 		"category": "places",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kinjo no hito tachi wa minna shinsetsu desu ."
 	},
 	{
 		"kanji": "郊外",
@@ -1126,7 +1220,8 @@
 		"example_english": "I moved to the suburbs.",
 		"level": "N4",
 		"category": "places",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kōgai ni hikkoshi mashi ta ."
 	},
 	{
 		"kanji": "神社",
@@ -1137,7 +1232,8 @@
 		"example_english": "I went to a Shinto shrine at New Year.",
 		"level": "N4",
 		"category": "places",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "oshōgatsu ni jinja e iki mashi ta ."
 	},
 	{
 		"kanji": "寺",
@@ -1148,7 +1244,8 @@
 		"example_english": "There are many old temples in Kyoto.",
 		"level": "N4",
 		"category": "places",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kyōto ni wa furui otera ga takusan ari masu ."
 	},
 	{
 		"kanji": "美術館",
@@ -1159,7 +1256,8 @@
 		"example_english": "I saw a famous painting at the art museum.",
 		"level": "N4",
 		"category": "places",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "bijutsukan de yūmei na e o mi mashi ta ."
 	},
 	{
 		"kanji": "図書館",
@@ -1170,7 +1268,8 @@
 		"example_english": "I borrowed a book from the library.",
 		"level": "N4",
 		"category": "places",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "toshokan de hon o kari mashi ta ."
 	},
 	{
 		"kanji": "郵便局",
@@ -1181,7 +1280,8 @@
 		"example_english": "I sent a parcel at the post office.",
 		"level": "N4",
 		"category": "places",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "yūbin kyoku de nimotsu o okuri mashi ta ."
 	},
 	{
 		"kanji": "銀行",
@@ -1192,7 +1292,8 @@
 		"example_english": "I withdrew money at the bank.",
 		"level": "N4",
 		"category": "places",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "ginkō de okane o hikidashi mashi ta ."
 	},
 	{
 		"kanji": "市場",
@@ -1203,7 +1304,8 @@
 		"example_english": "I went to the market early in the morning and bought vegetables.",
 		"level": "N4",
 		"category": "places",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "asa hayaku shijō ni itte yasai o kai mashi ta ."
 	},
 	{
 		"kanji": "工場",
@@ -1214,7 +1316,8 @@
 		"example_english": "My father works at a factory.",
 		"level": "N4",
 		"category": "places",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "chichi wa kōjō de hatarai te i masu ."
 	},
 	{
 		"kanji": "港",
@@ -1225,7 +1328,8 @@
 		"example_english": "Ships depart from the harbour.",
 		"level": "N4",
 		"category": "places",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "minato kara fune ga de te i masu ."
 	},
 	{
 		"kanji": "島",
@@ -1236,9 +1340,9 @@
 		"example_english": "Okinawa is a beautiful island.",
 		"level": "N4",
 		"category": "places",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "okinawa wa utsukushii shima desu ."
 	},
-
 	{
 		"kanji": "集める",
 		"hiragana": "あつめる",
@@ -1248,7 +1352,8 @@
 		"example_english": "I like collecting stamps.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-ru"
+		"part": "verb-ru",
+		"example_romaji": "kitte o atsumeru no ga suki desu ."
 	},
 	{
 		"kanji": "集まる",
@@ -1259,7 +1364,8 @@
 		"example_english": "Friends gathered in the park.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "tomodachi ga kōen ni atsumari mashi ta ."
 	},
 	{
 		"kanji": "謝る",
@@ -1270,7 +1376,8 @@
 		"example_english": "I apologised because I made a mistake.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "machigae ta node ayamari mashi ta ."
 	},
 	{
 		"kanji": "送る",
@@ -1281,7 +1388,8 @@
 		"example_english": "I sent an email to a friend.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "tomodachi ni mēru o okuri mashi ta ."
 	},
 	{
 		"kanji": "落とす",
@@ -1292,7 +1400,8 @@
 		"example_english": "I accidentally dropped my wallet.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "saifu o otoshi te shimai mashi ta ."
 	},
 	{
 		"kanji": "考える",
@@ -1303,7 +1412,8 @@
 		"example_english": "I am thinking about the future.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-ru"
+		"part": "verb-ru",
+		"example_romaji": "shōrai no koto o kangae te i masu ."
 	},
 	{
 		"kanji": "決める",
@@ -1314,7 +1424,8 @@
 		"example_english": "Let's decide which restaurant to go to.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-ru"
+		"part": "verb-ru",
+		"example_romaji": "dono resutoran ni iku ka kime masho u ."
 	},
 	{
 		"kanji": "比べる",
@@ -1325,7 +1436,8 @@
 		"example_english": "I compared two products.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-ru"
+		"part": "verb-ru",
+		"example_romaji": "futatsu no shōhin o kurabe mashi ta ."
 	},
 	{
 		"kanji": "続ける",
@@ -1336,7 +1448,8 @@
 		"example_english": "I am continuing to study every day.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-ru"
+		"part": "verb-ru",
+		"example_romaji": "mainichi no benkyō o tsuzuke te i masu ."
 	},
 	{
 		"kanji": "伝える",
@@ -1347,7 +1460,8 @@
 		"example_english": "I conveyed something important to my family.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-ru"
+		"part": "verb-ru",
+		"example_romaji": "taisetsu na koto o kazoku ni tsutae mashi ta ."
 	},
 	{
 		"kanji": "直す",
@@ -1358,7 +1472,8 @@
 		"example_english": "Please correct the mistakes.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "machigai o naoshi te kudasai ."
 	},
 	{
 		"kanji": "慣れる",
@@ -1369,7 +1484,8 @@
 		"example_english": "I finally got used to the new job.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-ru"
+		"part": "verb-ru",
+		"example_romaji": "atarashii shigoto ni yatto nare mashi ta ."
 	},
 	{
 		"kanji": "逃げる",
@@ -1380,7 +1496,8 @@
 		"example_english": "I escaped from a dangerous place.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-ru"
+		"part": "verb-ru",
+		"example_romaji": "kiken na basho kara nige mashi ta ."
 	},
 	{
 		"kanji": "払う",
@@ -1391,7 +1508,8 @@
 		"example_english": "I paid at the cash register.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "reji de okane o harai mashi ta ."
 	},
 	{
 		"kanji": "踊る",
@@ -1402,7 +1520,8 @@
 		"example_english": "I danced at the party.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "pātī de odori mashi ta ."
 	},
 	{
 		"kanji": "引っ越す",
@@ -1413,7 +1532,8 @@
 		"example_english": "I will move to a new apartment next month.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "raigetsu atarashii apāto ni hikkoshi masu ."
 	},
 	{
 		"kanji": "捨てる",
@@ -1424,7 +1544,8 @@
 		"example_english": "I threw away old clothes.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-ru"
+		"part": "verb-ru",
+		"example_romaji": "furui fuku o sute mashi ta ."
 	},
 	{
 		"kanji": "選ぶ",
@@ -1435,7 +1556,8 @@
 		"example_english": "Please choose your favourite dish from the menu.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "menyū kara suki na ryōri o eran de kudasai ."
 	},
 	{
 		"kanji": "招待する",
@@ -1446,7 +1568,8 @@
 		"example_english": "I invited friends to my birthday party.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-irregular"
+		"part": "verb-irregular",
+		"example_romaji": "tanjō bi pātī ni tomodachi o shōtai shi mashi ta ."
 	},
 	{
 		"kanji": "調べる",
@@ -1457,7 +1580,8 @@
 		"example_english": "I looked it up on the internet.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-ru"
+		"part": "verb-ru",
+		"example_romaji": "intānetto de shirabe mashi ta ."
 	},
 	{
 		"kanji": "知らせる",
@@ -1468,7 +1592,8 @@
 		"example_english": "Please let me know when the result is out.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-ru"
+		"part": "verb-ru",
+		"example_romaji": "kekka ga de tara shirase te kudasai ."
 	},
 	{
 		"kanji": "参加する",
@@ -1479,7 +1604,8 @@
 		"example_english": "I participated in a marathon event.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-irregular"
+		"part": "verb-irregular",
+		"example_romaji": "marason taikai ni sanka shi mashi ta ."
 	},
 	{
 		"kanji": "相談する",
@@ -1490,7 +1616,8 @@
 		"example_english": "If you have any problems, please consult your teacher.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-irregular"
+		"part": "verb-irregular",
+		"example_romaji": "komatta koto ga are ba sensei ni sōdan shi te kudasai ."
 	},
 	{
 		"kanji": "断る",
@@ -1501,7 +1628,8 @@
 		"example_english": "I declined the invitation because I was busy.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "isogashikatta node sasoi o kotowari mashi ta ."
 	},
 	{
 		"kanji": "思い出す",
@@ -1512,9 +1640,9 @@
 		"example_english": "I recalled an old friend.",
 		"level": "N4",
 		"category": "verbs",
-		"part": "verb-u"
+		"part": "verb-u",
+		"example_romaji": "mukashi no tomodachi no koto o omoidashi mashi ta ."
 	},
-
 	{
 		"kanji": "安全",
 		"hiragana": "あんぜん",
@@ -1524,7 +1652,8 @@
 		"example_english": "It is a park where children can play safely.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "kodomo ga anzen ni asoberu kōen desu ."
 	},
 	{
 		"kanji": "危険",
@@ -1535,7 +1664,8 @@
 		"example_english": "It is dangerous to walk alone at night.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "yoru ichi nin de aruku no wa kiken desu ."
 	},
 	{
 		"kanji": "複雑",
@@ -1546,7 +1676,8 @@
 		"example_english": "This problem is complicated.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "kono mondai wa fukuzatsu desu ."
 	},
 	{
 		"kanji": "丁寧",
@@ -1557,7 +1688,8 @@
 		"example_english": "He always speaks politely.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "kare wa itsumo teinei ni hanashi masu ."
 	},
 	{
 		"kanji": "親切",
@@ -1568,7 +1700,8 @@
 		"example_english": "A kind person showed me the way.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "shinsetsu na hito ni michi o oshie te morai mashi ta ."
 	},
 	{
 		"kanji": "真面目",
@@ -1579,7 +1712,8 @@
 		"example_english": "She is a diligent student.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "kanojo wa majime na gakusei desu ."
 	},
 	{
 		"kanji": "不便",
@@ -1590,7 +1724,8 @@
 		"example_english": "It's inconvenient because there are few buses.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "basu ga sukunai node fuben desu ."
 	},
 	{
 		"kanji": "正しい",
@@ -1601,7 +1736,8 @@
 		"example_english": "Please tell me the correct answer.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "tadashii kotae o oshie te kudasai ."
 	},
 	{
 		"kanji": "珍しい",
@@ -1612,7 +1748,8 @@
 		"example_english": "This snack is unusual.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "kono okashi wa mezurashii desu ."
 	},
 	{
 		"kanji": "深い",
@@ -1623,7 +1760,8 @@
 		"example_english": "This pond is very deep.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "kono ike wa totemo fukai desu ."
 	},
 	{
 		"kanji": "浅い",
@@ -1634,7 +1772,8 @@
 		"example_english": "This river is shallow.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "kono kawa wa asai desu ."
 	},
 	{
 		"kanji": "柔らかい",
@@ -1645,7 +1784,8 @@
 		"example_english": "This bread is very soft.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "kono pan wa totemo yawarakai desu ."
 	},
 	{
 		"kanji": "硬い",
@@ -1656,7 +1796,8 @@
 		"example_english": "This meat is a little tough.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "kono niku wa sukoshi katai desu ."
 	},
 	{
 		"kanji": "苦い",
@@ -1667,7 +1808,8 @@
 		"example_english": "This coffee is bitter.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "kono kōhī wa nigai desu ."
 	},
 	{
 		"kanji": "厳しい",
@@ -1678,7 +1820,8 @@
 		"example_english": "My teacher is very strict.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "i-adjective"
+		"part": "i-adjective",
+		"example_romaji": "watashi no sensei wa totemo kibishii desu ."
 	},
 	{
 		"kanji": "上手",
@@ -1689,7 +1832,8 @@
 		"example_english": "She is very good at Japanese.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "kanojo wa nihongo ga totemo jōzu desu ."
 	},
 	{
 		"kanji": "下手",
@@ -1700,7 +1844,8 @@
 		"example_english": "I am bad at cooking.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "watashi wa ryōri ga heta desu ."
 	},
 	{
 		"kanji": "大切",
@@ -1711,7 +1856,8 @@
 		"example_english": "Family is a very precious existence.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "kazoku wa totemo taisetsu na sonzai desu ."
 	},
 	{
 		"kanji": "必要",
@@ -1722,7 +1868,8 @@
 		"example_english": "Is a visa necessary?",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "biza ga hitsuyō desu ka ?"
 	},
 	{
 		"kanji": "十分",
@@ -1733,9 +1880,9 @@
 		"example_english": "There is enough time.",
 		"level": "N4",
 		"category": "adjectives",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "jikan wa jūbun ari masu ."
 	},
-
 	{
 		"kanji": "だいたい",
 		"hiragana": "だいたい",
@@ -1745,7 +1892,8 @@
 		"example_english": "It takes roughly one hour.",
 		"level": "N4",
 		"category": "adverbs",
-		"part": "adverb"
+		"part": "adverb",
+		"example_romaji": "daitai ichi jikan kakari masu ."
 	},
 	{
 		"kanji": "たいてい",
@@ -1756,7 +1904,8 @@
 		"example_english": "I usually wake up at eight.",
 		"level": "N4",
 		"category": "adverbs",
-		"part": "adverb"
+		"part": "adverb",
+		"example_romaji": "taitei hachi ji ni oki masu ."
 	},
 	{
 		"kanji": "なるべく",
@@ -1767,7 +1916,8 @@
 		"example_english": "Please come as early as possible.",
 		"level": "N4",
 		"category": "adverbs",
-		"part": "adverb"
+		"part": "adverb",
+		"example_romaji": "narubeku hayaku ki te kudasai ."
 	},
 	{
 		"kanji": "ぜひ",
@@ -1778,7 +1928,8 @@
 		"example_english": "Please come by all means.",
 		"level": "N4",
 		"category": "adverbs",
-		"part": "adverb"
+		"part": "adverb",
+		"example_romaji": "zehi ichido ki te kudasai ."
 	},
 	{
 		"kanji": "もちろん",
@@ -1789,7 +1940,8 @@
 		"example_english": "Of course I will help.",
 		"level": "N4",
 		"category": "adverbs",
-		"part": "adverb"
+		"part": "adverb",
+		"example_romaji": "mochiron tetsudai masu ."
 	},
 	{
 		"kanji": "特に",
@@ -1800,7 +1952,8 @@
 		"example_english": "I particularly like sushi.",
 		"level": "N4",
 		"category": "adverbs",
-		"part": "adverb"
+		"part": "adverb",
+		"example_romaji": "tokuni sushi ga suki desu ."
 	},
 	{
 		"kanji": "まず",
@@ -1811,7 +1964,8 @@
 		"example_english": "First of all, please wash your hands.",
 		"level": "N4",
 		"category": "adverbs",
-		"part": "adverb"
+		"part": "adverb",
+		"example_romaji": "mazu te o aratte kudasai ."
 	},
 	{
 		"kanji": "やっと",
@@ -1822,7 +1976,8 @@
 		"example_english": "I finally finished my homework.",
 		"level": "N4",
 		"category": "adverbs",
-		"part": "adverb"
+		"part": "adverb",
+		"example_romaji": "yatto shukudai ga owari mashi ta ."
 	},
 	{
 		"kanji": "すっかり",
@@ -1833,7 +1988,8 @@
 		"example_english": "I had completely forgotten.",
 		"level": "N4",
 		"category": "adverbs",
-		"part": "adverb"
+		"part": "adverb",
+		"example_romaji": "sukkari wasure te i mashi ta ."
 	},
 	{
 		"kanji": "だんだん",
@@ -1844,7 +2000,8 @@
 		"example_english": "I am gradually getting better at Japanese.",
 		"level": "N4",
 		"category": "adverbs",
-		"part": "adverb"
+		"part": "adverb",
+		"example_romaji": "dandan nihongo ga jōzu ni natte i masu ."
 	},
 	{
 		"kanji": "なかなか",
@@ -1855,7 +2012,8 @@
 		"example_english": "It is quite a difficult problem.",
 		"level": "N4",
 		"category": "adverbs",
-		"part": "adverb"
+		"part": "adverb",
+		"example_romaji": "nakanaka muzukashii mondai desu ."
 	},
 	{
 		"kanji": "さっき",
@@ -1866,7 +2024,8 @@
 		"example_english": "There was a phone call a short while ago.",
 		"level": "N4",
 		"category": "adverbs",
-		"part": "adverb"
+		"part": "adverb",
+		"example_romaji": "sakki denwa ga ari mashi ta ."
 	},
 	{
 		"kanji": "そろそろ",
@@ -1877,9 +2036,9 @@
 		"example_english": "It's about time to leave.",
 		"level": "N4",
 		"category": "adverbs",
-		"part": "adverb"
+		"part": "adverb",
+		"example_romaji": "sorosoro dekakeru jikan desu ."
 	},
-
 	{
 		"kanji": "意見",
 		"hiragana": "いけん",
@@ -1889,7 +2048,8 @@
 		"example_english": "Please listen to everyone's opinion.",
 		"level": "N4",
 		"category": "communication",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "minna no iken o kii te kudasai ."
 	},
 	{
 		"kanji": "理由",
@@ -1900,7 +2060,8 @@
 		"example_english": "Please tell me the reason you were absent.",
 		"level": "N4",
 		"category": "communication",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kesseki shi ta riyū o oshie te kudasai ."
 	},
 	{
 		"kanji": "返事",
@@ -1911,7 +2072,8 @@
 		"example_english": "I wrote a reply to the email.",
 		"level": "N4",
 		"category": "communication",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "mēru ni henji o kaki mashi ta ."
 	},
 	{
 		"kanji": "約束",
@@ -1922,7 +2084,8 @@
 		"example_english": "I kept my promise with my friend.",
 		"level": "N4",
 		"category": "communication",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "tomodachi to no yakusoku o mamori mashi ta ."
 	},
 	{
 		"kanji": "話し合い",
@@ -1933,7 +2096,8 @@
 		"example_english": "We had a group discussion.",
 		"level": "N4",
 		"category": "communication",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "gurūpu de hanashiai o shi mashi ta ."
 	},
 	{
 		"kanji": "挨拶",
@@ -1944,7 +2108,8 @@
 		"example_english": "In the morning I greet my neighbours.",
 		"level": "N4",
 		"category": "communication",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "asa , kinjo no hito ni aisatsu o shi masu ."
 	},
 	{
 		"kanji": "お礼",
@@ -1955,7 +2120,8 @@
 		"example_english": "I thanked the person who helped me.",
 		"level": "N4",
 		"category": "communication",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "tasuke te kure ta hito ni orei o ii mashi ta ."
 	},
 	{
 		"kanji": "お祝い",
@@ -1966,7 +2132,8 @@
 		"example_english": "We had a birthday celebration.",
 		"level": "N4",
 		"category": "communication",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "tanjō bi no oiwai o shi mashi ta ."
 	},
 	{
 		"kanji": "お見舞い",
@@ -1977,9 +2144,9 @@
 		"example_english": "I visited my friend who was hospitalised.",
 		"level": "N4",
 		"category": "communication",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "nyūin shi ta tomodachi no o mimai ni iki mashi ta ."
 	},
-
 	{
 		"kanji": "生活",
 		"hiragana": "せいかつ",
@@ -1989,7 +2156,8 @@
 		"example_english": "I have got used to life in Japan.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "nippon de no seikatsu ni nare te ki mashi ta ."
 	},
 	{
 		"kanji": "買い物",
@@ -2000,7 +2168,8 @@
 		"example_english": "I go shopping at the supermarket on weekends.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "shūmatsu ni sūpā de kaimono o shi masu ."
 	},
 	{
 		"kanji": "料理",
@@ -2011,7 +2180,8 @@
 		"example_english": "I like my mother's cooking the most.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "haha no ryōri ga ichiban suki desu ."
 	},
 	{
 		"kanji": "洗濯",
@@ -2022,7 +2192,8 @@
 		"example_english": "I do laundry every weekend.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "maishū matsu sentaku o shi masu ."
 	},
 	{
 		"kanji": "掃除",
@@ -2033,7 +2204,8 @@
 		"example_english": "I clean my room every morning.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "maiasa heya no sōji o shi masu ."
 	},
 	{
 		"kanji": "着替え",
@@ -2044,7 +2216,8 @@
 		"example_english": "I changed clothes immediately after coming home.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kaette sugu kigae mashi ta ."
 	},
 	{
 		"kanji": "引き出し",
@@ -2055,7 +2228,8 @@
 		"example_english": "I keep important things in the drawer.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "hikidashi ni taisetsu na mono o ire te i masu ."
 	},
 	{
 		"kanji": "押し入れ",
@@ -2066,7 +2240,8 @@
 		"example_english": "I store the futon in the closet.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "oshiire ni futon o shimai masu ."
 	},
 	{
 		"kanji": "布団",
@@ -2077,7 +2252,8 @@
 		"example_english": "I air out the futon every morning.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "maiasa futon o hoshi masu ."
 	},
 	{
 		"kanji": "住所",
@@ -2088,7 +2264,8 @@
 		"example_english": "Could you tell me your address?",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "jūsho o oshie te morae masu ka ?"
 	},
 	{
 		"kanji": "近く",
@@ -2099,7 +2276,8 @@
 		"example_english": "I live near the station.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "eki no chikaku ni sun de i masu ."
 	},
 	{
 		"kanji": "途中",
@@ -2110,7 +2288,8 @@
 		"example_english": "I stopped by a convenience store on the way home.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kaeri tochū ni kombini ni yori mashi ta ."
 	},
 	{
 		"kanji": "場合",
@@ -2121,7 +2300,8 @@
 		"example_english": "In case of emergency, please contact us immediately.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kinkyū no baai wa sugu ni renraku shi te kudasai ."
 	},
 	{
 		"kanji": "安心する",
@@ -2132,7 +2312,8 @@
 		"example_english": "I felt relieved when you returned safely.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "verb-irregular"
+		"part": "verb-irregular",
+		"example_romaji": "buji ni kaette anshin shi mashi ta ."
 	},
 	{
 		"kanji": "心配する",
@@ -2143,9 +2324,9 @@
 		"example_english": "Everyone worried because it got late.",
 		"level": "N4",
 		"category": "daily-life",
-		"part": "verb-irregular"
+		"part": "verb-irregular",
+		"example_romaji": "osoku natte minna ga shimpai shi mashi ta ."
 	},
-
 	{
 		"kanji": "将来",
 		"hiragana": "しょうらい",
@@ -2155,7 +2336,8 @@
 		"example_english": "In the future I want to become a teacher.",
 		"level": "N4",
 		"category": "abstract",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "shōrai wa kyōshi ni nari tai desu ."
 	},
 	{
 		"kanji": "目的",
@@ -2166,7 +2348,8 @@
 		"example_english": "The purpose of studying abroad is to improve my Japanese.",
 		"level": "N4",
 		"category": "abstract",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "ryūgaku no mokuteki wa nihongo o jōzu ni suru koto desu ."
 	},
 	{
 		"kanji": "関係",
@@ -2177,7 +2360,8 @@
 		"example_english": "There is a connection between the two incidents.",
 		"level": "N4",
 		"category": "abstract",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "futatsu no jiken ni kankei ga ari masu ."
 	},
 	{
 		"kanji": "影響",
@@ -2188,7 +2372,8 @@
 		"example_english": "The weather has an effect on your mood.",
 		"level": "N4",
 		"category": "abstract",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "tenki wa kibun ni eikyō shi masu ."
 	},
 	{
 		"kanji": "変化",
@@ -2199,7 +2384,8 @@
 		"example_english": "Please be careful of changes in temperature.",
 		"level": "N4",
 		"category": "abstract",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kion no henka ni ki o tsuke te kudasai ."
 	},
 	{
 		"kanji": "問題",
@@ -2210,7 +2396,8 @@
 		"example_english": "Let's solve this problem together.",
 		"level": "N4",
 		"category": "abstract",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "kono mondai o issho ni kaiketsu shi masho u ."
 	},
 	{
 		"kanji": "方法",
@@ -2221,7 +2408,8 @@
 		"example_english": "There is a better method.",
 		"level": "N4",
 		"category": "abstract",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "motto yoi hōhō ga ari masu ."
 	},
 	{
 		"kanji": "場所",
@@ -2232,7 +2420,8 @@
 		"example_english": "Where is the meeting place?",
 		"level": "N4",
 		"category": "abstract",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "machiawase no basho wa doko desu ka ?"
 	},
 	{
 		"kanji": "理解",
@@ -2243,7 +2432,8 @@
 		"example_english": "I understood the teacher's explanation well.",
 		"level": "N4",
 		"category": "abstract",
-		"part": "noun"
+		"part": "noun",
+		"example_romaji": "sensei no setsumei o yoku rikai shi mashi ta ."
 	},
 	{
 		"kanji": "自由",
@@ -2254,6 +2444,7 @@
 		"example_english": "Please feel free to express your opinion.",
 		"level": "N4",
 		"category": "abstract",
-		"part": "na-adjective"
+		"part": "na-adjective",
+		"example_romaji": "jiyū ni iken o itte kudasai ."
 	}
 ]
