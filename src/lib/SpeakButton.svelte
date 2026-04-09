@@ -55,10 +55,7 @@
 			mounted = false;
 			window.speechSynthesis.removeEventListener('voiceschanged', loadVoices);
 			if (pendingVoicesChangedHandler) {
-				window.speechSynthesis.removeEventListener(
-					'voiceschanged',
-					pendingVoicesChangedHandler
-				);
+				window.speechSynthesis.removeEventListener('voiceschanged', pendingVoicesChangedHandler);
 				pendingVoicesChangedHandler = null;
 			}
 		};
@@ -99,20 +96,15 @@
 		} else {
 			// Voices not yet loaded (common on Android) — wait for them
 			if (pendingVoicesChangedHandler) {
-				window.speechSynthesis.removeEventListener(
-					'voiceschanged',
-					pendingVoicesChangedHandler
-				);
+				window.speechSynthesis.removeEventListener('voiceschanged', pendingVoicesChangedHandler);
 			}
 			pendingVoicesChangedHandler = () => {
 				pendingVoicesChangedHandler = null;
 				doSpeak();
 			};
-			window.speechSynthesis.addEventListener(
-				'voiceschanged',
-				pendingVoicesChangedHandler,
-				{ once: true }
-			);
+			window.speechSynthesis.addEventListener('voiceschanged', pendingVoicesChangedHandler, {
+				once: true
+			});
 		}
 	}
 </script>

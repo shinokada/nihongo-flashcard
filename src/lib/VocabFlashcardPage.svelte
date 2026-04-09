@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { onMount, untrack } from 'svelte';
+	import { browser } from '$app/environment';
 	import { Flashcard, ArrowLeft, ArrowRight } from '$lib';
 	import SpeakButton from '$lib/SpeakButton.svelte';
 	import { Button } from 'flowbite-svelte';
@@ -15,9 +16,24 @@
 	type Mode = 'japeng' | 'engjap';
 	type DeckItem = { entry: VocabEntry; front: string; back: string; speakWord: string };
 
-	let mode = $state<Mode>('japeng');
+	const LS_MODE = 'vocab-flashcard-mode';
+	const LS_SHOW_EXAMPLE = 'vocab-flashcard-show-example';
+
+	function getInitialMode(): Mode {
+		if (!browser) return 'japeng';
+		const saved = localStorage.getItem(LS_MODE);
+		return saved === 'japeng' || saved === 'engjap' ? saved : 'japeng';
+	}
+
+	function getInitialShowExample(): boolean {
+		if (!browser) return false;
+		return localStorage.getItem(LS_SHOW_EXAMPLE) === 'true';
+	}
+
+	let mode = $state<Mode>(getInitialMode());
+	let showExampleDefault = $state(getInitialShowExample());
 	let showCardBack = $state(false);
-	let showExampleEnglish = $state(false);
+	let showExampleEnglish = $state(getInitialShowExample());
 	let deck = $state<DeckItem[]>([]);
 	let currentIndex = $state(0);
 	let completed = $state(false);
@@ -63,12 +79,12 @@
 		currentIndex = 0;
 		completed = false;
 		showCardBack = false;
-		showExampleEnglish = false;
+		showExampleEnglish = showExampleDefault;
 	}
 
 	function resetCardState() {
 		showCardBack = false;
-		showExampleEnglish = false;
+		showExampleEnglish = showExampleDefault;
 	}
 
 	function restart() {
@@ -78,6 +94,7 @@
 	function setMode(m: Mode) {
 		if (m === mode) return;
 		mode = m;
+		localStorage.setItem(LS_MODE, m);
 		buildDeck(entries, m);
 	}
 
@@ -136,6 +153,13 @@
 		else if (dx > 30) prev();
 	}
 
+	function toggleShowExampleEnglish() {
+		const next = !showExampleEnglish;
+		showExampleEnglish = next;
+		showExampleDefault = next;
+		localStorage.setItem(LS_SHOW_EXAMPLE, String(next));
+	}
+
 	function handleKeyDown(e: KeyboardEvent) {
 		const target = e.target as HTMLElement | null;
 		if (
@@ -161,7 +185,7 @@
 			restart();
 		} else if (!completed && current?.entry.example_english && (e.key === 'e' || e.key === 'E')) {
 			e.preventDefault();
-			showExampleEnglish = !showExampleEnglish;
+			toggleShowExampleEnglish();
 		} else if (!completed && current && e.key === '/') {
 			e.preventDefault();
 			wordSpeakButton?.speak();
@@ -293,7 +317,7 @@
 					<button
 						type="button"
 						class="text-sm text-blue-600 hover:underline dark:text-blue-400"
-						onclick={() => (showExampleEnglish = !showExampleEnglish)}
+						onclick={toggleShowExampleEnglish}
 					>
 						{showExampleEnglish ? 'Hide translation' : 'Show translation'}
 					</button>
@@ -307,7 +331,8 @@
 		{#if isTouch}
 			Tap to flip · swipe ←/→ to navigate
 		{:else}
-			Space/Enter/↑↓ to flip · ← → to navigate · R to restart · E to toggle translation · / to pronounce word · . to pronounce example
+			Space/Enter/↑↓ to flip · ← → to navigate · R to restart · E to toggle translation · / to
+			pronounce word · . to pronounce example
 		{/if}
 	</p>
 
