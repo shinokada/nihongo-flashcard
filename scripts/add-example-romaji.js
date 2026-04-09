@@ -1,3 +1,4 @@
+// This script adds romaji readings for example sentences in vocab-n5.json and vocab-n4.json.
 import KuroshiroModule from 'kuroshiro';
 import KuromojiAnalyzer from 'kuroshiro-analyzer-kuromoji';
 const Kuroshiro = KuroshiroModule.default ?? KuroshiroModule;

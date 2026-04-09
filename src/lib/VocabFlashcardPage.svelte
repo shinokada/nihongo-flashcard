@@ -153,6 +153,13 @@
 		else if (dx > 30) prev();
 	}
 
+	function toggleShowExampleEnglish() {
+		const next = !showExampleEnglish;
+		showExampleEnglish = next;
+		showExampleDefault = next;
+		localStorage.setItem(LS_SHOW_EXAMPLE, String(next));
+	}
+
 	function handleKeyDown(e: KeyboardEvent) {
 		const target = e.target as HTMLElement | null;
 		if (
@@ -178,9 +185,7 @@
 			restart();
 		} else if (!completed && current?.entry.example_english && (e.key === 'e' || e.key === 'E')) {
 			e.preventDefault();
-			showExampleEnglish = !showExampleEnglish;
-			showExampleDefault = showExampleEnglish;
-			localStorage.setItem(LS_SHOW_EXAMPLE, String(showExampleEnglish));
+			toggleShowExampleEnglish();
 		} else if (!completed && current && e.key === '/') {
 			e.preventDefault();
 			wordSpeakButton?.speak();
@@ -312,11 +317,7 @@
 					<button
 						type="button"
 						class="text-sm text-blue-600 hover:underline dark:text-blue-400"
-						onclick={() => {
-							showExampleEnglish = !showExampleEnglish;
-							showExampleDefault = showExampleEnglish;
-							localStorage.setItem(LS_SHOW_EXAMPLE, String(showExampleEnglish));
-						}}
+						onclick={toggleShowExampleEnglish}
 					>
 						{showExampleEnglish ? 'Hide translation' : 'Show translation'}
 					</button>

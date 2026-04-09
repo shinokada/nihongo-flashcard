@@ -8,7 +8,8 @@
 	afterNavigate(async ({ from }) => {
 		if (from !== null) return;
 		const last = localStorage.getItem('last-flashcard-path');
-		if (last && validFlashcardPathPattern.test(last)) {
+		const currentPath = window.location.pathname;
+		if (last && last !== currentPath && validFlashcardPathPattern.test(last)) {
 			try {
 				// eslint-disable-next-line svelte/no-navigation-without-resolve
 				await goto(last, { replaceState: true });

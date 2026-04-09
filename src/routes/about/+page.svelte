@@ -50,7 +50,7 @@
 	<Heading tag="h2" class="text-2xl">Technical info</Heading>
 	<List class="list-disc text-left text-lg dark:text-gray-400">
 		<Li class="hover:text-red-700 hover:underline">
-			<A href="https://norske-flashcard.codewithshin.com/" class="me-4 hover:underline md:me-6"
+			<A href="https://nihongo-flashcard.codewithshin.com/" class="me-4 hover:underline md:me-6"
 				>{removeHyphensAndCapitalize(name)} : {version}</A
 			>
 		</Li>
