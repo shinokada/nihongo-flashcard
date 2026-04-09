@@ -1,16 +1,21 @@
 {
 	"name": "Nihongo Flashcard",
-	"short_name": "Nihongo Flashcard",
+	"short_name": "NihongoCard",
+	"description": "Japanese vocabulary flashcard app for JLPT N4 and N5",
+	"start_url": "/",
+	"scope": "/",
 	"icons": [
 		{
 			"src": "/android-chrome-192x192.png",
 			"sizes": "192x192",
-			"type": "image/png"
+			"type": "image/png",
+			"purpose": "any"
 		},
 		{
 			"src": "/android-chrome-512x512.png",
 			"sizes": "512x512",
-			"type": "image/png"
+			"type": "image/png",
+			"purpose": "any maskable"
 		}
 	],
 	"theme_color": "#ffffff",
