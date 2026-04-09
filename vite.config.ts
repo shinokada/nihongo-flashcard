@@ -29,12 +29,8 @@ export default defineConfig(({ mode }) => ({
 					{
 						src: '/android-chrome-192x192.png',
 						sizes: '192x192',
-						type: 'image/png'
-					},
-					{
-						src: '/android-chrome-512x512.png',
-						sizes: '512x512',
-						type: 'image/png'
+						type: 'image/png',
+						purpose: 'any'
 					},
 					{
 						src: '/android-chrome-512x512.png',
@@ -46,14 +42,11 @@ export default defineConfig(({ mode }) => ({
 			},
 			workbox: {
 				globPatterns:
-					mode === 'production'
-						? ['client/**/*.{js,css,html,ico,png,svg,webp,woff,woff2}']
-						: [],
+					mode === 'production' ? ['client/**/*.{js,css,html,ico,png,svg,webp,woff,woff2}'] : [],
 				navigateFallback: null,
 				runtimeCaching: [
 					{
-						urlPattern: ({ request }: { request: Request }) =>
-							request.destination === 'document',
+						urlPattern: ({ request }: { request: Request }) => request.destination === 'document',
 						handler: 'NetworkFirst' as const,
 						options: {
 							cacheName: 'pages-cache',

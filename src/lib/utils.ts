@@ -1,5 +1,5 @@
 export const validFlashcardPathPattern = /^(\/|\/about|\/n(?:4|5)\/[a-z]+(?:-[a-z]+)*)$/;
-export const saveablePathPattern = /^\/n(?:4|5)\/[a-z]+(?:-[a-z]+)*$/
+export const saveablePathPattern = /^\/n(?:4|5)\/[a-z]+(?:-[a-z]+)*$/;
 
 export function removeHyphensAndCapitalize(str: string) {
 	// Handle empty string or strings without '-'
