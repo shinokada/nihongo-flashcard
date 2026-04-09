@@ -1,5 +1,19 @@
 # nihongo-flashcard
 
+## 1.5.0
+
+### Minor Changes
+
+- feat: Flashcard UI now persists mode and example-translation preferences and restores last-viewed flashcard on return.
+
+  style: About page typography and list styling standardized with componentized elements.
+
+  tests: Added end-to-end and unit tests for flashcard flows, persistence, and path validation.
+
+  chores: Removed several obsolete UI components, utility helpers, a demo test, and an unused publish script.
+
+  refactor: Minor cleanup of speech/voice control code.
+
 ## 1.4.0
 
 ### Minor Changes
