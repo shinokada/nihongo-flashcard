@@ -1,5 +1,6 @@
 <script>
 	import { removeHyphensAndCapitalize } from '$lib/utils';
+	import { A, P, Heading, List, Li } from 'flowbite-svelte';
 
 	const name = __NAME__;
 	const version = __VERSION__;
@@ -9,74 +10,74 @@
 </script>
 
 <div class="mx-auto max-w-4xl px-8 text-left">
-	<h1>About</h1>
-	<p>
+	<Heading tag="h1" class="text-3xl">About</Heading>
+	<P>
 		Nihongo-Flashcard is for Japanese learners who want to learn Japanese vocabulary. There are
 		different levels of flashcards: 1K words, Verbs, Adjectives, Gairaigo, and Onomatopoeia.
-	</p>
+	</P>
 
-	<h2>LexiLearn Hub Apps</h2>
+	<Heading tag="h2" class="text-2xl">LexiLearn Hub Apps</Heading>
 
-	<ul class="m-4 list-disc p-4 text-left text-lg dark:text-gray-400">
-		<li class="hover:text-red-700 hover:underline">
-			<a href="https://gjett-norsk.codewithshin.com/" class="me-4 hover:underline md:me-6"
-				>Gjett Norsk</a
+	<List class="list-disc text-left text-lg dark:text-gray-400">
+		<Li class="hover:text-red-700 hover:underline">
+			<A href="https://gjett-norsk.codewithshin.com/" class="me-4 hover:underline md:me-6"
+				>Gjett Norsk</A
 			>
-		</li>
-		<li class="hover:text-red-700 hover:underline">
-			<a
+		</Li>
+		<Li class="hover:text-red-700 hover:underline">
+			<A
 				href="https://multilanguage-flashcard.codewithshin.com/"
-				class="me-4 hover:underline md:me-6">Multilanguage flashcard</a
+				class="me-4 hover:underline md:me-6">Multilanguage flashcard</A
 			>
-		</li>
-		<li class="hover:text-red-700 hover:underline">
-			<a href="https://norske-flashcard.codewithshin.com/" class="me-4 hover:underline md:me-6"
-				>Norske flashcard</a
+		</Li>
+		<Li class="hover:text-red-700 hover:underline">
+			<A href="https://norske-flashcard.codewithshin.com/" class="me-4 hover:underline md:me-6"
+				>Norske flashcard</A
 			>
-		</li>
-		<li class="hover:text-red-700 hover:underline">
-			<a href="https://nihongo-flashcard.codewithshin.com/" class="me-4 hover:underline md:me-6"
-				>Japanese flashcard</a
+		</Li>
+		<Li class="hover:text-red-700 hover:underline">
+			<A href="https://nihongo-flashcard.codewithshin.com/" class="me-4 hover:underline md:me-6"
+				>Japanese flashcard</A
 			>
-		</li>
-		<li class="hover:text-red-700 hover:underline">
-			<a href="https://flexilexi-dictionary.codewithshin.com/" class="me-4 hover:underline md:me-6"
-				>Fexilexi dictionary (English/Norwegian/Japanese)</a
+		</Li>
+		<Li class="hover:text-red-700 hover:underline">
+			<A href="https://flexilexi-dictionary.codewithshin.com/" class="me-4 hover:underline md:me-6"
+				>FlexiLexi dictionary</A
 			>
-		</li>
-	</ul>
+		</Li>
+	</List>
 
-	<h2>Technical info</h2>
-	<ul class="m-4 list-disc p-4 text-left text-lg dark:text-gray-400">
-		<li class="hover:text-red-700 hover:underline">
-			<a href="https://nihongo-flashcard.codewithshin.com/" class="me-4 hover:underline md:me-6"
-				>{removeHyphensAndCapitalize(name)} : {version}</a
+	<Heading tag="h2" class="text-2xl">Technical info</Heading>
+	<List class="list-disc text-left text-lg dark:text-gray-400">
+		<Li class="hover:text-red-700 hover:underline">
+			<A href="https://norske-flashcard.codewithshin.com/" class="me-4 hover:underline md:me-6"
+				>{removeHyphensAndCapitalize(name)} : {version}</A
 			>
-		</li>
-		<li class="hover:text-red-700 hover:underline">
-			<a href="https://svelte.dev" class="me-4 hover:underline md:me-6">Svelte: {svelteVersion}</a>
-		</li>
-		<li>
-			<a href="https://kit.svelte.dev/docs/introduction" class="me-4 hover:underline md:me-6"
-				>SvelteKit: {svelteKitVersion}</a
+		</Li>
+		<Li class="hover:text-red-700 hover:underline">
+			<A href="https://svelte.dev" class="me-4 hover:underline md:me-6">Svelte: {svelteVersion}</A>
+		</Li>
+		<Li class="hover:text-red-700 hover:underline">
+			<A href="https://kit.svelte.dev/docs/introduction" class="me-4 hover:underline md:me-6"
+				>SvelteKit: {svelteKitVersion}</A
 			>
-		</li>
-		<li class="hover:text-red-700 hover:underline">
-			<a href="https://vitejs.dev/" class="hover:underline">Vite: {viteVersion}</a>
-		</li>
-	</ul>
+		</Li>
+		<Li class="hover:text-red-700 hover:underline">
+			<A href="https://vitejs.dev/" class="me-4 hover:underline md:me-6">Vite: {viteVersion}</A>
+		</Li>
+	</List>
 
-	<h2 class="m-4 text-left text-2xl font-bold dark:text-white">Repo</h2>
-	<ul class="m-4 list-disc p-4 text-left text-lg dark:text-gray-400">
-		<li class="hover:text-red-700 hover:underline">
-			<a href="https://github.com/shinokada/nihongo-flashcard" class="me-4 hover:underline md:me-6"
-				>Github repo</a
+	<Heading tag="h2" class="text-2xl">Repo</Heading>
+	<List class="list-disc text-left text-lg dark:text-gray-400">
+		<Li class="hover:text-red-700 hover:underline">
+			<A href="https://github.com/shinokada/nihongo-flashcard" class="me-4 hover:underline md:me-6"
+				>Github repo</A
 			>
-		</li>
-		<li class="hover:text-red-700 hover:underline">
-			<a href="https://codewithshin.com" class="me-4 hover:underline md:me-6"
-				>Presented by codewithshin.com</a
+		</Li>
+		<Li class="hover:text-red-700 hover:underline">
+			<A href="https://codewithshin.com" class="me-4 hover:underline md:me-6"
+				>Author: codewithshin.com</A
 			>
-		</li>
-	</ul>
+		</Li>
+	</List>
 </div>

@@ -1,10 +1,12 @@
 <script>
 	import '../app.css';
+	import { afterNavigate } from '$app/navigation';
 	import { Runatics } from 'runatics';
 	import Nav from './components/Nav.svelte';
 	import Footer from './components/Footer.svelte';
 	import { MetaTags, deepMerge } from 'runes-meta-tags';
 	import { page } from '$app/state';
+	import { validFlashcardPathPattern } from '$lib/utils';
 
 	let { children, data } = $props();
 	let metaTags = $derived(
@@ -14,6 +16,14 @@
 	);
 
 	const analyticsId = $derived(data.ANALYTICS_ID_LANGUAGE_APP);
+
+	// Persist last-visited page on in-app navigations only.
+	// Using afterNavigate (not $effect) so cold-start at / never overwrites the stored path.
+	afterNavigate(({ from, to }) => {
+		if (from !== null && to?.url.pathname && validFlashcardPathPattern.test(to.url.pathname)) {
+			localStorage.setItem('last-flashcard-path', to.url.pathname);
+		}
+	});
 </script>
 
 <Runatics {analyticsId} />
