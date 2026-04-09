@@ -115,6 +115,18 @@ test('navigating to a flashcard page saves it and restores on cold start', async
 	await newPage.close();
 });
 
+test('invalid stored last-flashcard-path is ignored and cleared', async ({ page }) => {
+	await page.goto('/');
+	await page.evaluate(() => localStorage.setItem('last-flashcard-path', '/n9/greetings'));
+
+	// Fresh load at home should not redirect to invalid path
+	await page.reload();
+	await expect(page).toHaveURL('/');
+
+	const saved = await page.evaluate(() => localStorage.getItem('last-flashcard-path'));
+	expect(saved).toBeNull();
+});
+
 test('navigating home via in-app link does NOT overwrite last-visited path', async ({ page }) => {
 	// Land directly on a flashcard page (avoids / redirect logic)
 	await page.goto('/n5/colors');
