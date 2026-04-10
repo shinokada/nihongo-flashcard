@@ -1,5 +1,20 @@
 # nihongo-flashcard
 
+## 1.6.0
+
+### Minor Changes
+
+- feat:
+  - Added PWA support for installability and offline caching
+  - Updated app description to specify JLPT N4/N5 vocabulary focus
+  - Set a site theme color for a consistent browser UI
+
+  fix:
+  - Improved handling of returning to the last-viewed flashcard to reduce incorrect redirects
+
+  chores:
+  - Added PWA development tooling and adjusted build/service worker configuration
+
 ## 1.5.0
 
 ### Minor Changes
