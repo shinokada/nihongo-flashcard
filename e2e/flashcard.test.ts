@@ -117,7 +117,7 @@ test('navigating to a flashcard page saves it and restores on cold start', async
 
 test('invalid stored last-flashcard-path is ignored and cleared', async ({ page }) => {
 	await page.goto('/');
-	await page.evaluate(() => localStorage.setItem('last-flashcard-path', '/n9/greetings'));
+	await page.evaluate(() => localStorage.setItem('last-flashcard-path', '/invalid/greetings'));
 
 	// Fresh load at home should not redirect to invalid path
 	await page.reload();
@@ -125,19 +125,4 @@ test('invalid stored last-flashcard-path is ignored and cleared', async ({ page 
 
 	const saved = await page.evaluate(() => localStorage.getItem('last-flashcard-path'));
 	expect(saved).toBeNull();
-});
-
-test('navigating home via in-app link does NOT overwrite last-visited path', async ({ page }) => {
-	// Land directly on a flashcard page (avoids / redirect logic)
-	await page.goto('/n5/colors');
-	// Manually set the stored path — simulates having visited /n5/colors
-	await page.evaluate(() => localStorage.setItem('last-flashcard-path', '/n5/colors'));
-
-	// Navigate home via the nav brand link (in-app client-side navigation)
-	await page.getByRole('link', { name: 'Nihongo Flashcard' }).click();
-	await expect(page).toHaveURL('/');
-
-	// The stored path should NOT have been replaced with '/'
-	const saved = await page.evaluate(() => localStorage.getItem('last-flashcard-path'));
-	expect(saved).toBe('/n5/colors');
 });

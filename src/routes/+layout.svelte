@@ -6,7 +6,7 @@
 	import Footer from './components/Footer.svelte';
 	import { MetaTags, deepMerge } from 'runes-meta-tags';
 	import { page } from '$app/state';
-	import { saveablePathPattern } from '$lib/utils';
+	import { validFlashcardPathPattern } from '$lib/utils';
 
 	let { children, data } = $props();
 	let metaTags = $derived(
@@ -20,7 +20,7 @@
 	// Persist last-visited page on in-app navigations only.
 	// Using afterNavigate (not $effect) so cold-start at / never overwrites the stored path.
 	afterNavigate(({ from, to }) => {
-		if (from !== null && to?.url.pathname && saveablePathPattern.test(to.url.pathname)) {
+		if (from !== null && to?.url.pathname && validFlashcardPathPattern.test(to.url.pathname)) {
 			localStorage.setItem('last-flashcard-path', to.url.pathname);
 		}
 	});
