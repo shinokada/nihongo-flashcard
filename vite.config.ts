@@ -3,13 +3,64 @@ import { svelteTesting } from '@testing-library/svelte/vite';
 import { sveltekit } from '@sveltejs/kit/vite';
 import { defineConfig } from 'vitest/config';
 import devtoolsJson from 'vite-plugin-devtools-json';
+import { VitePWA } from 'vite-plugin-pwa';
 import pkg from './package.json' with { type: 'json' };
 import sveltePackage from './node_modules/svelte/package.json' with { type: 'json' };
 import svelteKitPackage from './node_modules/@sveltejs/kit/package.json' with { type: 'json' };
 import vitePackage from './node_modules/vite/package.json' with { type: 'json' };
 
-export default defineConfig({
-	plugins: [sveltekit(), tailwindcss(), devtoolsJson()],
+export default defineConfig(({ mode }) => ({
+	plugins: [
+		sveltekit(),
+		tailwindcss(),
+		devtoolsJson(),
+		VitePWA({
+			registerType: 'prompt',
+			manifest: {
+				name: 'Nihongo Flashcard',
+				short_name: 'NihongoCard',
+				description: pkg.description,
+				theme_color: '#ffffff',
+				background_color: '#ffffff',
+				display: 'standalone',
+				scope: '/',
+				start_url: '/',
+				icons: [
+					{
+						src: '/android-chrome-192x192.png',
+						sizes: '192x192',
+						type: 'image/png',
+						purpose: 'any'
+					},
+					{
+						src: '/android-chrome-512x512.png',
+						sizes: '512x512',
+						type: 'image/png',
+						purpose: 'any maskable'
+					}
+				]
+			},
+			workbox: {
+				globPatterns:
+					mode === 'production' ? ['client/**/*.{js,css,html,ico,png,svg,webp,woff,woff2}'] : [],
+				navigateFallback: null,
+				runtimeCaching: [
+					{
+						urlPattern: ({ request }: { request: Request }) => request.destination === 'document',
+						handler: 'NetworkFirst' as const,
+						options: {
+							cacheName: 'pages-cache',
+							expiration: { maxEntries: 50, maxAgeSeconds: 60 * 60 * 24 }
+						}
+					}
+				]
+			},
+			devOptions: {
+				enabled: true,
+				type: 'module'
+			}
+		})
+	],
 	define: {
 		__NAME__: JSON.stringify(pkg.name),
 		__DESCRIPTION__: JSON.stringify(pkg.description),
@@ -46,4 +97,4 @@ export default defineConfig({
 			}
 		]
 	}
-});
+}));
