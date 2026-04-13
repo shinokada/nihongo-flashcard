@@ -1,5 +1,12 @@
 # nihongo-flashcard
 
+## 1.6.3
+
+### Patch Changes
+
+- fix: Voice picker only shows language-appropriate voices (Japanese / Norwegian), or is hidden entirely if none are installed
+  fix: Pronounce button still fires on A04 via voices[0] fallback in doSpeak, using utterance.lang as a hint to the TTS engine — it may not sound great, but it won't silently fail
+
 ## 1.6.2
 
 ### Patch Changes

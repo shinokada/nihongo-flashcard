@@ -38,12 +38,11 @@
 		if (typeof window === 'undefined' || !('speechSynthesis' in window)) return;
 		const all = window.speechSynthesis.getVoices();
 		const jaVoices = all.filter((v) => v.lang.startsWith('ja'));
-		const candidates = jaVoices.length > 0 ? jaVoices : all;
-		if (candidates.length > 0) {
-			japaneseVoices = candidates;
-			if (!selectedVoiceName || !candidates.find((v) => v.name === selectedVoiceName)) {
-				const kyoko = candidates.find((v) => v.name.includes('Kyoko'));
-				selectedVoiceName = (kyoko ?? candidates[0]).name;
+		if (jaVoices.length > 0) {
+			japaneseVoices = jaVoices;
+			if (!selectedVoiceName || !jaVoices.find((v) => v.name === selectedVoiceName)) {
+				const kyoko = jaVoices.find((v) => v.name.includes('Kyoko'));
+				selectedVoiceName = (kyoko ?? jaVoices[0]).name;
 			}
 		} else {
 			japaneseVoices = [];
