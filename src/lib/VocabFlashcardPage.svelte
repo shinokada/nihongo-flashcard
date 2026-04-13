@@ -350,6 +350,15 @@
 
 		<button
 			type="button"
+			class="inline-flex w-full items-center justify-center bg-gray-300 p-2 disabled:cursor-not-allowed disabled:opacity-50 sm:p-4 dark:bg-gray-700"
+			onclick={restart}
+			disabled={entries.length === 0}
+		>
+			RESTART
+		</button>
+
+		<button
+			type="button"
 			onclick={next}
 			class="inline-flex w-full items-center bg-gray-300 p-2 disabled:cursor-not-allowed disabled:opacity-50 sm:p-4 dark:bg-gray-700"
 			disabled={completed || deck.length === 0}
@@ -358,14 +367,6 @@
 			Forward
 		</button>
 
-		<button
-			type="button"
-			class="inline-flex w-full items-center justify-center bg-gray-300 p-2 disabled:cursor-not-allowed disabled:opacity-50 sm:p-4 dark:bg-gray-700"
-			onclick={restart}
-			disabled={entries.length === 0}
-		>
-			RESTART
-		</button>
 	</div>
 </div>
 
