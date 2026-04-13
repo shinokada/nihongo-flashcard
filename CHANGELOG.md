@@ -1,5 +1,13 @@
 # nihongo-flashcard
 
+## 1.6.2
+
+### Patch Changes
+
+- fix: SpeakButton.svelte:
+  - loadVoices(): if no ja-prefixed voices exist, falls back to all voices as candidates, and adds an else branch to clear state cleanly.
+  - doSpeak(): the fallback voice lookup (selectedVoiceName is empty) now also uses ?? voices[0] as a last resort, matching the norske behaviour, so speech fires even when no Japanese voice is identified.
+
 ## 1.6.0
 
 ### Minor Changes

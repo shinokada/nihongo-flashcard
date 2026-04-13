@@ -36,13 +36,18 @@
 
 	function loadVoices() {
 		if (typeof window === 'undefined' || !('speechSynthesis' in window)) return;
-		const jaVoices = window.speechSynthesis.getVoices().filter((v) => v.lang.startsWith('ja'));
-		if (jaVoices.length > 0) {
-			japaneseVoices = jaVoices;
-			if (!selectedVoiceName || !jaVoices.find((v) => v.name === selectedVoiceName)) {
-				const kyoko = jaVoices.find((v) => v.name.includes('Kyoko'));
-				selectedVoiceName = (kyoko ?? jaVoices[0]).name;
+		const all = window.speechSynthesis.getVoices();
+		const jaVoices = all.filter((v) => v.lang.startsWith('ja'));
+		const candidates = jaVoices.length > 0 ? jaVoices : all;
+		if (candidates.length > 0) {
+			japaneseVoices = candidates;
+			if (!selectedVoiceName || !candidates.find((v) => v.name === selectedVoiceName)) {
+				const kyoko = candidates.find((v) => v.name.includes('Kyoko'));
+				selectedVoiceName = (kyoko ?? candidates[0]).name;
 			}
+		} else {
+			japaneseVoices = [];
+			selectedVoiceName = '';
 		}
 	}
 
@@ -76,7 +81,7 @@
 			const voices = window.speechSynthesis.getVoices();
 			const japaneseVoice = selectedVoiceName
 				? voices.find((v) => v.name === selectedVoiceName)
-				: voices.find((v) => v.lang.startsWith('ja'));
+				: (voices.find((v) => v.lang.startsWith('ja')) ?? voices[0]);
 			if (japaneseVoice) utterance.voice = japaneseVoice;
 			// Set rate/pitch after voice to prevent browser resetting them
 			utterance.rate = parseFloat(speed);
