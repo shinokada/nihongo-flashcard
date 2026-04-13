@@ -1,5 +1,11 @@
 # nihongo-flashcard
 
+## 1.6.4
+
+### Patch Changes
+
+- fix: change >1 to >0
+
 ## 1.6.3
 
 ### Patch Changes

@@ -162,7 +162,7 @@
 <Modal bind:open={settingsOpen} title="Voice Settings" size="sm">
 	<div class="space-y-6">
 		<!-- Voice -->
-		{#if japaneseVoices.length > 1}
+		{#if japaneseVoices.length > 0}
 			<div>
 				<p class="mb-3 text-sm font-medium text-gray-700 dark:text-gray-300">Voice</p>
 				<select
